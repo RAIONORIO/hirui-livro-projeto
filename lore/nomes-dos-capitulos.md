@@ -1,0 +1,31 @@
+# Nomes dos capítulos
+
+- Capítulo 0 — O Homem que Nunca Aprendeu a se Curvar
+- Capítulo 1 — O Preço da Obediência
+- Capítulo 2 — A Dignidade Arrancada
+- Capítulo 3 — Um Acordo Feito nas Sombras
+- Capítulo 4 — O Sangue que Não é Humano
+- Capítulo 5 — Lembranças que Não Escolhemos
+- Capítulo 6 — O Preço do Amanhecer
+- Capítulo 7 — A Estrada Sem Volta
+- Capítulo 8 — A Casa Onde a Guerra Respira
+- Capítulo 9 — Frágeis Asas, Deveres de Aço
+- Capítulo 10 — Máscaras na Estrada
+- Capítulo 11 — A Estrada de Volta para Casa
+- Capítulo 12 — A Raposa no Mercado
+- Capítulo 13 — A Jornada para a Forja das Sombras
+- Capítulo 14 — O Retorno dos Feridos
+- Capítulo 15 — O Martelo e a Lâmina
+- Capítulo 16 — O Vale das Sombras
+- Capítulo 17 — As Marcações no Sangue
+- Capítulo 18 — Os Heróis Quebrados
+- Capítulo 19 — A Medida da Vitória
+- Capítulo 20 — O Amanhecer dos Três
+- Capítulo 21 — A Semente na Cinza
+- Capítulo 22 — O Sangue que nos Une
+- Capítulo 23 — A Colheita do Ódio
+- Capítulo 24 — O Pai da Floresta
+- Capítulo 25 — O Fio da Herança
+- Capítulo 26 — Sangue e Vermelhão
+- Capítulo 27 — O Espelho do Rei Demônio
+- Capítulo 28 — A Semente do Fogo Negro

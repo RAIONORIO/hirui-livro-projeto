@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+~$*.docx
+/dist/
+
+*.BACKUP.md
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
