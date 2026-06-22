@@ -6,6 +6,11 @@ ROOT = Path(__file__).resolve().parents[1]
 CAP_DIR = ROOT / "manuscrito" / "capitulos"
 OUT = ROOT / "site" / "index.html"
 
+# Estimativa de página literária.
+# Um livro impresso costuma variar bastante conforme fonte, margem e tamanho.
+# Aqui usamos 2000 caracteres como referência visual para o HTML.
+PAGE_CHAR_LIMIT = 2000
+
 CSS = """
 :root{
     --bg:#11100f;
@@ -116,10 +121,38 @@ body{
     line-height:1.15;
 }
 
+/* MARCAÇÃO DE PÁGINA SIMULADA */
+.page-marker{
+    max-width:680px;
+    margin:42px auto 38px;
+    display:flex;
+    align-items:center;
+    gap:18px;
+    color:#8a7359;
+    font-size:.74rem;
+    letter-spacing:.18em;
+    text-transform:uppercase;
+    user-select:none;
+}
+
+.page-marker::before,
+.page-marker::after{
+    content:"";
+    flex:1;
+    height:1px;
+    background:var(--rule);
+}
+
+.page-marker span{
+    white-space:nowrap;
+}
+
 /* MIOLO DO LIVRO */
 .body-text{
     max-width:680px;
     margin:0 auto;
+    word-break:normal;
+    overflow-wrap:normal;
 }
 
 .body-text p{
@@ -132,12 +165,6 @@ body{
     hyphens:none;
     overflow-wrap:normal;
     word-break:normal;
-}
-
-/* Evita que o navegador quebre palavras de forma feia */
-.body-text{
-    word-break:normal;
-    overflow-wrap:normal;
 }
 
 /* Separação elegante entre blocos especiais, caso apareçam */
@@ -192,11 +219,35 @@ body{
         overflow-wrap:normal;
         word-break:normal;
     }
+
+    .page-marker{
+        margin:34px auto 30px;
+        gap:12px;
+        font-size:.68rem;
+    }
 }
 """
 
 
-def titulo_por_nome_arquivo(path):
+def deve_ignorar(arquivo: Path) -> bool:
+    nome = arquivo.name.lower()
+
+    if not nome.endswith(".md"):
+        return True
+
+    if ".backup." in nome or nome.endswith(".backup.md"):
+        return True
+
+    if nome.startswith("_"):
+        return True
+
+    if not re.match(r"^\d+", arquivo.stem):
+        return True
+
+    return False
+
+
+def titulo_por_nome_arquivo(path: Path) -> str:
     nome = path.stem
     nome = re.sub(r"^\d+[-_ ]*", "", nome)
     nome = nome.replace("-", " ").replace("_", " ").strip()
@@ -219,14 +270,14 @@ def titulo_por_nome_arquivo(path):
     return " ".join(palavras)
 
 
-def numero_por_nome_arquivo(path):
+def numero_por_nome_arquivo(path: Path) -> int:
     match = re.match(r"^(\d+)", path.stem)
     if not match:
         return 0
     return int(match.group(1))
 
 
-def md_to_chapter(path):
+def md_to_chapter(path: Path) -> dict:
     text = path.read_text(encoding="utf-8").strip()
     lines = text.splitlines()
 
@@ -276,8 +327,34 @@ def md_to_chapter(path):
     }
 
 
+def marcador_pagina(numero: int) -> str:
+    return f'<div class="page-marker" id="pagina-{numero}"><span>Página {numero}</span></div>'
+
+
+def renderizar_paragrafos_com_paginas(paras: list[str], estado: dict) -> str:
+    partes = []
+
+    for p in paras:
+        tamanho = len(p)
+
+        if estado["chars_na_pagina"] > 0 and estado["chars_na_pagina"] + tamanho > PAGE_CHAR_LIMIT:
+            estado["pagina"] += 1
+            estado["chars_na_pagina"] = 0
+            partes.append(marcador_pagina(estado["pagina"]))
+
+        partes.append(f"<p>{html.escape(p)}</p>")
+        estado["chars_na_pagina"] += tamanho + 2
+
+    return "\n".join(partes)
+
+
 def main():
-    chapters = [md_to_chapter(p) for p in sorted(CAP_DIR.glob("*.md"))]
+    arquivos = [
+        p for p in sorted(CAP_DIR.glob("*.md"))
+        if not deve_ignorar(p)
+    ]
+
+    chapters = [md_to_chapter(p) for p in arquivos]
     chapters.sort(key=lambda c: c["num"])
 
     toc = "\n".join(
@@ -285,17 +362,36 @@ def main():
         for c in chapters
     )
 
+    estado_paginas = {
+        "pagina": 1,
+        "chars_na_pagina": 0
+    }
+
     body = []
+    primeira_secao = True
 
     for c in chapters:
-        paras = "\n".join(
-            f"<p>{html.escape(p)}</p>"
-            for p in c["paras"]
-        )
+        marcador_inicial = ""
+
+        if primeira_secao:
+            marcador_inicial = marcador_pagina(estado_paginas["pagina"])
+            primeira_secao = False
+        elif estado_paginas["chars_na_pagina"] > int(PAGE_CHAR_LIMIT * 0.72):
+            estado_paginas["pagina"] += 1
+            estado_paginas["chars_na_pagina"] = 0
+            marcador_inicial = marcador_pagina(estado_paginas["pagina"])
+
+        estado_paginas["chars_na_pagina"] += len(c["title"]) + 80
+
+        paras = renderizar_paragrafos_com_paginas(c["paras"], estado_paginas)
+
+        # Espaço estrutural entre capítulos também conta um pouco na simulação.
+        estado_paginas["chars_na_pagina"] += 300
 
         body.append(
             f'''
 <section class="chapter" id="cap-{c["num"]}">
+{marcador_inicial}
 <header>
 <span class="label">Capítulo {c["num"]}</span>
 <h2>{html.escape(c["title"])}</h2>
@@ -340,6 +436,7 @@ def main():
 
     print(f"HTML gerado em: {OUT}")
     print(f"Capítulos: {len(chapters)}")
+    print(f"Páginas simuladas: {estado_paginas['pagina']}")
 
 
 if __name__ == "__main__":
