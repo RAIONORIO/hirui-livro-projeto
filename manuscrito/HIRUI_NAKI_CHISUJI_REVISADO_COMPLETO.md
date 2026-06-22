@@ -1,105 +1,94 @@
-# HIRUI NAKI CHISUJI
-
-## Sinopse
-
-Num mundo feudal dilacerado pela guerra, o Clã Kurotsuki reina supremo há gerações. Sua força é lendária, seu domínio, absoluto. Dizem que sua vitória não vem apenas de espadas, mas de um pacto antigo com algo que habita as sombras.
-
-Quando Rin, uma jovem marcada pela perda, se vê forçada a fazer uma aliança perigosa com Katsuro, um capitão de um clã rival, ela acredita estar apenas jogando um jogo político mortal. Mas sua busca por justiça desenterra um segredo primitivo e adormecido, despertando forças que há muito foram confinadas à escuridão.
-
-Agora, uma guerra muito mais profunda começa. Uma guerra que testará os limites da lealdade, do sacrifício e da própria natureza humana. Porque alguns inimigos não estão do outro lado do campo de batalha. Eles estão dentro de você.
-
-ONI NO KOJI — Onde cada escolha tem um preço de sangue, e a maior batalha é contra a herança que você nunca pediu para ter.
-
----
-
 # Capítulo 0
+
 ## O Homem que Nunca Aprendeu a se Curvar
 
 O cheiro de ferro, suor e sopa rala impregnava o alojamento dos soldados Onizuka.
 
-Homens cansados ocupavam os bancos compridos de madeira, alguns limpando armaduras, outros dividindo pedaços endurecidos de pão enquanto reclamavam da próxima patrulha. O vento frio das montanhas atravessava as frestas das paredes, fazendo as chamas das lanternas vacilarem.
+Guerreiros cansados ocupavam os bancos compridos de madeira. Alguns limpavam placas de armadura com panos escuros de fuligem; outros dividiam pedaços endurecidos de pão, empurrando a comida com caldo ralo e silêncio gasto. O vento frio das montanhas atravessava as frestas das paredes, trazendo consigo a umidade da noite e fazendo as chamas das lanternas vacilarem.
 
-Takeshi Kurosawa estava sentado sobre um barril virado, afiando lentamente a própria espada.
+Takeshi Kurosawa estava sentado sobre um barril virado, com a espada apoiada sobre uma pedra de amolar.
 
-O som da pedra deslizando pela lâmina era calmo. Familiar.
+A lâmina deslizava devagar.
 
-— Aposto três moedas que o Capitão Goratsu aparece aqui nos próximos cinco minutos procurando alguém pra culpar.
+O som era baixo. Preciso. Familiar.
 
-Alguns soldados abafaram risadas.
+— Aposto três moedas que o capitão Goratsu aparece aqui nos próximos cinco minutos procurando alguém para culpar.
 
-— Você quer morrer mesmo, Takeshi? — murmurou um recruta, olhando nervosamente para a porta.
+Alguns guerreiros abafaram risadas.
 
-Takeshi deu de ombros sem erguer os olhos.
+Um recruta jovem, sentado perto dele, ergueu os olhos da tigela e olhou nervosamente para a porta.
+
+— Você quer morrer mesmo, Takeshi?
+
+Takeshi não interrompeu o movimento da pedra sobre o aço.
 
 — Se ele aprender a resolver os próprios problemas, eu paro de reclamar.
 
-Mais algumas risadas escaparam pelo alojamento.
+As risadas voltaram, mais soltas dessa vez, embora ainda presas atrás das mãos e dos dentes.
 
-Baixas. Cansadas.
+Era perigoso rir de Goratsu Onizuka.
 
-Era perigoso rir daquilo. Mas era impossível não rir.
+Mas era difícil não rir.
 
-Porque todos sabiam que era verdade.
+Todos ali conheciam a verdade. Goratsu sempre encontrava alguém para culpar. Um soldado lento. Um guarda distraído. Um arqueiro mal posicionado. Um mensageiro atrasado. Qualquer homem servia, desde que o erro nunca precisasse repousar sobre os ombros dele.
 
-Goratsu sempre encontrava alguém para culpar: um soldado lento, um guarda distraído, um arqueiro mal posicionado. Nunca ele próprio.
-
-Takeshi passou o polegar pelo fio da espada.
+Takeshi inclinou a espada sob a luz fraca da lanterna, examinando o fio.
 
 — Semana passada ele quase derrubou o próprio cavalo atravessando o rio — continuou. — Aposto que até hoje o animal está ofendido.
 
-Dessa vez as risadas vieram mais fortes.
+Dessa vez, as risadas vieram mais fortes.
 
-Até os veteranos no fundo do alojamento sorriram.
+Até alguns veteranos, homens que já haviam aprendido a esconder a opinião para conservar os dentes, deixaram escapar um sorriso.
 
-E foi exatamente nesse momento que a porta se abriu.
+Então a porta se abriu.
 
-O silêncio caiu de uma vez.
+O riso morreu como chama sufocada.
 
-Goratsu Onizuka entrou acompanhado de dois guardas pessoais. O uniforme impecável parecia deslocado naquele lugar tomado por lama, fumaça e homens exaustos.
+Goratsu Onizuka entrou no alojamento acompanhado de dois guardas pessoais. Usava um manto verde-escuro bordado sobre roupas limpas demais para aquele lugar. O tecido não carregava barro, suor ou sangue. A espada em sua cintura brilhava como objeto de cerimônia, não como arma de patrulha.
 
-Os olhos dele percorreram o alojamento lentamente.
+Ele parou logo após a entrada.
 
-Pararam nos soldados tentando esconder o riso.
+Os olhos percorreram o alojamento.
 
-Depois em Takeshi.
+Primeiro os homens que tentavam esconder o riso.
+
+Depois Takeshi.
 
 Ainda sentado.
 
-Ainda segurando a espada.
+Ainda afiando a espada.
 
 — Parece que entrei no meio de algo engraçado — disse Goratsu.
 
 Ninguém respondeu.
 
-Um dos recrutas abaixou a cabeça imediatamente.
+O recruta baixou a cabeça. Um veterano fingiu se interessar pela própria tigela. Outro ajustou a armadura como se uma correia frouxa pudesse explicar a culpa estampada no rosto.
 
-Outro fingiu ajustar a armadura.
+Takeshi continuou passando a pedra pela lâmina.
 
-Takeshi apenas continuou afiando a lâmina.
+Goratsu avançou entre os bancos. Suas botas batiam contra o chão de madeira num ritmo seco, calculado para ser ouvido.
 
-Goratsu começou a caminhar entre os bancos.
+— Então? — perguntou. — O que era tão engraçado?
 
-As botas limpas batiam secas contra o chão de madeira.
-
-— Então? — perguntou ele. — O que era tão engraçado?
-
-Silêncio.
+O alojamento permaneceu mudo.
 
 O capitão parou diante de Takeshi.
 
 — Kurosawa.
 
-Takeshi ergueu os olhos devagar.
+Takeshi ergueu os olhos.
 
 — Capitão.
 
-— Você quer repetir a piada?
+— Quer repetir a piada?
 
-Alguns soldados prenderam a respiração.
+A pedra parou sobre o aço.
 
-Takeshi apoiou os braços nos joelhos.
+Takeshi apoiou os antebraços nos joelhos e encarou Goratsu como se avaliasse o tempo antes de uma tempestade.
 
 — Não era uma piada.
+
+Alguns homens prenderam a respiração.
 
 O maxilar de Goratsu endureceu.
 
@@ -109,619 +98,1703 @@ Takeshi soltou uma breve risada pelo nariz.
 
 Pequena.
 
-Mas suficiente.
+Quase nada.
 
-E aquilo irritou Goratsu mais do que qualquer insulto direto poderia irritar.
+Mas suficiente para atravessar a pele fina do orgulho de Goratsu.
 
 — Você se acha melhor do que eu? — perguntou o capitão.
 
-Takeshi inclinou levemente a cabeça, observando-o por um instante antes de responder.
+Takeshi observou-o por um instante. Não havia pressa em sua resposta. Isso, mais do que a resposta em si, pareceu ferir Goratsu.
 
 — Acho que homem nenhum deveria liderar soldados sem saber o peso do que manda eles fazerem.
 
 O alojamento inteiro congelou.
 
-Ninguém se movia.
+Ninguém se moveu.
 
-Ninguém respirava direito.
+Ninguém respirou direito.
 
-Os guardas deram um passo à frente, mas Goratsu ergueu a mão, impedindo-os.
+Os dois guardas pessoais de Goratsu deram um passo à frente, mas ele ergueu a mão, impedindo-os. A raiva em seu rosto era evidente, mas havia algo pior por baixo dela: vergonha.
 
-O orgulho dele havia sido atingido diante dos próprios homens.
-
-E homens como Goratsu preferiam violência à humilhação.
+E vergonha, em homens como Goratsu, sempre procurava sangue para cobrir o próprio rosto.
 
 — Levante-se.
 
-Takeshi se levantou sem pressa.
+Takeshi permaneceu sentado por mais um segundo.
 
-Os dois ficaram frente a frente no centro do alojamento.
+Depois se levantou sem pressa.
 
-O fogo das lanternas tremulava entre eles.
+Os dois ficaram frente a frente no centro do alojamento. A luz das lanternas oscilava entre eles, desenhando sombras sobre a madeira úmida, sobre os rostos atentos, sobre as mãos que, pouco a pouco, se afastavam das tigelas e se aproximavam dos cabos das espadas.
 
 — Já que confia tanto na própria experiência... — disse Goratsu — vou lhe dar uma oportunidade.
 
-Os soldados começaram a trocar olhares nervosos.
+Os guerreiros trocaram olhares.
 
-Aquilo estava ficando perigoso rápido demais.
+Aquilo deixava de ser provocação.
 
-— Um combate — continuou o capitão. — Aqui. Diante de todos.
+Estava virando armadilha.
 
-Takeshi permaneceu em silêncio.
+— Um duelo — continuou o capitão. — Aqui. Diante de todos.
 
-Goratsu se aproximou mais um passo.
+Takeshi não respondeu.
 
-— Se vencer... estará livre do serviço ao Clã Onizuka. Sua dívida termina hoje.
+Goratsu aproximou-se mais um passo.
 
-O alojamento ficou imóvel.
+— Se vencer, estará livre do serviço ao Clã Onizuka. Sua dívida termina hoje.
+
+A palavra atravessou o alojamento como vento frio.
 
 Livre.
 
-A palavra parecia absurda.
+Por um instante, Takeshi esqueceu o cheiro de mofo, suor e ferrugem. Esqueceu o peso dos olhos sobre ele. Viu a cabana do pai. Viu Rin atravessando a estrada com fardos de couro nas costas. Viu Seijuro tossindo junto ao fogo, tentando esconder da filha a fraqueza do próprio corpo.
 
-Livre significava abandonar aquele inferno. Voltar para Rin. Cuidar de Seijuro antes que a doença o consumisse de vez.
+Livre significava voltar.
 
-Por um instante, algo atravessou o olhar de Takeshi.
+Livre significava cuidar dos seus.
 
-Esperança.
+Livre significava respirar sem pedir permissão aos Onizuka.
 
-Mas durou pouco.
+Mas esperança, naquela terra, sempre vinha com dentes.
 
-Goratsu sorriu de lado.
+Goratsu sorriu.
 
 — Mas se perder...
 
 — Não vou perder, Goratsu.
 
-O corte veio seco.
+O silêncio seguinte foi duro.
 
-Instantâneo.
+Takeshi dera o nome dele sem título.
 
-Alguns soldados fecharam os olhos.
-
-Takeshi deu mais um passo à frente.
-
-— Você só tem essa patente porque nasceu filho de Daikan. — disse calmamente. — Se fosse tratado como qualquer outro soldado... ainda estaria aprendendo qual lado da espada corta.
-
-O silêncio seguinte foi monstruoso.
-
-Nem o vento ousava entrar no alojamento.
-
-Porque todos ali entenderam a mesma coisa:
-
-Takeshi Kurosawa acabara de transformar um insulto em sentença de morte.
-
-Goratsu ficou imóvel.
-
-O rosto tremia.
-
-Não de medo.
-
-De raiva.
-
-O alojamento inteiro sentia aquilo crescendo nele como água fervendo dentro de uma panela fechada há tempo demais.
-
-Takeshi sustentava o olhar sem mover um músculo.
-
-Calmo.
-
-Aquilo era o pior.
-
-Então ele empurrou Takeshi com violência.
-
-O barril atrás de Takeshi tombou no chão.
-
-A madeira bateu forte contra o piso.
-
-Mas Takeshi não recuou nem meio passo.
-
-E sorriu.
-
-Foi isso.
-
-Foi aquele sorriso.
-
-A última coisa que Goratsu precisava ver.
-
-O capitão avançou primeiro.
-
-Sem ordem. Sem postura. Sem estratégia.
-
-Só ódio.
-
-O soco veio rápido, mirando o rosto.
-
-Takeshi desviou inclinando a cabeça por centímetros.
-
-O punho passou raspando.
-
-Goratsu tentou outro golpe imediatamente.
-
-Depois outro.
-
-Depois outro.
-
-Uma sequência brutal.
-
-Pesada.
-
-Descontrolada.
-
-Takeshi desviava de todos.
-
-Um passo para o lado.
-
-Um movimento de ombro.
-
-Um giro curto de cintura.
-
-Parecia irritantemente fácil.
-
-— Para de correr! — rugiu Goratsu.
-
-Takeshi riu baixo.
-
-— Você chama isso de velocidade?
-
-Aquilo piorou tudo.
-
-Goratsu partiu pra cima dele novamente.
-
-Dessa vez tentando agarrá-lo.
-
-Takeshi segurou o braço do capitão e girou o corpo.
-
-O próprio impulso de Goratsu o lançou contra uma mesa.
-
-Madeira partiu.
-
-Pratos explodiram no chão.
-
-Os soldados recuaram rapidamente, abrindo espaço no alojamento.
-
-Agora ninguém tentava impedir.
-
-Porque ninguém queria ficar no meio daquilo.
-
-Goratsu levantou quase imediatamente.
-
-O rosto vermelho.
-
-Respiração pesada.
-
-Vergonha queimando viva diante dos próprios homens.
-
-Ele atacou de novo.
-
-Soco.
-
-Cotovelada.
-
-Joelhada.
-
-Takeshi desviava de tudo.
-
-Sempre por pouco.
-
-Sempre olhando nos olhos dele.
-
-Aquilo enlouquecia Goratsu.
-
-Parecia que Takeshi estava lutando meio segundo no futuro.
-
-— ACERTA ELE! — gritou um soldado sem perceber.
-
-Algumas risadas escaparam.
-
-Erro terrível.
-
-Goratsu ouviu.
-
-E perdeu o resto da razão.
-
-Ele avançou berrando, tentando esmagar Takeshi na força.
-
-Takeshi simplesmente saiu da linha.
-
-Goratsu bateu de ombro numa coluna de madeira tão forte que a estrutura inteira tremeu.
-
-Antes que pudesse se virar, Takeshi acertou um soco seco em suas costelas.
-
-O ar saiu dos pulmões de Goratsu.
-
-Outro soco.
-
-Mesmo lugar.
-
-Mais um.
-
-Curto.
-
-Preciso.
-
-Sem desperdício.
-
-Goratsu tentou responder com um golpe largo.
-
-Takeshi segurou o pulso dele no meio do movimento.
-
-Olhou para o braço.
-
-Depois para Goratsu.
-
-— Tá vendo? — disse baixo. — É por isso que ninguém te respeita.
-
-E bateu a testa no rosto dele.
-
-Sangue espirrou do nariz de Goratsu.
-
-O capitão cambaleou pra trás.
-
-Os soldados agora observavam em choque absoluto.
-
-Porque aquilo não parecia uma luta equilibrada.
-
-Parecia um veterano ensinando uma lição cruel para um homem arrogante demais pra perceber a diferença entre raiva e combate.
-
-Goratsu rugiu e tentou avançar outra vez.
-
-Takeshi chutou a perna dele.
-
-Desequilíbrio.
-
-Cotovelada no rosto.
-
-Outro chute.
-
-Outro soco.
-
-Cada golpe desmontava Goratsu um pouco mais.
-
-Sem espetáculo.
-
-Sem técnica bonita.
-
-Só eficiência brutal.
-
-Goratsu ainda era forte.
-
-Ainda conseguia reagir.
-
-Acertou um soco no ombro de Takeshi.
-
-Outro no peito.
-
-Mas nenhum realmente entrava limpo.
-
-Porque Takeshi simplesmente... não estava onde deveria estar.
-
-Era humilhante.
-
-Cansativo.
-
-Desesperador.
-
-O capitão começou a errar mais.
-
-A respirar mais pesado.
-
-A atacar aberto demais.
-
-Takeshi percebeu.
-
-E terminou.
-
-Desviou de mais um soco.
-
-Entrou por dentro da guarda.
-
-Uma sequência seca atingiu o estômago de Goratsu.
-
-Costela.
-
-Queixo.
-
-Fígado.
-
-O capitão caiu de joelhos tossindo sangue e saliva no chão do alojamento.
-
-Tentou levantar.
-
-Takeshi chutou seu peito.
-
-Goratsu caiu de costas com violência.
-
-O silêncio agora era absoluto.
-
-Só se ouvia a respiração pesada dos dois.
-
-Takeshi caminhou até ele devagar.
-
-Sem pressa.
-
-Sem sorriso.
-
-Só raiva antiga.
-
-Anos dela.
-
-Então colocou a bota sobre a garganta de Goratsu.
-
-Pressão suficiente para fazê-lo engasgar.
-
-Os olhos do capitão queimavam de ódio.
-
-Mas agora havia outra coisa ali também.
-
-Humilhação.
-
-Takeshi se inclinou um pouco, ofegante.
-
-— E você queria liderar homens numa guerra. — disse baixo. — Mal consegue vencer uma briga dentro do próprio quartel.
-
-— G-GUARDAS!!! — o grito de Goratsu explodiu pelo alojamento, rouco de raiva e falta de ar.
-
-O silêncio morreu na mesma hora.
-
-Os dois guardas pessoais avançaram imediatamente.
-
-Takeshi nem tentou resistir quando seguraram seus braços.
-
-Nem por um segundo.
-
-Porque sabia.
-
-Todo homem naquele alojamento sabia.
-
-Se ele quisesse continuar... Goratsu ainda estaria no chão.
-
-Os dedos dos guardas apertavam seus braços com firmeza, mas havia hesitação ali. Desconforto. Nenhum deles olhava Takeshi diretamente nos olhos.
-
-E os outros soldados?
-
-Imóveis.
-
-Assistindo.
-
-Ninguém comemorava.
-
-Ninguém falava.
-
-Porque todos tinham visto a mesma coisa:
-
-o filho de Daikan havia sido espancado na frente do próprio quartel.
-
-Goratsu tentava recuperar a postura enquanto se levantava devagar.
-
-O peito subia pesado.
-
-Uma mão apoiada no chão.
-
-A outra apertando a própria garganta marcada pela bota de Takeshi.
-
-Quando conseguiu ficar de pé, permaneceu inclinado por um instante, puxando o ar entre os dentes, o cabelo caído sobre o rosto ensanguentado.
-
-A humilhação era quase palpável.
-
-Ele ergueu os olhos lentamente.
-
-E encontrou o olhar de Takeshi.
+Sem reverência.
 
 Sem medo.
 
-Aquilo queimou mais que os golpes.
+O rosto de Goratsu tremeu.
 
-Goratsu cuspiu sangue no chão.
+Takeshi deu um passo à frente.
 
-Depois apontou um dedo trêmulo para ele.
+— Você só tem essa patente porque nasceu filho de Daikan. Se fosse tratado como qualquer outro soldado, ainda estaria aprendendo qual lado da espada corta.
 
-— P-predam ele...! — rosnou, ainda tentando recuperar o fôlego. — PRENDAM ESSE DESGRAÇADO!
+Ninguém ousou rir.
 
-Os guardas apertaram Takeshi com mais força.
+Ninguém ousou falar.
 
-Mesmo assim, ele continuava parado.
+Todos entenderam ao mesmo tempo que Takeshi acabara de transformar insulto em sentença.
 
-Calmo.
+Goratsu puxou a espada.
 
-Quase irritantemente calmo.
+O aço saiu da bainha com um brilho frio.
 
-Um dos soldados mais velhos abaixou discretamente a cabeça.
+— Calem a boca — rosnou, embora ninguém estivesse falando.
 
-Outro virou o rosto para esconder um sorriso curto.
+Os guardas se afastaram. Os guerreiros sentados recuaram para as paredes, empurrando bancos, tigelas e bandejas. O centro do alojamento abriu-se como uma clareira cercada por homens famintos por um resultado e apavorados com suas consequências.
 
-Porque, pela primeira vez em muitos anos...
+Takeshi olhou para a lâmina de Goratsu.
 
-alguém havia feito Goratsu sangrar como um homem comum.
+Depois para o rosto dele.
+
+— Agora sim.
+
+Sua espada deixou a bainha sem espetáculo.
+
+As duas lâminas se encontraram no ar.
+
+O choque do aço cortou o silêncio.
+
+Goratsu atacou primeiro. Veio com força, os dois braços conduzindo a espada num arco pesado, feito para esmagar mais do que cortar. Takeshi desviou por pouco. A lâmina passou diante de seu rosto, levantando fios escuros de cabelo molhado.
+
+Outro golpe veio em seguida.
+
+Depois outro.
+
+Goratsu era rápido o bastante para assustar homens comuns. Forte o bastante para partir ossos. Havia treino em seu corpo, mas não havia domínio. Cada movimento carregava raiva demais. Cada corte revelava antes de chegar.
+
+Takeshi recuava apenas o necessário.
+
+Um passo.
+
+Um giro curto.
+
+A lâmina levantada no ângulo exato.
+
+Ele não desperdiçava movimento. Não lutava para impressionar os homens ao redor. Lutava como quem aprendera, anos antes, que sobreviver era melhor do que parecer bonito.
+
+— Pare de fugir! — gritou Goratsu.
+
+Takeshi baixou a espada, quase provocando-o a vir.
+
+— Você chama isso de velocidade?
+
+Goratsu avançou com um grito.
+
+A lâmina desceu contra Takeshi. Ele saiu da linha do golpe e atingiu a perna de Goratsu com a lateral do pé. O capitão tropeçou, mas não caiu. Recuperou-se rápido, com os olhos arregalados de ódio, e atacou de novo.
+
+O segundo choque de espadas arrancou faíscas.
+
+Os guerreiros ao redor prenderam a respiração.
+
+Goratsu pressionou a lâmina contra a de Takeshi, tentando vencê-lo na força. Por um instante, os rostos dos dois ficaram próximos. O suor escorria pelas têmporas de Goratsu. Takeshi permanecia imóvel, os olhos fundos e frios.
+
+— Vai se arrepender disso — sussurrou Goratsu.
+
+— Você disse que queria um duelo.
+
+Takeshi empurrou a espada dele para o lado e girou o corpo.
+
+Goratsu perdeu o equilíbrio por meio passo.
+
+Foi suficiente.
+
+Takeshi passou por baixo da guarda, não para cortar, mas para humilhar. A lâmina dele roçou o tecido do manto de Goratsu, abrindo um rasgo limpo na lateral bordada. O tecido caro se abriu como pele.
+
+Um murmúrio correu pelo alojamento.
+
+Goratsu olhou para o próprio manto.
+
+Depois para Takeshi.
+
+Sua raiva deixou de ser humana por um instante.
+
+Ele atacou com fúria total.
+
+As lâminas se encontraram uma, duas, três vezes. Goratsu empurrava, avançava, tentava obrigar Takeshi a recuar até a parede. Takeshi cedia espaço como quem entregava terreno envenenado. Quando Goratsu ergueu a espada alto demais, Takeshi entrou por dentro da guarda e atingiu seu pulso com o cabo da própria arma.
+
+A mão de Goratsu tremeu.
+
+A lâmina baixou.
+
+Takeshi chutou sua perna.
+
+O capitão caiu de joelhos.
+
+O choque do corpo contra as tábuas fez o alojamento inteiro estremecer.
+
+Por um momento, ninguém acreditou no que via.
+
+Goratsu Onizuka, filho de Daikan, ajoelhado diante de um soldado.
+
+Takeshi permaneceu de pé atrás dele, espada em punho, respiração pesada, o rosto coberto de suor e sombra.
+
+Goratsu apoiou uma mão no chão, tentando se levantar. Os olhos dele estavam arregalados, não apenas de dor. Havia espanto ali. A pergunta saiu quase sem voz.
+
+— Você... quem diabos é você?
+
+Takeshi olhou para ele sem qualquer triunfo.
+
+— Um soldado.
+
+A palavra pareceu pior do que um insulto.
+
+Goratsu virou o rosto para seus guardas.
+
+— Segurem ele! Agora!
+
+Os dois guardas hesitaram.
+
+A hesitação durou pouco. Obedeceram.
+
+Avançaram sobre Takeshi pelas laterais. Ele não tentou cortar nenhum dos dois. Poderia ter reagido. Todos ali perceberam isso. A espada ainda estava em sua mão, e os guardas não eram melhores que ele.
+
+Mesmo assim, Takeshi permitiu que segurassem seus braços.
+
+Um deles arrancou a lâmina de sua mão.
+
+O outro apertou seu ombro com força.
+
+Takeshi manteve a cabeça erguida.
+
+— Eu já sabia — disse, olhando para Goratsu. — Sabia que você não cumpriria sua palavra. Sabia que não me libertaria.
+
+Goratsu, ainda de joelhos, respirava como animal encurralado.
+
+Takeshi continuou, a voz baixa, mas clara o bastante para alcançar todos os homens do alojamento.
+
+— É por isso que ninguém respeita você. Não consegue fazer nada sozinho. Quando perde, chama outros para resolver por você.
+
+O rosto de Goratsu se contorceu.
+
+— Cale a boca.
+
+— Hoje ficou provado — disse Takeshi. — Você é apenas um homem medíocre. Sua patente existe por causa do seu pai. Não por causa de você.
+
+Goratsu ergueu-se num movimento brusco, cambaleando. O sangue escorria de um corte no canto de sua boca. A mão apertava o cabo da espada como se quisesse atravessar Takeshi ali mesmo.
+
+— Levem ele para a prisão! Agora!
+
+Os guardas começaram a arrastar Takeshi.
+
+Ele não resistiu. Apenas virou o rosto para Goratsu uma última vez.
+
+— Agora eles viram.
+
+Goratsu estreitou os olhos.
+
+— O quê?
+
+— Que você não é o homem que finge ser.
+
+Por um instante, o alojamento pareceu perder todo som.
+
+Então Goratsu ergueu a espada, a raiva finalmente vencendo qualquer resto de prudência.
+
+— Levem ele!
+
+Os guardas puxaram Takeshi com brutalidade.
+
+A porta se abriu antes que atravessassem o alojamento.
+
+A luz fria da chuva entrou primeiro.
+
+Depois a voz.
+
+— Já chega.
+
+Todos se curvaram.
+
+Até Goratsu.
+
+Daikan Onizuka estava parado à entrada, protegido da chuva por dois homens armados. Usava um manto escuro com bordados discretos, pesado não pelo ouro, mas pela autoridade. Não precisava gritar. Não precisava se mover depressa. Homens como Daikan não corriam até o poder. O poder vinha até eles e se ajoelhava.
+
+Seu olhar percorreu o alojamento.
+
+Viu as mesas quebradas, as tigelas espalhadas, as lâminas ainda fora das bainhas, o sangue no rosto do filho e Takeshi imobilizado entre dois guardas.
+
+Daikan entrou.
+
+As botas tocaram a madeira molhada.
+
+Ninguém ousou levantar a cabeça.
+
+— Quem venceu o duelo?
+
+O silêncio apertou o alojamento.
+
+Um guerreiro mais velho, ajoelhado entre os outros, engoliu em seco.
+
+— Foi Takeshi, meu senhor.
+
+O olhar de Daikan pousou em Goratsu.
+
+— Então por que ele está preso?
+
+Goratsu deu um passo à frente.
+
+— Ele me insultou. Desrespeitou a hierarquia. É perigoso. Ele...
+
+Daikan ergueu um dedo.
+
+Goratsu calou-se.
+
+— Eu não perguntei isso.
+
+O golpe foi silencioso, mas atingiu mais fundo do que qualquer lâmina.
+
+Daikan voltou-se para os guardas.
+
+— Soltem-no.
+
+Os homens obedeceram imediatamente.
+
+Takeshi endireitou os ombros. Os pulsos estavam marcados pela pressão das mãos dos guardas, mas sua postura continuava intacta.
+
+Daikan aproximou-se.
+
+Goratsu permaneceu atrás, pálido de raiva.
+
+— Você venceu o duelo? — perguntou Daikan.
+
+— Sim.
+
+— Goratsu prometeu liberdade caso você vencesse?
+
+Takeshi sustentou o olhar do senhor Onizuka.
+
+— Sim.
+
+— Está livre? — perguntou Daikan, quase com tédio.
+
+Takeshi ficou em silêncio por um instante.
+
+— Foi o que ele prometeu.
+
+Daikan observou o próprio filho pelo canto dos olhos.
+
+— Goratsu não tem autoridade para libertar homens que pertencem ao meu serviço. O compromisso dele não vale mais que a vergonha que acabou de passar.
+
+O rosto de Goratsu fechou-se.
+
+Takeshi não desviou o olhar.
+
+— Então não houve duelo. Houve teatro.
+
+Uma tensão breve atravessou os homens ao redor.
+
+Daikan não se ofendeu. Apenas estudou Takeshi como se ele fosse uma ferramenta útil, talvez perigosa demais para ficar solta.
+
+— Você estará livre — disse ele, virando-se para a porta — quando eu decidir que estará.
+
+A chuva rugia do lado de fora.
+
+Daikan caminhou até a saída.
+
+Antes de cruzar o batente, falou sem olhar para trás:
+
+— Todos dispensados.
+
+Nenhum homem se moveu até que ele desaparecesse sob a chuva.
+
+Só então os guerreiros começaram a respirar.
+
+Takeshi permaneceu no centro do alojamento, a espada caída a seus pés, o rosto imóvel.
+
+Goratsu estava alguns passos atrás, ainda sujo de derrota.
+
+Seus olhos não deixaram Takeshi.
+
+E, naquele olhar, não havia mais apenas raiva.
+
+Havia promessa.
+
+Na manhã seguinte, o salão de audiências dos Onizuka cheirava a madeira encerada, incenso barato e medo antigo.
+
+Os guerreiros do clã ocupavam os dois lados do salão, ajoelhados em fileiras. Ao fundo, sobre uma elevação de madeira escura, Daikan Onizuka estava sentado como se o peso da casa inteira repousasse sobre seus ombros e ainda assim não fosse suficiente para curvá-lo.
+
+Goratsu entrou pelos portões centrais com dois guardas atrás de si.
+
+Ajoelhou-se diante do pai.
+
+A testa quase tocou o chão.
+
+— Tenho algo grave para relatar.
+
+Daikan não se inclinou.
+
+— Continue.
+
+Goratsu manteve a cabeça baixa por tempo suficiente para parecer humilde.
+
+Só o suficiente.
+
+— Durante a última patrulha noturna, Takeshi Kurosawa desviou suprimentos militares pertencentes ao clã.
+
+Um murmúrio baixo percorreu o salão.
+
+Daikan não reagiu.
+
+— Quando foi confrontado por um soldado da patrulha — continuou Goratsu —, ele o matou.
+
+O murmúrio cresceu.
+
+Daikan ergueu a mão.
+
+O salão se calou.
+
+— Quando isso aconteceu?
+
+— Durante a última patrulha noturna.
+
+— Quem mais presenciou?
+
+Goratsu respirou fundo, como quem esperava a pergunta.
+
+— Meus dois guardas estavam presentes.
+
+Daikan olhou para os homens atrás do filho.
+
+— Eles viram tudo?
+
+Os dois guardas permaneceram imóveis.
+
+O primeiro respondeu:
+
+— Sim, meu senhor.
+
+O segundo baixou a cabeça logo depois.
+
+— Sim.
+
+Daikan os observou em silêncio.
+
+O silêncio dele era pior que qualquer grito. Não absolvia. Não condenava. Apenas pressionava até que cada homem revelasse, pelo suor ou pelo tremor, o quanto valia.
+
+— Então vamos ouvi-los.
+
+Goratsu ergueu o rosto.
+
+— Agora?
+
+Daikan finalmente olhou para ele.
+
+— Existe algum motivo para não fazê-lo agora?
+
+Goratsu baixou os olhos.
+
+— Não, meu senhor.
+
+— Onde está Takeshi?
+
+— Em serviço.
+
+— Mandem chamá-lo.
+
+O tempo que se seguiu pareceu comprido demais.
+
+Ninguém falava. O salão inteiro aguardava em uma imobilidade forçada, como se cada guerreiro tivesse se tornado parte da madeira escura. Goratsu continuava ajoelhado, mas seus olhos brilhavam com uma satisfação mal escondida.
+
+Quando os portões se abriram outra vez, a luz do dia invadiu o salão.
+
+Takeshi entrou sozinho.
+
+Trazia o mesmo manto escuro, ainda marcado pelo combate da noite anterior. O cabelo caía molhado sobre o rosto. Caminhou pelo centro do salão sem se curvar aos homens nas laterais e parou diante da elevação onde Daikan o observava.
+
+— Chamou por mim, meu senhor?
+
+Daikan apoiou os dedos no braço da cadeira.
+
+— Disseram que você roubou do meu clã.
+
+Takeshi não olhou para Goratsu.
+
+— Isso é mentira.
+
+— Tenho testemunhas — disse Goratsu, sem conseguir conter-se. — Eles viram você desviar os suprimentos. E também viram quando matou o soldado que tentou impedi-lo.
+
+Os murmúrios voltaram.
+
+Dessa vez mais densos.
+
+Takeshi virou o rosto devagar para Goratsu.
+
+O capitão sorria.
+
+Daikan bateu uma vez os dedos contra a madeira.
+
+O som bastou.
+
+— Chega.
+
+O salão se calou novamente.
+
+Daikan olhou para Takeshi por um longo momento. O rosto dele não mostrava surpresa, dúvida ou indignação. Apenas cálculo.
+
+— Takeshi Kurosawa será preso imediatamente — declarou. — Haverá um julgamento público. A sentença será anunciada diante de todo o clã.
+
+Takeshi não protestou.
+
+Não suplicou.
+
+Apenas encarou Daikan.
+
+Dois guardas se aproximaram e prenderam seus braços.
+
+Goratsu observava tudo com o canto da boca curvado.
+
+Takeshi foi levado para as celas sob o edifício principal.
+
+O corredor era estreito, úmido, iluminado por tochas que queimavam com pouca força. O ar cheirava a pedra molhada, ferrugem e urina velha. Atrás das grades, alguns prisioneiros ergueram os olhos por um instante e logo os baixaram, como se até olhar demais pudesse virar crime.
+
+Takeshi foi acorrentado dentro de uma cela vazia.
+
+Os guardas fecharam a grade.
+
+O som do ferro ecoou pelo corredor.
+
+Horas depois, passos retornaram.
+
+Calmos.
+
+Sem pressa.
+
+Goratsu apareceu diante da cela, agora limpo, vestido novamente como capitão. Havia marcas roxas sob o colarinho e um corte mal fechado perto da boca. Ele não conseguia esconder tudo. Nem com seda. Nem com autoridade.
+
+Takeshi estava de pé, os braços presos por correntes fixadas à parede.
+
+— Então é assim que termina — disse Goratsu.
+
+Takeshi ergueu os olhos.
+
+— Veio até aqui só para dizer isso?
+
+Goratsu sorriu.
+
+— Você nunca entendeu como este mundo funciona, Takeshi.
+
+A chama da tocha tremia entre os dois.
+
+— Homens como você acreditam que a verdade importa — continuou ele. — Que justiça existe. Que vencer diante dos outros muda alguma coisa.
+
+Takeshi permaneceu calado.
+
+Goratsu se aproximou das grades.
+
+— A verdade não decide nada. O poder decide.
+
+O sorriso dele se alargou.
+
+— Amanhã o corpo do soldado será encontrado. As testemunhas falarão. As provas aparecerão.
+
+Takeshi observou-o por um instante.
+
+— Então foi você.
+
+Goratsu inclinou a cabeça, satisfeito.
+
+— Claro que fui. Eu sempre consigo o que quero.
+
+As correntes rangeram quando Takeshi fechou os punhos.
+
+Goratsu percebeu o movimento e gostou dele.
+
+— Você é apenas uma peça descartável. Uma peça que meu pai não precisa. Quando o julgamento terminar, ninguém sequer lembrará seu nome.
+
+Takeshi não desviou os olhos.
+
+— Você está com medo.
+
+O sorriso de Goratsu vacilou.
+
+Foi quase nada.
+
+Mas Takeshi viu.
+
+— Se realmente acreditasse que venceu — continuou —, não teria vindo até aqui.
+
+O rosto de Goratsu endureceu.
+
+Por um momento, apenas o fogo falou entre os dois.
+
+Então Goratsu se afastou das grades.
+
+— Isso é o que vamos descobrir amanhã.
+
+Virou-se e começou a caminhar pelo corredor.
+
+As tochas alongaram sua sombra sobre as pedras molhadas, deformando sua figura até que ela parecesse maior do que realmente era.
+
+Takeshi permaneceu imóvel na cela.
+
+As correntes pesavam em seus pulsos.
+
+Do lado de fora, a chuva começou a cair outra vez.
+
+E, pela primeira vez naquela noite, o alojamento, o duelo e a promessa quebrada pareceram pequenos diante do que viria.
+
+Amanhã, não julgariam apenas um soldado.
+
+Julgariam a utilidade de uma mentira.
 
 ---
 
 # Capítulo 1
+
 ## O Preço da Obediência
 
 Rin Kurosawa conhecia o preço das coisas.
 
-O couro pendurado em suas costas. Os remédios do pai. Os impostos de Daikan Onizuka.
+Conhecia o peso do couro pendurado nas costas, o valor instável das peles no mercado, o cheiro amargo dos remédios que Seijuro precisava tomar e o som seco das moedas desaparecendo nas mãos dos cobradores de Daikan Onizuka. Enquanto atravessava a praça principal do domínio, fazia contas em silêncio. Apertava a alça gasta da carga contra o ombro e somava tudo com uma precisão cansada: quanto receberia pelas peles, quanto perderia nos impostos, quanto ainda restaria para comprar ervas, arroz e óleo para a lâmpada. Depois vinha a conta que nunca fechava: quanto tempo ainda havia antes que a tosse de seu pai piorasse de vez.
 
-Enquanto atravessava a praça, fazia contas em silêncio, os dedos apertando a alça gasta da carga. Quanto receberia pelas peles. Quanto perderia para os cobradores. Quanto tempo restava até a tosse de Seijuro piorar de vez.
+A manhã estava clara, mas a cidade parecia coberta por uma sujeira antiga. As ruas de pedra tinham poças secas de lama, marcas de rodas e restos de palha pisoteada. Mercadores gritavam preços, mulheres discutiam diante das bancas de peixe, crianças atravessavam a multidão com cestos vazios, e soldados Onizuka passavam entre todos como se a própria presença deles bastasse para estreitar o ar. As bandeiras do clã pendiam dos telhados e das torres, imóveis demais sob o vento fraco. Rin caminhava de cabeça baixa, não por submissão, mas por hábito. Em terras Onizuka, encarar demais era uma forma lenta de pedir punição.
 
-Então o barulho cessou.
+Ela já estava perto das bancas de curtume quando percebeu que o barulho havia mudado.
 
-Não aos poucos. De uma vez.
+Não foi aos poucos. Não foi um murmúrio que cresceu ou um chamado que se espalhou pela praça. Foi como se alguém tivesse fechado uma mão sobre a garganta da cidade. As vozes cessaram, as negociações morreram no meio das frases, e até as crianças pararam de correr. Rin ergueu os olhos.
 
-A praça inteira pareceu prender a respiração.
+No centro da praça, uma multidão se amontoava diante de um palanque de madeira escura. Guardas armados cercavam a estrutura, lanças firmes, rostos fechados, armaduras negras marcadas pelo símbolo dos Onizuka. Acima deles, sob panos pesados com o emblema do clã, Daikan Onizuka estava de pé. Sua barba grisalha permanecia perfeitamente aparada, as mãos repousavam atrás do corpo e o olhar frio parecia já ter decidido o destino de todos antes que qualquer palavra fosse dita. Ao lado dele, Goratsu Onizuka mantinha o queixo erguido sob um manto limpo demais para a praça. Tentava parecer intacto, mas havia um inchaço mal escondido perto da boca e uma rigidez estranha nos ombros.
 
-No centro, sobre um palanque de madeira, estava Daikan Onizuka. A barba grisalha perfeitamente alinhada. As mãos cruzadas atrás do corpo. O olhar frio de um homem acostumado a decidir quem vive e quem morre.
-
-Ao lado dele, Goratsu.
-
-Jovem. Impecável. Sorrindo.
+Mesmo ferido no orgulho, Goratsu sorria.
 
 Ajoelhado diante dos dois, acorrentado pelos pulsos, estava Takeshi Kurosawa.
 
-O mundo de Rin vacilou.
+O mundo de Rin vacilou. A carga de peles pareceu se tornar pesada demais para suas costas, e por um instante ela deixou de ouvir os passos, os sussurros e o rangido das bandeiras. Viu apenas o irmão. Takeshi estava com o rosto marcado por hematomas, a roupa escura manchada de lama e sangue seco, os pulsos presos por correntes grossas que mordiam a pele. Mesmo assim, mantinha a cabeça erguida. Havia cansaço em seus olhos, mas não havia arrependimento. Havia dor, mas não submissão.
 
-O rosto do irmão estava coberto de hematomas, mas ele mantinha a cabeça erguida. Teimoso até o fim.
+Teimoso até o fim, como sempre.
 
-— Takeshi Kurosawa! — anunciou Daikan, sua voz atravessando a praça silenciosa. — Você é acusado de insubordinação, desvio de recursos militares e desacato à autoridade do Capitão Goratsu Onizuka.
+Rin tentou dar um passo, mas a multidão a engoliu. Um homem esbarrou em seu ombro, uma mulher puxou uma criança para trás e alguém murmurou o nome de Takeshi com medo, como se até pronunciá-lo pudesse atrair punição. Ela empurrou o caminho com o corpo, a respiração presa, enquanto Daikan avançava até a borda do palanque.
 
-Goratsu avançou um passo.
+— Takeshi Kurosawa — anunciou Daikan.
 
-— Ele esqueceu o próprio lugar — disse, apontando para Takeshi como se mostrasse um animal morto. — E homens assim precisam servir de exemplo.
+A voz dele atravessou a praça como lâmina sobre pedra. Ninguém respondeu. Ninguém ousou tossir.
 
-Um murmúrio percorreu a multidão.
+— Você foi trazido diante deste domínio para responder por crimes contra o Clã Onizuka. Desvio de suprimentos militares, insubordinação, desrespeito à autoridade do capitão Goratsu Onizuka e assassinato de um soldado durante a patrulha noturna.
 
-Daikan ergueu a mão, encerrando qualquer reação antes que ela crescesse.
+Rin sentiu o ar fugir dos pulmões. Assassinato. A palavra caiu sobre a praça com o peso de uma sentença, não de uma acusação. Alguns homens trocaram olhares. Mulheres levaram as mãos à boca. Crianças foram puxadas para trás dos adultos. Naquele domínio, o medo aceitava mentiras com facilidade, porque duvidar exigia coragem, e coragem era uma moeda que quase ninguém podia gastar.
 
-— A sentença será executada ao amanhecer. Enforcamento público.
+Takeshi não se moveu.
 
-Rin não se lembraria de ter começado a correr.
+Goratsu deu um passo à frente, saboreando o silêncio. Tinha o rosto de quem esperara a noite inteira por aquele momento, de quem havia ensaiado cada gesto diante de um espelho e ainda assim não conseguia esconder a raiva ferida.
 
-Só das pessoas se chocando contra seu corpo. De uma cesta caindo no chão. Do som de frutas rolando pela poeira.
+— Ele esqueceu o próprio lugar — disse, apontando para Takeshi como se exibisse um animal capturado. — Um homem acolhido pelo nosso clã, alimentado pelas nossas provisões, protegido pelas nossas muralhas. E ainda assim ousou cuspir na mão que o manteve vivo.
 
-Quando percebeu, estava ajoelhada diante do palanque.
+A multidão reagiu em murmúrios. Rin apertou a alça da carga com tanta força que sentiu o couro cortar a palma. Takeshi ergueu os olhos para Goratsu, mas não respondeu. Esse silêncio pareceu incomodar mais do que qualquer insulto. Goratsu queria medo, queria súplica, queria uma explosão que confirmasse a imagem que estava tentando vender à praça. Takeshi lhe deu desprezo.
 
-— Senhor Onizuka... — sua voz falhou. Ela tentou outra vez. — Por favor... meu irmão é inocente.
+Daikan ergueu a mão e os murmúrios morreram.
 
-Os olhos de Daikan desceram até ela sem pressa.
+— As testemunhas foram ouvidas. As evidências foram apresentadas ao conselho do clã. O acusado não está aqui para negociar sua culpa, mas para ouvir a consequência dela.
 
-Rin abaixou a cabeça antes que a coragem desaparecesse.
+Rin empurrou mais uma fileira de pessoas. O corpo dela já não obedecia ao cuidado. As peles escorregavam das costas, o cabelo grudava no rosto, e cada batida do coração parecia repetir a mesma coisa: não, não, não.
 
-— Eu pago. Dou tudo o que temos. Trabalho para o senhor pelo resto da vida, se quiser. Mas poupe meu irmão.
+Takeshi finalmente falou, baixo, mas firme.
 
-Silêncio.
+— Isso é mentira.
 
-Ela sentia os olhares da praça queimando sua pele. Pena em alguns. Medo em outros.
+A frase não buscou a multidão. Não pediu compaixão. Foi dita como uma pedra colocada diante de uma porta.
 
-Humilhação em todos.
+Daikan não olhou para ele de imediato. Observou a praça, como se medisse o efeito daquela negação nos rostos ao redor. Depois desceu os olhos até Takeshi, com uma calma que fez Rin sentir frio.
 
-Lágrimas desciam pelo rosto de Rin, abrindo trilhas limpas na poeira grudada à pele.
+— A verdade não se torna menor porque um condenado a nega.
 
-Do alto da varanda do edifício administrativo, alguém observava.
+— Eu não roubei suprimento nenhum — disse Takeshi. — E não matei soldado algum.
 
-Katsuro, capitão do Clã Hayashi.
+Goratsu soltou uma risada curta.
 
-Imóvel.
+— Naturalmente. Homens culpados sempre descobrem a própria inocência quando a corda se aproxima do pescoço.
 
-Ele viera negociar uma aliança. Encontrou outra coisa.
+Takeshi virou o rosto para ele.
 
-Não desviou os olhos quando Rin caiu de joelhos. Não desviou quando Goratsu sorriu.
+— Você sabe o que aconteceu.
 
-Nem quando percebeu que aquilo não era justiça.
+O sorriso de Goratsu vacilou. Foi rápido, quase imperceptível, mas Rin viu. Talvez porque conhecesse Takeshi bem demais. Talvez porque, quando a mentira tremia, ela fazia um som diferente. Goratsu recompôs a expressão e avançou outro passo, mas Daikan o conteve com um simples movimento dos dedos.
 
-Era um aviso.
+— Chega — disse o senhor Onizuka. — Takeshi Kurosawa, por seus crimes contra este clã, você será mantido preso até o amanhecer. Ao nascer do sol, a sentença será executada diante de todos.
 
-Rin permaneceu curvada na poeira, as mãos trêmulas contra o chão frio.
+Rin não sentiu a carga cair. Só ouviu o impacto das peles contra a poeira depois que já estava correndo. Abriu caminho entre corpos, ombros, cestos e bancas, sem pedir licença. Alguém gritou quando ela derrubou frutas no chão. Outro tentou segurá-la pelo braço, mas ela se soltou. Não lembraria depois dos rostos que atravessou, nem das vozes que a chamaram de louca. Lembraria apenas do palanque crescendo diante dela e de Takeshi acorrentado, imóvel, como se já tivesse aceitado a dor para que ela não precisasse aceitá-la também.
 
-Então ouviu o som das correntes.
+Quando percebeu, estava ajoelhada diante da estrutura.
 
-Takeshi estava sendo arrastado para longe.
+A poeira grudou em seus joelhos e nas mãos abertas contra o chão. Rin abaixou a cabeça antes que a coragem a abandonasse. Não era a primeira vez que se curvava por necessidade, mas nunca havia sentido tanto nojo de si mesma por isso.
 
-E foi o único som que restou no mundo.
+— Senhor Onizuka... por favor.
+
+Daikan olhou para ela sem pressa. O silêncio que veio dele foi uma resposta antes da resposta. Rin sentiu a praça inteira se virar para sua humilhação.
+
+— Meu irmão é inocente — disse ela, com a voz falhando apesar do esforço para mantê-la firme. — Ele não roubou nada. Ele não matou ninguém. Eu pago pelo prejuízo que disserem que houve. Dou as peles, dou o dinheiro, trabalho para o senhor pelo resto da vida se for preciso. Mas poupe meu irmão.
+
+A multidão permaneceu imóvel. Ninguém se aproximou. Ninguém disse que ela estava certa. A compaixão, quando existia, se escondia atrás dos olhos baixos. Ali, todos sabiam que a injustiça era mais segura quando assistida em silêncio.
+
+Goratsu inclinou a cabeça, fingindo ternura.
+
+— Uma irmã dedicada — disse. — Comovente.
+
+Takeshi puxou as correntes. O ferro bateu contra a madeira do palanque, seco e furioso.
+
+— Rin.
+
+Ela ergueu os olhos. Takeshi balançou a cabeça quase imperceptivelmente. Ele tentava dizer sem palavras que ela não devia se curvar mais, não diante deles, não diante daquela praça. Mas Rin já estava no chão. Já havia dado a Daikan exatamente o que ele queria: uma irmã reduzida à súplica diante de um poder que se alimentava de obediência.
+
+— Se a inocência pudesse ser comprada por lágrimas — disse Daikan —, nenhuma lei sobreviveria até o inverno.
+
+Rin sentiu cada palavra pressionar sua nuca contra a poeira.
+
+— Senhor, eu imploro...
+
+— Implorar não muda o crime.
+
+— Não houve crime.
+
+A frase escapou antes que ela pudesse segurá-la. Não foi um grito, mas também não foi uma súplica. E isso bastou. O silêncio que se formou depois pareceu mais frio que a manhã. Goratsu levou a mão ao cabo da espada, mas Daikan não se moveu. Apenas observou Rin com uma atenção calma e cruel. Ela percebeu tarde demais que havia levantado a cabeça, que seus olhos estavam nos dele, que sua voz, por um breve instante, deixara de pedir permissão para existir.
+
+Daikan desceu um degrau do palanque. Não precisou mais do que isso para que as pessoas próximas recuassem.
+
+— Menina — disse ele, sem elevar a voz —, há pessoas que confundem amor com direito. Você ama seu irmão. Isso é compreensível. Mas amor não pesa mais que a palavra de um senhor, nem apaga o sangue de um soldado morto.
+
+O nome do soldado morto não foi dito. Ninguém perguntou. Ninguém pareceu precisar dele. Essa era a parte mais cruel da mentira: ela nem precisava de rosto para ser aceita.
+
+— Levem o prisioneiro — ordenou Daikan.
+
+Os guardas puxaram Takeshi. As correntes arrastaram sobre a madeira, e Rin avançou por instinto, mas dois soldados a seguraram pelos ombros antes que ela alcançasse os degraus.
+
+— Takeshi!
+
+Ele virou o rosto. Por um instante, toda a praça desapareceu entre eles. Takeshi estava ferido, acorrentado e condenado, mas ainda parecia mais preocupado com ela do que consigo mesmo. Aquilo quase a quebrou.
+
+— Cuida do pai — disse ele.
+
+A voz não saiu alta, mas Rin a ouviu como se tivesse sido dita dentro de seu peito.
+
+Os guardas o arrastaram para longe. O som das correntes se tornou o único som do mundo. Ferro contra madeira. Ferro contra pedra. Ferro levando seu irmão para uma morte marcada antes que o sol seguinte nascesse.
+
+Do alto de uma varanda lateral, sob a sombra do edifício administrativo, Katsuro Morikawa observava sem mover um músculo.
+
+Viera ao domínio Onizuka como capitão ligado ao Clã Hayashi, enviado para negociar uma aliança que poderia mudar o equilíbrio entre fronteiras, rotas e velhas dívidas. Esperava encontrar ambição, orgulho e desconfiança. Isso era normal entre clãs. O que encontrou foi outra coisa: um julgamento encenado, uma sentença pronta e uma fissura aberta no coração da autoridade de Daikan.
+
+Katsuro não desviou os olhos quando Rin caiu de joelhos. Não desviou quando Goratsu sorriu, nem quando Takeshi foi levado. Observou Daikan, depois Goratsu, depois a multidão que fingia acreditar para não pagar o preço da dúvida. Por fim, olhou para Rin.
+
+Ela ainda estava ajoelhada na poeira. As mãos tremiam contra o chão, mas não apenas de dor. Havia raiva ali, crua e recém-nascida, pequena demais para ser rebelião e perigosa demais para ser ignorada.
+
+Katsuro conhecia aquele tipo de silêncio. Era o som que uma guerra fazia antes de começar.
+
+A praça voltou a respirar aos poucos. Bancas foram reerguidas, cestos recolhidos, mercadores retomaram seus lugares com vozes menores. A vida recomeçou a fingir normalidade com uma pressa indecente. Para Rin, nada havia voltado. Nada voltaria. Ela tentou se levantar, mas as pernas falharam. Caiu outra vez sobre as pedras, os dedos afundando na poeira, enquanto o último rastro de Takeshi desaparecia atrás dos portões do edifício Onizuka.
+
+As pessoas passaram a evitá-la. Não por desprezo, pelo menos não todas. Algumas desviavam o olhar por vergonha. Outras por medo. Um velho recolheu uma das peles caídas, hesitou e a deixou perto dela antes de se afastar depressa, como se até um gesto de piedade pudesse ser usado como prova. Rin não agradeceu. Não tinha voz para isso.
+
+O céu começou a escurecer quando a praça finalmente esvaziou ao redor dela. O peso da cidade pareceu mudar. Onde antes havia multidão, restaram pedras sujas, marcas de passos e o cheiro de madeira úmida do palanque. Rin estava de joelhos, mas por dentro algo permanecia de pé, rígido, recusando-se a aceitar a sentença como verdade.
+
+— Levante-se.
+
+A voz veio de trás.
+
+Rin se virou devagar. Um homem estava parado a alguns passos, vestindo roupas escuras de corte refinado, com detalhes discretos em azul profundo. Tinha cabelo longo, negro, preso apenas o suficiente para não esconder o rosto. A espada repousava à cintura sem ostentação. Ele não parecia um soldado comum, nem um nobre do tipo que precisava ser anunciado para exigir espaço. Havia nele uma quietude perigosa, como se cada gesto tivesse sido calculado antes mesmo de nascer.
+
+Rin apoiou uma das mãos na pedra e se ergueu com dificuldade.
+
+— Quem é você?
+
+— Katsuro Morikawa — respondeu ele. — Sou membro do Clã Hayashi.
+
+O nome do clã fez Rin apertar os olhos. Hayashi. Um dos grandes clãs. Um nome que circulava em sussurros quando comerciantes falavam de fronteiras, guerras e alianças. Um nome distante demais da vida dela para estar ali, diante de sua miséria, como se tivesse saído de uma sombra.
+
+— Então por que está falando comigo?
+
+Katsuro olhou para o palanque vazio.
+
+— Porque eu estava lá.
+
+Rin sentiu a garganta apertar.
+
+— Então sabe que ele é inocente.
+
+— Não — disse Katsuro.
+
+A resposta foi fria o suficiente para fazê-la recuar meio passo.
+
+— Eu não sei disso — continuou ele. — Mas sei reconhecer um julgamento decidido antes de começar.
+
+Rin encarou o homem, tentando encontrar nele compaixão, mentira ou ameaça. Não encontrou nenhuma das três com clareza. Katsuro parecia olhar para o mundo como quem desmontava uma armadilha peça por peça.
+
+— Então você também percebeu — disse ela.
+
+— Percebi que a pergunta errada é se seu irmão é culpado. A pergunta certa é quem precisava que ele fosse condenado.
+
+O vento correu pela praça quase vazia e arrastou poeira entre os dois. Rin pensou em Goratsu, no sorriso dele, no inchaço perto da boca, na raiva mal disfarçada quando Takeshi o encarou. Pensou em Daikan, no modo como havia transformado a súplica dela em lição pública.
+
+— Por que está me dizendo isso?
+
+— Porque talvez ainda exista uma chance para seu irmão.
+
+O coração de Rin bateu com força, mas ela não se permitiu agarrar aquela frase rápido demais. Esperança, em terras Onizuka, costumava vir com dentes escondidos.
+
+— Você pode ajudá-lo?
+
+— Posso tentar — disse Katsuro. — Tenho influência suficiente para conseguir acesso ao caso. Talvez consiga atrasar a execução. Talvez consiga obrigar Daikan a ouvir algo além da versão de Goratsu.
+
+— Por quê?
+
+Katsuro a observou em silêncio por um instante. Quando respondeu, sua voz continuou baixa, mas perdeu qualquer traço de gentileza.
+
+— Porque nada é gratuito entre os grandes clãs.
+
+Rin sentiu o pouco calor que havia nascido no peito se apagar.
+
+— O que quer em troca?
+
+— Seu serviço.
+
+Ela endureceu.
+
+— Meu serviço?
+
+— Quando eu pedir — disse Katsuro. — Você conhece esta cidade. Conhece pessoas, caminhos, lugares onde homens como eu não entram sem serem vistos. Preciso de alguém capaz de enxergar o que meus homens não enxergam.
+
+— Quer me transformar em informante.
+
+— Quero alguém que sobreviva tempo suficiente para ser útil.
+
+Rin deu um passo para trás. A raiva voltou, misturada ao cansaço.
+
+— Meu irmão vai morrer ao amanhecer e você está me oferecendo negócio?
+
+— Estou oferecendo a única coisa que ainda existe. Tempo.
+
+A resposta ficou entre eles como uma lâmina. Rin quis odiá-lo por aquilo. Quis dizer que não precisava de sua frieza, que encontraria outro caminho, que salvaria Takeshi sozinha. Mas a praça vazia ao redor respondia por ela. Ninguém havia se levantado. Ninguém havia falado. Ninguém enfrentaria Daikan por um Kurosawa condenado.
+
+— E se eu recusar? — perguntou.
+
+— Então nada muda. Seu irmão continuará condenado, eu voltarei para meu clã, e Daikan fará ao amanhecer o que decidiu fazer antes mesmo de ouvir qualquer testemunha.
+
+Rin desviou o olhar. O céu sobre a cidade começava a adquirir tons de cobre sujo. O frio subia das pedras. Em algum lugar atrás das muralhas, Takeshi estava preso, talvez ferido, talvez sozinho. Em casa, Seijuro a esperava sem saber que o filho havia sido condenado à morte.
+
+— Você está falando sério? — perguntou ela.
+
+— Eu não faço promessas — respondeu Katsuro. — Apenas negócios.
+
+Rin apertou os punhos. A vontade de acertá-lo era quase tão forte quanto a vontade de aceitar. Isso a irritou ainda mais.
+
+— Certo — disse ela, por fim. — Eu aceito.
+
+Katsuro inclinou a cabeça, sem sorrir.
+
+— Então temos um acordo, Rin Kurosawa.
+
+O som do nome dela na boca dele pareceu estranho. Não havia intimidade ali, mas havia reconhecimento. E naquele dia, depois de se ajoelhar diante de toda a cidade e ser tratada como nada, ser chamada pelo nome já parecia perigoso.
+
+— Volte para casa — disse Katsuro. — Amanhã começarei a procurar respostas.
+
+— E Takeshi?
+
+— Amanhã falarei com Daikan.
+
+— Isso não é suficiente.
+
+— É o que existe.
+
+Rin engoliu a resposta. Sabia que ele tinha razão, e odiava isso. Recolheu as peles caídas, uma por uma, sentindo a poeira grudada nelas. Quando colocou a carga de volta sobre os ombros, o peso pareceu menor do que antes, não porque estivesse leve, mas porque algo pior já havia se instalado dentro dela.
+
+Katsuro se afastou primeiro, sem olhar para trás. Rin ficou alguns instantes parada no meio da praça vazia, observando a direção por onde Takeshi fora levado. Depois se virou para o caminho de casa.
+
+Não percebeu os dois homens que a seguiram.
+
+Eles se mantiveram distantes no início, sombras entre ruelas e lanternas acesas. Rin atravessou a cidade com passos rápidos, tentando ignorar a sensação de estar sendo observada. As ruas se estreitavam conforme ela se afastava da praça. O barulho dos mercados ficava para trás, substituído por janelas fechadas, becos úmidos e o rangido de placas de madeira. O céu escurecia depressa. No domínio Onizuka, a noite parecia sempre chegar antes da hora.
+
+Quando alcançou o caminho que subia em direção à velha cabana de caça de Seijuro, a sensação se tornou certeza.
+
+Havia passos atrás dela.
+
+Rin não olhou de imediato. Aprendera com o pai que medo mostrado cedo demais era convite. Continuou andando, a mão descendo aos poucos até o cabo da pequena lâmina presa sob a roupa. As árvores fechavam o caminho à frente, e a lua começava a surgir entre nuvens rasgadas. Ao longe, a cidade brilhava em pontos fracos de lamparina, pequena e indiferente.
+
+Os passos continuaram.
+
+Rin respirou fundo. Depois correu.
+
+A carga de peles bateu contra suas costas, galhos rasparam seu rosto e pedras soltas escorregaram sob seus pés. Atrás dela, os homens também aceleraram. Não eram ladrões comuns. Corriam com disciplina, sem gritar, sem tropeçar, mantendo distância suficiente para cercá-la quando ela cansasse. Rin sentiu o pânico subir pela garganta, mas o engoliu. Pânico não abria portas. Pânico não segurava lâminas.
+
+A cabana apareceu entre as árvores como um animal velho encolhido sob a noite. Era pequena, de madeira escura, usada por Seijuro nos tempos em que ainda conseguia caçar. Rin atravessou a lama até a entrada, empurrou a porta e entrou rápido. Fechou a tranca com as mãos trêmulas.
+
+Lá dentro, o ar cheirava a madeira úmida, couro velho e cinza fria. A luz de uma lamparina quase morta desenhava sombras entre ferramentas, cordas, peles penduradas e uma mesa estreita. Rin encostou as costas na parede, puxou a lâmina e tentou controlar a respiração. Lá fora, os passos pararam.
+
+— Ela está aqui — disse uma voz abafada pela madeira.
+
+Outra respondeu mais baixo:
+
+— Não tem para onde fugir.
+
+Rin fechou os dedos ao redor da faca. O coração batia tão forte que ela temeu que os homens pudessem ouvi-lo. Pensou em Seijuro sozinho em casa, tossindo no escuro. Pensou em Takeshi acorrentado. Pensou no rosto de Daikan quando a condenação fora anunciada. Se morresse ali, morreria sem ter feito nada. Sem salvar ninguém. Sem sequer entender a armadilha que havia se fechado sobre sua família.
+
+Ela se agachou junto à parede, próxima o suficiente da porta para atacar a primeira sombra que entrasse.
+
+Então ouviu o som de metal.
+
+Um golpe. Depois outro. O ruído seco de corpos se chocando contra madeira molhada. Um grito engolido rápido demais. Passos rasgando folhas. A lâmina de Rin tremeu entre seus dedos, mas ela não se moveu. O barulho continuou por poucos instantes, intenso, brutal e confuso. Depois cessou.
+
+O silêncio que veio em seguida foi pior.
+
+Rin permaneceu imóvel, respirando pela boca. Os minutos se arrastaram. Lá fora, nenhuma voz. Nenhum passo. Nenhuma ordem. A noite parecia escutar a cabana junto com ela.
+
+Não tenho escolha, pensou. Preciso ver o que aconteceu.
+
+Ela ergueu a mão até a tranca. O clique pareceu alto demais. Abriu a porta apenas uma fresta, com a lâmina pronta. A lua iluminava o caminho diante da cabana. A névoa rastejava entre as raízes, e folhas se moviam sob o vento frio.
+
+Katsuro estava parado do lado de fora.
+
+Rin abriu mais a porta, surpresa e irritada ao mesmo tempo.
+
+— Katsuro...?
+
+Ele não parecia ofegante. A roupa escura se movia com o vento, e a mão repousava próxima à espada. Havia uma mancha escura na manga, talvez lama, talvez sangue. O rosto dele continuava sereno demais para alguém que surgira no meio da noite diante da cabana onde ela esperava morrer.
+
+— Eu não estava procurando você — disse ele. — Estava seguindo eles.
+
+Rin olhou para a mata atrás dele.
+
+— Então aqueles homens vieram atrás de mim?
+
+— Sim.
+
+— E não estavam tentando me assustar.
+
+Katsuro sustentou o olhar dela.
+
+— Vieram para matar.
+
+A frase entrou devagar. Rin já suspeitava, mas ouvir em voz alta tornou tudo mais pesado. A mão dela apertou a faca. Não por defesa, agora, mas para impedir que tremesse.
+
+— Onde estão?
+
+— Foram embora.
+
+Ela estreitou os olhos.
+
+— Só assim?
+
+— Eles não vão incomodar você novamente. É tudo o que precisa saber.
+
+Rin saiu da cabana, ainda com a faca em mãos. O chão perto da entrada estava marcado por pegadas fundas e rastros arrastados pela lama. Katsuro não explicou. Ela percebeu que ele não explicaria mesmo se pedisse.
+
+— Não vejo nenhum rastro deles.
+
+— Homens treinados sabem esconder passos — disse Katsuro. — Homens mortos também não fazem barulho.
+
+Rin encarou-o, mas ele não confirmou nem negou. Aquela frieza deveria assustá-la. Assustou. Ainda assim, não tanto quanto a ideia de que Daikan ou Goratsu haviam mandado matá-la poucas horas depois da condenação de Takeshi.
+
+— Quem eram aqueles homens?
+
+— Homens enviados por alguém que não quer você viva até o amanhecer.
+
+— Você sabe quem mandou?
+
+— Tenho uma suspeita.
+
+— Então por que me salvou? Isso também faz parte da sua suspeita?
+
+Katsuro desviou o olhar para a mata. A lua iluminava metade de seu rosto; a outra metade permanecia tomada pela sombra.
+
+— Não — disse ele. — Essa foi uma decisão minha.
+
+Rin não respondeu. Havia algo na voz dele que não combinava com a frieza de antes. Não era bondade aberta, nem arrependimento. Era uma rachadura pequena. O tipo de coisa que homens como Katsuro provavelmente escondiam melhor do que ferimentos.
+
+— Por quê? — perguntou ela.
+
+Ele demorou a responder.
+
+— Porque alguém já tentou fazer a mesma coisa comigo. E ninguém apareceu para impedir.
+
+O silêncio entre eles mudou. Rin não sabia o que fazer com aquela confissão. Não sabia se era verdade, manipulação ou as duas coisas ao mesmo tempo. Em homens ligados a clãs grandes, até a dor podia ser usada como moeda.
+
+— Alguém tentou matar você — disse ela.
+
+— Sim.
+
+— Mais do que deveria?
+
+Katsuro olhou para ela, e por um instante sua expressão perdeu a dureza. Não muito. O suficiente para que Rin percebesse que havia uma história ali, enterrada sob disciplina, sangue e rancor.
+
+— Mais do que deveria — respondeu ele.
+
+O vento passou entre as árvores. Rin percebeu de repente o quanto estava cansada. As pernas doíam, os joelhos ainda ardiam da praça, e a mão que segurava a faca parecia pertencer a outra pessoa. Mesmo assim, o pensamento voltou para Seijuro.
+
+— Meu pai está sozinho — disse ela. — Preciso voltar.
+
+— Deveria ter ido para casa desde o início.
+
+— Eu estava sendo seguida.
+
+— Eu sei.
+
+A irritação dela voltou, porque era mais fácil sustentar raiva do que medo.
+
+— Você sempre fala como se já soubesse tudo?
+
+— Só quando a alternativa é perder tempo.
+
+Rin guardou a faca, mas não se afastou da porta.
+
+— E Takeshi? O que vai acontecer com ele?
+
+Katsuro olhou para a trilha que descia em direção à cidade. Ao longe, as primeiras luzes do domínio tremiam como brasas presas à terra.
+
+— Amanhã vou falar com Daikan. Não posso prometer absolvição. Não posso prometer liberdade. Mas posso tentar comprar a vida do seu irmão.
+
+— Comprar?
+
+— Essa é a língua que homens como Daikan entendem.
+
+Rin sentiu vontade de dizer que a vida de Takeshi não era mercadoria. Mas naquele dia tudo havia sido vendido: justiça, verdade, silêncio, medo. Talvez Takeshi também pudesse ser comprado, se esse fosse o único modo de mantê-lo respirando.
+
+— Quem é você, Katsuro Morikawa? — perguntou ela.
+
+Ele virou o rosto de leve.
+
+— Alguém que não desperdiça palavras com assuntos sem importância.
+
+— E meu irmão é importante?
+
+— Hoje, sim.
+
+A resposta deveria ofendê-la. Em parte, ofendeu. Mas também havia nela uma honestidade seca que parecia menos perigosa do que a falsa compaixão de Goratsu.
+
+— Vá para casa, Rin Kurosawa — disse Katsuro. — Seu pai precisa de você. E, se ainda houver algo a salvar, precisaremos chegar vivos ao amanhecer.
+
+Katsuro se afastou pela trilha antes que ela pudesse responder. O manto escuro dele desapareceu entre a névoa e as árvores, engolido pela noite como se sempre tivesse pertencido a ela. Rin ficou parada diante da cabana, ouvindo o vento bater nas folhas, a mão próxima à faca, o coração ainda em guerra contra o próprio corpo.
+
+Depois olhou para a cidade.
+
+Preciso voltar, pensou. Meu pai está sozinho.
+
+Ela desceu o caminho com cuidado, sem correr. A cada sombra, esperava outro ataque. A cada ruído, via guardas surgindo entre as árvores. Mas a trilha permaneceu vazia. A lua acompanhou seus passos até os telhados baixos do domínio, e quando Rin finalmente chegou à casa simples onde vivia com Seijuro, a noite já começava a perder força nas bordas do céu.
+
+Seijuro estava acordado.
+
+Sentado junto à janela, envolto em mantas, parecia menor do que fora no dia anterior. A luz fraca da lamparina aprofundava as rugas do rosto e fazia seus cabelos grisalhos parecerem cinza úmida. Quando Rin entrou, ele ergueu os olhos devagar. Não perguntou onde ela estivera. Talvez porque já soubesse. Talvez porque o sofrimento dela tivesse entrado antes de seu corpo.
+
+— Rin — disse ele.
+
+A voz veio gasta, arranhada pela tosse.
+
+Ela fechou a porta e ficou parada por um momento, tentando encontrar uma forma de dizer que Takeshi seria executado ao amanhecer, que Daikan havia feito da praça um altar de humilhação, que homens tinham sido enviados para matá-la e que um estranho do Clã Hayashi talvez fosse a única chance de seu irmão sobreviver. Não encontrou uma forma. Algumas notícias eram grandes demais para atravessar a boca sem destruir algo.
+
+Seijuro estendeu a mão.
+
+Rin foi até ele e se ajoelhou. Dessa vez não diante de Daikan, não diante de um palanque, não diante de uma multidão covarde. Ajoelhou-se diante do pai porque as pernas não suportavam mais o peso do dia. Seijuro tocou seus cabelos com dedos trêmulos, e Rin abaixou a cabeça.
+
+— Takeshi... — começou ela.
+
+A tosse de Seijuro cortou o ar. Ele levou a manga à boca, curvou-se e demorou a recuperar o fôlego. Rin segurou seu ombro até o tremor passar. Quando ele respirou de novo, havia nos olhos dele uma tristeza antiga, como se já esperasse que o mundo voltasse a cobrar algo dos Kurosawa.
+
+— Conte — disse ele.
+
+Rin contou.
+
+Não tudo. Não ainda. Mas contou o suficiente para ver o rosto do pai endurecer com uma dor silenciosa. Seijuro não gritou, não amaldiçoou Daikan, não prometeu invadir prisão alguma. Apenas fechou os olhos por um instante. Esse gesto pequeno doeu mais do que uma explosão de raiva.
+
+Do lado de fora, a madrugada começou a clarear.
+
+Em algum lugar dentro das muralhas Onizuka, Takeshi permanecia acorrentado em uma cela fria, com o corpo ferido e os pulsos presos ao ferro. A luz do amanhecer ainda não alcançava as pedras, mas ele sabia que ela viria. Todo condenado conhece o som da manhã antes mesmo que ela chegue.
+
+Em outro ponto do domínio, Katsuro Morikawa caminhava sozinho pela estrada úmida que levava ao coração do poder Onizuka. A neblina subia dos campos, as bandeiras negras balançavam sobre os portões e os guardas observavam sua aproximação com mãos próximas às espadas. Ele não reduziu o passo.
+
+A cidade despertava sem saber se veria uma execução ou o começo de algo pior.
+
+E, no alto das montanhas, além das casas, dos palanques e das mentiras humanas, as árvores antigas permaneciam imóveis sob a primeira luz. Havia lugares onde o sangue deixava marcas mais profundas que correntes. Havia nomes que os homens evitavam pronunciar. Havia dívidas que nenhum clã conseguia enterrar para sempre.
+
+O sol nasceu sobre o domínio Onizuka como se não tivesse vergonha de iluminar aquilo.
 
 ---
 
 # Capítulo 2
-## A Dignidade Arrancada
 
-O som dos grilhões de Takeshi sendo arrastados para longe ecoava na praça mais silenciosa que Rin já tinha visto. Cada choque de ferro contra pedra era uma facada em seu peito. A poeira que engolira ao se atirar no chão misturava-se às lágrimas, formando uma pasta grossa que grudava em seu rosto.
+## O Preço da Vida
 
-Aos poucos, o burburinho da multidão retornou — um zumbido baixo, feito de sussurros e passos apressados. Rin sentia os olhares como agulhas cravadas em suas costas. Alguns camponeses a observavam com pena, os próprios ombros curvados sob o mesmo jugo invisível. Outros desviavam o rosto, fingindo não ver a mulher destruída aos pés do palanque, temerosos de chamar a atenção errada.
+Ao amanhecer, o domínio Onizuka parecia menos uma cidade e mais uma ferida envernizada.
 
-Goratsu cuspiu no chão, perto dela. O sorriso cruel permanecia intacto.
+As primeiras luzes tocavam os telhados escuros, as torres de vigia, os estandartes negros bordados em dourado e as pedras ainda úmidas das ruas. Camponeses cruzavam os caminhos com cestos presos às costas, carroças rangiam sob sacos de arroz e barris de sal, e soldados observavam tudo do alto das muralhas como se cada respiração dentro daquele território precisasse de permissão. O castelo erguia-se no centro da cidade, grande demais para parecer abrigo, belo demais para esconder aquilo que realmente era.
 
-— Vermes sempre se arrastam — disse, virando-se para o pai. — Acham que lágrimas amolecem a lei.
+Uma ameaça.
 
-Daikan não se dignou a olhar para Rin novamente. Para ele, ela já havia deixado de existir. Um problema resolvido. Um aviso dado. Com um gesto brusco da mão, ordenou que os guardas dispersassem a multidão. O espetáculo chegara ao fim.
+Katsuro Morikawa atravessou os portões sem pressa. O manto escuro se movia atrás dele com o vento da manhã, e a bainha da espada batia de leve contra sua perna a cada passo. Dois guardas o observaram com atenção, mas nenhum ousou barrar seu caminho. Sabiam quem ele era. Ou, no mínimo, sabiam o bastante para não transformar uma ordem mal interpretada em funeral.
 
-Mas para Rin, nada havia terminado.
+O capitão do Clã Hayashi havia chegado ao domínio Onizuka como emissário. Deveria falar de alianças, fronteiras, suprimentos, rotas militares e da ameaça crescente no leste. Deveria discutir guerra com homens que fingiam entender de paz. Mas, desde a tarde anterior, outro assunto se colocara diante dele com a inconveniência de uma lâmina encostada na garganta.
 
-O desespero agudo que a fizera suplicar congelou-se em seu estômago, transformando-se em algo pesado e frio. Suas mãos, ainda pressionadas contra a terra, fecharam-se lentamente até os nós dos dedos ficarem brancos. As lágrimas continuavam a cair, mas já não eram de súplica. Eram de fúria. Uma fúria silenciosa, impotente, assassina.
+Takeshi Kurosawa.
 
-Ela ergueu a cabeça apenas o suficiente para ver Daikan e Goratsu descendo do palanque. Viu a nuca de seu irmão sendo empurrada para dentro do armazém que servia de prisão. Cada imagem queimava em sua mente como um ferro em brasa.
+O nome ainda ecoava na praça como se as pedras o tivessem absorvido. Katsuro vira o julgamento. Vira as acusações serem recitadas com a segurança de quem não precisava provar nada. Vira Daikan Onizuka transformar uma sentença em espetáculo e Goratsu sorrir diante de um homem acorrentado. Também vira Rin Kurosawa ajoelhar-se diante do palanque, oferecendo o pouco que tinha por uma vida que já fora vendida antes mesmo de ser condenada.
 
-— É uma vergonha... — sussurrou um homem próximo. — Takeshi sempre foi um bom homem.
+Katsuro não gostava de interferir em assuntos alheios. Assuntos alheios costumavam sangrar nas mãos de quem tocava neles. Ainda assim, havia coisas que um homem reconhecia quando via, mesmo que preferisse não reconhecer.
 
-— Cala a boca! — respondeu uma mulher, puxando-o para longe. — Quer acabar com ele? E ela... se arrastou assim... não tem mais dignidade.
+Aquela sentença não era justiça.
 
-As palavras a atingiram, mas não doeram mais do que o som das correntes levando seu irmão. Dignidade. Ela a havia oferecido a Daikan, e ele a cuspir de volta. O que sobrava quando não se tinha mais dignidade?
+Era utilidade política vestida de lei.
 
-Com o corpo tremendo — não de fraqueza, mas de adrenalina contida — Rin se levantou. Seus olhos vermelhos varreram a praça que se esvaziava. Foi então que seu olhar encontrou outro, imóvel, na varanda de um edifício administrativo.
+Quando chegou ao pátio interno, um oficial Onizuka o aguardava próximo às escadas do salão principal. O homem inclinou a cabeça com rigidez, mantendo a mão perto da espada.
 
-Katsuro.
+— Capitão Katsuro. O senhor Daikan está esperando.
 
-Os olhos deles se cruzaram por um instante que pareceu eterno. Ele não desviou. Não havia julgamento, nem pena. Apenas análise. Como se ele não visse apenas uma mulher humilhada, mas a fissura aberta na frágil paz daquele vilarejo.
+Katsuro parou diante dele por um instante. Seus olhos passaram pelo brasão dourado preso no peito do oficial, pela postura disciplinada, pelo medo bem escondido na garganta.
 
-Um calafrio percorreu Rin. Um estranho, um possível aliado de Daikan, testemunhara sua completa ruína. O que ele faria com esse conhecimento?
+— Então não convém fazê-lo esperar.
 
-Não houve tempo para pensar. Um nome ecoou mais alto que a vergonha.
+O oficial desviou o olhar primeiro. Pequenas vitórias eram patéticas, mas ainda assim revelavam a estrutura do mundo.
 
-Pai.
+As portas do salão se abriram com um rangido pesado. O interior brilhava com madeira polida, lanternas altas, painéis pintados e colunas marcadas pelo símbolo Onizuka. A riqueza ali não era delicada; era agressiva. Cada detalhe parecia existir para lembrar aos visitantes que aquele clã não precisava pedir nada a ninguém. Podia tomar, comprar ou esmagar.
 
-Ela se virou abruptamente e deixou a praça. O caminho para casa, antes familiar, agora parecia atravessar território inimigo.
+No fundo do salão, sobre um assento elevado, Daikan Onizuka esperava. Vestia verde profundo e ouro, como na praça, mas ali sua presença parecia ainda mais calculada. Não precisava erguer a voz. Não precisava mover-se. A sala inteira já se organizava em torno dele.
 
-Sabia que não chegaria ao vilarejo antes do anoitecer. No meio do trajeto, parou em uma cabana simples, onde costumava passar a noite e guardar algumas peles. Ali, pelo menos, poderia se esconder.
+Goratsu estava à direita do pai, de braços cruzados, sorrindo com impaciência. O rosto ainda carregava marcas mal disfarçadas, e talvez por isso seu sorriso parecesse mais feroz do que satisfeito. Homens assim sempre confundiam humilhação com combustível. O problema era que costumavam incendiar a casa errada.
 
-A cabana cheirava a mofo, terra úmida e couro cru. Rin movia-se entre as peles esticadas como um fantasma, as mãos trabalhando por hábito enquanto a mente revivia cada segundo da praça: a voz de Daikan, o sorriso de Goratsu, o som das correntes.
+Katsuro caminhou até o centro do salão e inclinou-se apenas o suficiente para cumprir o protocolo.
 
-Ela não ouviu os passos.
+— Senhor Daikan.
 
-A silhueta de um homem preenchendo a entrada foi como um choque de água gelada. Vieram me buscar, pensou. O pânico foi instantâneo. Sua mão fechou-se no cabo liso da faca de curtidor. A lâmina, feita para rasgar couro espesso, reluziu à luz fraca.
+— Capitão Katsuro — respondeu Daikan, observando-o como quem avaliava uma lâmina antes de decidir se a comprava ou a quebrava. — Sua presença a esta hora é inesperada.
 
-Rin avançou com um grito rouco, um ataque bruto e desesperado.
+Goratsu soltou uma pequena risada pelo nariz, como se qualquer gesto de Katsuro fosse uma afronta pessoal. Katsuro ignorou. Ignorar Goratsu exigia menos esforço do que suportá-lo.
 
-O homem não desembainhou a espada. Com um movimento mínimo, desviou do golpe. Ela atacou novamente, e novamente encontrou apenas o ar. Na terceira investida, seu pulso foi capturado por uma mão firme. A pressão era suficiente para imobilizá-la, não para machucá-la.
+— Preciso discutir o destino de um prisioneiro.
 
-— Eu não vim para te fazer mal — disse ele, com voz calma.
+O salão pareceu perder parte do calor. Alguns guardas trocaram olhares discretos. Daikan não se moveu.
 
-Rin ofegava, o ódio e o medo queimando em seus olhos.
+— Um prisioneiro? — perguntou ele. — Você atravessou minha propriedade por causa de um único homem?
 
-— Você não é um dos homens de Daikan?
+— O nome dele é Takeshi Kurosawa — disse Katsuro. — O homem condenado ontem.
 
-— Não. Sou Katsuro, do clã Hayashi. Estou aqui para uma negociação de aliança.
+Goratsu inclinou a cabeça, e o sorriso desapareceu por um instante.
 
-Ele soltou o pulso dela devagar, mantendo o olhar fixo, deixando claro que não era uma ameaça. Rin recuou um passo, a faca ainda trêmula em sua mão.
+— Kurosawa — murmurou, com desprezo. — Então é sobre ele.
 
-— Então por que está aqui? — perguntou.
+Daikan ergueu dois dedos, pedindo silêncio sem olhar para o filho.
 
-— Vi o que aconteceu na praça. — Ele fez uma pausa. — Notei dois homens de Daikan seguindo você quando saiu da cidade. Interferi. Disse que dessem meia-volta. Vim confirmar que você estava bem.
+— Continue.
 
-O olhar dele percorreu a cabana precária.
+Katsuro manteve o rosto impassível.
 
-— Não é mais seguro para você andar sozinha.
+— Quero comprar a liberdade dele.
 
-A adrenalina começou a se dissipar, deixando Rin exausta. Ela baixou a faca. A desconfiança permanecia, mas se fosse uma armadilha, ele já teria a dominado.
+A frase caiu no salão com a violência de uma pedra em água parada. Os homens próximos às paredes ficaram rígidos. Goratsu deu um passo à frente antes mesmo de pensar, e isso, por si só, já dizia muito sobre ele.
 
-Sentaram-se em caixas de madeira, enquanto a noite caía do lado de fora. Aos poucos, Rin falou. As palavras saíam em fragmentos amargos. Contou como Daikan poupava seu vilarejo não por misericórdia, mas porque seu pai, Seijuro, detinha o conhecimento das rotas comerciais e contatos com os mercadores de peles. Aquela era a moeda de proteção. E o preço final fora Takeshi, obrigado a se alistar sob o comando de Daikan.
+— Isso é impossível — rosnou. — Takeshi Kurosawa matou soldados do Clã Onizuka. A sentença já foi determinada. A execução acontecerá em breve.
 
-— Meu irmão não desviou nada — disse ela, a voz carregada de amargura. — Goratsu sempre o odiou. Inveja. Esta acusação é uma farsa. Para eliminá-lo... ou para forçar meu pai a ceder tudo.
+Katsuro não olhou para ele.
 
-Katsuro ouviu em silêncio. Quando falou, suas palavras caíram na cabana como uma pedra em água parada.
+— Então me diga o preço.
 
-— Eu posso fazer algo pelo seu irmão.
+Goratsu riu, mas não havia humor naquela risada.
 
-O coração de Rin falhou uma batida.
+— Não existe preço.
 
-— Como? — sussurrou. — Daikan não ouve razão.
+Daikan permaneceu em silêncio. Seu olhar não estava em Goratsu, mas em Katsuro. Estudava-o. Medindo não apenas as palavras, mas o motivo por trás delas. Katsuro conhecia homens assim. Antes de vender qualquer coisa, queriam descobrir quanto o comprador estava disposto a perder.
 
-— Ele ouve poder. E oportunidade. — Katsuro inclinou-se para frente. — Minha missão aqui é uma negociação de aliança. Isso me dá algum capital político. Não posso enfrentá-lo abertamente, mas um prisioneiro injustamente acusado pode ser... negociável.
+— Algumas dívidas só podem ser pagas com sangue — disse Daikan, enfim. — É um princípio antigo.
 
-Ele a fitou com seriedade.
+— Princípios antigos costumam ser úteis quando não atrapalham negócios.
 
-— Não é caridade. É uma proposta. Se eu intervir por Takeshi, estarei arriscando minha posição. Em troca, preciso de algo.
+Um murmúrio quase imperceptível passou entre os presentes. Goratsu apertou os dentes. Daikan, ao contrário, demonstrou algo próximo de interesse.
 
-O mundo de Rin, que há pouco era apenas desespero, abriu uma fresta. Pequena. Perigosa.
+— Antes de falarmos sobre valores, quero entender uma coisa — disse ele. — O que exatamente Takeshi Kurosawa significa para você? Um soldado? Um amigo? Ou algo mais?
 
-— Eu não tenho nada — disse ela. — Só peles e dívidas.
+Katsuro demorou um instante antes de responder. Não por dúvida. Por escolha.
 
-— Informação. — O olhar dele endureceu. — O conhecimento do seu pai. Rotas, contatos, pontos fracos das defesas de Daikan. Tudo o que ele deseja e ainda não possui. Ajude-me a entender o verdadeiro poder deste território. Em troca, tentarei comutar a sentença do seu irmão.
+— Nenhuma dessas opções. Takeshi não é meu subordinado. Também não é meu amigo.
 
-Era uma aliança. Uma traição ao tirano, em troca da única coisa que ainda importava.
+— Não? — Daikan estreitou os olhos.
 
-Rin permaneceu em silêncio. Olhou para as mãos calejadas, para a faca ao seu lado. Ela não era uma guerreira. Nunca fora. Era uma trabalhadora — até aquele dia.
+— Quando todos o abandonaram, ele continuou lutando. Homens assim são raros. Não pretendo perder um deles para uma execução conveniente.
 
-Daikan a transformou em algo diferente.
+O sorriso de Goratsu morreu de vez.
 
-E agora, Katsuro lhe ofereceu uma arma.
+Daikan recostou-se no assento. Havia algo no olhar dele que se aproximava da satisfação. Não a satisfação de quem encontrava misericórdia em outro homem, mas de quem descobria o lugar exato onde pressionar uma ferida.
+
+— Entendo — disse ele. — Então é isso.
+
+Katsuro permaneceu imóvel.
+
+— Isso o quê?
+
+— Você não está tentando salvar Takeshi. Está tentando preservar algo que considera raro.
+
+A frase não exigia resposta. Katsuro não deu uma.
+
+Daikan inclinou o rosto para um lado, como se apreciasse a própria conclusão.
+
+— Homens assim realmente são difíceis de encontrar. E justamente por isso o valor da liberdade dele acaba de aumentar. Agora sei que você pretende comprá-la a qualquer custo.
+
+Goratsu virou-se para o pai, indignado.
+
+— Pai, não pode estar considerando isso.
+
+Daikan não olhou para ele.
+
+— Goratsu, já ouvi sua opinião.
+
+— Ele matou homens nossos.
+
+— Você me ouviu?
+
+A voz de Daikan não se alterou, mas o salão inteiro sentiu a mudança. Goratsu fechou a boca. Por um instante, as marcas em seu rosto pareceram mais profundas. Humilhação pública tinha um sabor amargo, e Daikan acabava de servi-la diante de um emissário estrangeiro.
+
+Katsuro percebeu. Não demonstrou.
+
+— Muito bem — disse Daikan. — Quanto oferece?
+
+— Cinco mil moedas de prata.
+
+Goratsu virou o rosto para Katsuro, incrédulo.
+
+— Cinco mil?
+
+— Moedas de prata — completou Katsuro. — Entregues antes que o sol se ponha.
+
+Daikan não sorriu. Essa era a pior parte. Homens como ele só sorriam quando já tinham decidido quanto sangue a piada custaria.
+
+— Continue.
+
+Katsuro respirou devagar.
+
+— Mais duas mil quando Takeshi deixar vivo o território Onizuka.
+
+Goratsu avançou outro passo.
+
+— Isso é insulto.
+
+Daikan levantou a mão, e o filho parou como um cão puxado pela coleira.
+
+— Você veio preparado — disse Daikan.
+
+— Eu sabia que não seria barato.
+
+— Não. Não será.
+
+A luz das lanternas tremia nas paredes douradas. Katsuro percebeu o movimento das sombras sobre o rosto de Daikan. A metade iluminada parecia cansada; a metade escura, faminta.
+
+— Cinco mil moedas compram a vida de um homem — disse Daikan. — Outras duas mil compram minha boa vontade. Mas não compram o silêncio de Goratsu, não compram o orgulho do meu clã e não compram a explicação que terei de oferecer à praça depois de anunciar uma execução pública.
+
+Katsuro não desviou o olhar.
+
+— Portanto?
+
+— Quero dez mil.
+
+Goratsu prendeu a respiração.
+
+Katsuro não respondeu de imediato. A soma era absurda. Não apenas pelo valor, mas pelo que significava. Daikan não estava vendendo Takeshi. Estava estabelecendo que a vida daquele homem passaria a carregar uma dívida grande o suficiente para arrastar outros destinos junto dela.
+
+Era o tipo de dívida que não terminava quando paga.
+
+— Fechado — disse Katsuro.
+
+O rosto de Goratsu perdeu cor.
+
+— Pai! Vai mesmo libertá-lo?
+
+Daikan olhou para o filho pela primeira vez desde o início da conversa.
+
+— Dez mil moedas de prata são melhores do que um corpo apodrecendo numa vala.
+
+Goratsu abriu a boca, mas nenhuma palavra saiu. Daikan o observou tempo suficiente para que todos no salão entendessem quem mandava ali.
+
+— A execução será suspensa — declarou Daikan. — Takeshi Kurosawa permanecerá sob custódia até que o pagamento seja garantido e até que eu decida como anunciar essa mudança sem transformar generosidade em fraqueza.
+
+— Generosidade não foi parte do acordo — disse Katsuro.
+
+Daikan inclinou a cabeça, quase satisfeito.
+
+— Exato. Por isso talvez funcione.
+
+O acordo estava feito, mas ninguém ali confundiria aquilo com salvação. Takeshi ainda estava preso. Rin ainda não sabia se a promessa de Katsuro sobreviveria ao dia. E Daikan, sentado em seu trono dourado, parecia mais interessado no que podia arrancar da situação do que na vida colocada sobre a mesa.
+
+Depois de alguns instantes, ele apoiou as mãos nos braços do assento e olhou para os homens reunidos no salão.
+
+— Muito bem. Já resolvemos os assuntos insignificantes.
+
+Goratsu ergueu a cabeça de imediato, ofendido antes mesmo de entender o alcance da ofensa.
+
+— Finalmente — pensou alto demais, deixando escapar a satisfação com um sorriso torto.
+
+Daikan virou os olhos para ele.
+
+— Todos podem se retirar. Tenho assuntos importantes para discutir com o capitão Katsuro.
+
+Os oficiais se curvaram e começaram a deixar o salão. As sandálias arrastaram-se sobre o assoalho polido, armaduras tilintaram, e a sala se esvaziou pouco a pouco. Goratsu, porém, permaneceu no lugar.
+
+Daikan esperou. A paciência dele era mais perigosa que a raiva.
+
+— Goratsu — disse. — Você também.
+
+O herdeiro piscou, como se a frase tivesse demorado a alcançá-lo.
+
+— Eu?
+
+— Quero falar com o capitão Katsuro a sós. Não me faça repetir.
+
+Por um momento, Goratsu pareceu esquecer que havia outras pessoas ali. Os olhos arregalaram-se, a mandíbula tensionou, e o orgulho ferido fez sua mão procurar o cabo da espada antes que a razão a contivesse.
+
+— Pai... eu sou seu herdeiro.
+
+— Sim — respondeu Daikan. — E?
+
+A simplicidade da pergunta foi pior que um golpe. Katsuro assistiu sem prazer, mas com atenção. Homens humilhados guardavam coisas. Algumas viravam disciplina. Outras viravam traição.
+
+— Eu deveria participar dessa reunião — insistiu Goratsu. — Não deveria?
+
+Daikan sustentou o olhar dele por um longo segundo.
+
+— Não. Você não deveria. Quando eu precisar da sua opinião, pedirei.
+
+O silêncio que se seguiu pareceu colar-se à pele de todos. Goratsu respirou pela boca, tentando recompor a expressão. Não conseguiu completamente.
+
+— Certo — disse ele, com a voz baixa demais. — Entendi.
+
+Daikan observou-o como quem observa um animal ferido tentando decidir se ainda serve para caça.
+
+— Ainda está aqui?
+
+Goratsu olhou para Katsuro. Havia promessa de violência naquele olhar, mas era uma promessa adiada. Depois se virou e caminhou até a saída. Cada passo seu parecia mais duro que o anterior.
+
+— Feche a porta ao sair — disse Daikan. — Por favor.
+
+O “por favor” foi a parte mais cruel. Goratsu empurrou a porta com força controlada demais e desapareceu. Quando as folhas de madeira se fecharam, o salão tornou-se amplo, vazio e excessivamente silencioso.
+
+Daikan permaneceu sentado. Katsuro ficou de pé no centro da sala, sem cruzar os braços, sem tocar a espada. Os dois homens se encararam por alguns instantes, cada um avaliando o peso real do outro.
+
+— Finalmente — disse Daikan. — Podemos conversar sem distrações.
+
+— Então o senhor realmente acredita nos relatórios.
+
+— Eu não acredito em rumores. Acredito em padrões. E todos os padrões apontam para os Kurotsuki.
+
+Katsuro estreitou os olhos.
+
+— Então já percebeu. Eles estão se movendo mais rápido do que imaginávamos.
+
+Daikan balançou a cabeça.
+
+— Não. Eles não estão se movendo. Eles já se moveram.
+
+A diferença entre as duas frases foi pequena, mas o efeito não. Katsuro compreendeu antes que Daikan continuasse. A sala pareceu esfriar, apesar das lanternas acesas.
+
+— Os relatórios estavam corretos? — perguntou Katsuro. — Eles realmente desapareceram?
+
+— Desaparecer é simples — disse Daikan. — O problema é para onde foram. Três fortalezas vazias. Dois postos abandonados. Nenhum sinal de batalha. Nenhum incêndio. Nenhum rastro de retirada desesperada.
+
+— Um exército não desaparece.
+
+— Exatamente. Um exército marcha.
+
+Katsuro ficou em silêncio. Vira mapas, ouvira rumores, interceptara mensagens incompletas, mas havia algo diferente em ouvir Daikan dizer aquilo. Daikan não era um homem assustadiço. Era ambicioso demais para desperdiçar medo.
+
+— Então a pergunta não é onde estão os Kurotsuki — disse Katsuro.
+
+— A pergunta é para onde eles estão indo.
+
+As palavras permaneceram entre eles como fumaça.
+
+Daikan levantou-se devagar. Desceu um degrau do assento e caminhou até uma mesa lateral onde mapas estavam dispostos sob pesos de bronze. Não chamou Katsuro, mas também não precisou. O capitão aproximou-se.
+
+As linhas dos territórios estavam marcadas em tinta escura. Pontos vermelhos indicavam fortalezas. Traços finos seguiam rotas de suprimento, vales, pontes e passagens estreitas entre montanhas. Alguns pontos haviam sido riscados com precisão.
+
+— Se eu estiver certo — disse Daikan —, eles não estão marchando para conquistar território.
+
+— Então o objetivo não é expansão.
+
+— Não. Conquistar terras produz riqueza. Os Kurotsuki nunca demonstraram interesse por riqueza.
+
+Katsuro observou os pontos riscados.
+
+— Então o que eles querem?
+
+Daikan demorou a responder. Quando falou, a voz saiu mais baixa.
+
+— Essa é exatamente a pergunta que me preocupa. Porque existe apenas uma coisa mais perigosa do que um exército.
+
+Katsuro ergueu os olhos.
+
+— Um exército que possui um propósito.
+
+Daikan encarou o mapa, e por um instante a máscara de arrogância pareceu ceder diante de algo mais antigo.
+
+— Você acha que deixamos os Kurotsuki em paz todos esses anos por fraqueza?
+
+— Sempre imaginei um equilíbrio de poder.
+
+Daikan soltou uma risada seca.
+
+— Equilíbrio? Não. Atacar Tetsu-zan não é declarar guerra. É assinar a própria sentença de morte. Os guerreiros Kurotsuki não são como os nossos.
+
+Katsuro não respondeu. O nome de Tetsu-zan tinha um peso estranho mesmo quando dito sem solenidade. Não era apenas o nome de um líder. Era o tipo de nome que os homens repetiam menos por respeito e mais por medo de que a repetição o aproximasse.
+
+— Dizem que o sangue deles não é totalmente humano — continuou Daikan.
+
+— Você acredita nessas histórias?
+
+— Não. Eu acredito nos resultados. Três gerações tentaram provocar os Kurotsuki. Nenhuma delas sobreviveu para repetir o erro.
+
+Katsuro olhou novamente para o mapa. Havia muita superstição entre os clãs, mas superstição sozinha não esvaziava fortalezas inteiras sem deixar corpos. Algo estava acontecendo. Algo que nem Hayashi nem Onizuka compreendiam por completo.
+
+— Então os outros clãs também sabem disso.
+
+— Sabem o suficiente para sentir medo — respondeu Daikan. — E medo costuma produzir alianças.
+
+— É por isso que pretende unir os clãs antes que os Kurotsuki decidam se mover contra nós.
+
+Daikan sorriu, e dessa vez o sorriso não tinha humor.
+
+— Agora estamos falando de assuntos importantes.
+
+Katsuro endireitou a postura.
+
+— Então estamos de acordo. Hayashi marchará ao lado dos Onizuka se a ameaça Kurotsuki se confirmar.
+
+— E os espólios serão divididos igualmente.
+
+— Territórios, recursos e direitos de passagem, conforme acordado.
+
+Daikan observou Katsuro com um brilho discreto nos olhos.
+
+— Você negocia melhor do que a maioria dos homens da sua idade.
+
+— Negociar é mais barato do que enterrar soldados.
+
+— Então temos uma aliança.
+
+— Temos.
+
+Daikan apoiou a mão sobre o mapa, cobrindo com os dedos uma região marcada por montanhas e floresta.
+
+— Então o Clã Kurotsuki finalmente terá inimigos unidos.
+
+Katsuro não gostou da forma como Daikan disse aquilo. Havia triunfo demais em sua voz. Homens sensatos não comemoravam antes da guerra. Homens muito confiantes costumavam encher valas com os próprios soldados e chamar isso de sacrifício necessário.
+
+Ainda assim, Katsuro não corrigiu Daikan. Não estava ali para educar tiranos. Estava ali para ganhar tempo, comprar uma vida e arrancar informações antes que todos eles descobrissem tarde demais qual era o verdadeiro tamanho da sombra que se movia no leste.
+
+Muito longe dali, na casa simples dos Kurosawa, Rin ouvia o próprio pai respirar como se cada sopro fosse uma moeda prestes a acabar.
+
+A luz da manhã entrava pela janela em faixas douradas, tocando o chão de madeira, as tigelas vazias, os remédios separados numa prateleira e o rosto cansado de Seijuro Kurosawa. Ele parecia menor sentado perto da parede, envolto em roupas gastas, os cabelos grisalhos caindo sobre os ombros. A doença não o havia derrubado de uma vez. Fizera pior. Tomara dele pedaço por pedaço, com a paciência de um cobrador antigo.
+
+Rin estava diante dele, ainda com a roupa manchada da noite anterior, as mãos marcadas por poeira seca e pequenos cortes. Não havia dormido. Não de verdade. Toda vez que fechava os olhos, via Takeshi ajoelhado, via correntes, via Daikan sorrindo sem sorrir.
+
+— Pai — disse ela, forçando a voz a não tremer. — Recebi notícias de Takeshi.
+
+Seijuro ergueu o rosto devagar. A esperança apareceu nele com tanta rapidez que doeu.
+
+— Takeshi? Ele está vivo?
+
+Rin engoliu em seco.
+
+— Sim. Mas foi preso pelos Onizuka. E já foi condenado à morte.
+
+O ar pareceu abandonar a sala. Seijuro fechou os olhos, e por um instante Rin pensou que ele fosse desmaiar. Em vez disso, ele levou a mão ao peito e tossiu. A tosse veio profunda, áspera, longa demais. Rin deu um passo, mas ele ergueu a mão, pedindo que ela não se aproximasse.
+
+Quando conseguiu respirar, Seijuro olhou para a mesa.
+
+— Então era por isso — murmurou. — Por isso eu não recebia notícias dele.
+
+— Pai, ainda existe uma chance.
+
+Ele ergueu o olhar de novo. Havia medo ali, mas também a lucidez amarga de quem já perdera coisas demais para confiar facilmente em promessas.
+
+— Chance? Que chance?
+
+Rin sentou-se diante dele. As palavras pareciam pesadas demais para serem colocadas em ordem.
+
+— Depois que saí da cidade, encontrei um homem chamado Katsuro. Ele veio ao território dos Onizuka para negociar uma aliança, mas acabou presenciando a sentença de Takeshi. Quando percebeu que havia algo errado, ofereceu um acordo para tentar salvá-lo.
+
+— Katsuro? — Seijuro franziu a testa. — Nunca ouvi esse nome.
+
+— Ele é do Clã Hayashi.
+
+O velho ficou imóvel por um instante. A luz da janela tocava as rugas em seu rosto, tornando-as mais profundas.
+
+— Hayashi — repetiu ele, como se o nome tivesse despertado uma lembrança desagradável.
+
+— Ele queria informações em troca.
+
+— Que informações?
+
+— Sobre os territórios dos Onizuka. Rotas antigas, passagens usadas por mercadores, caminhos por onde homens armados poderiam atravessar sem serem vistos.
+
+Seijuro respirou devagar.
+
+— Informações?
+
+Rin percebeu a mudança no rosto dele antes que ele falasse. A notícia de Takeshi o ferira. O nome Hayashi o inquietara. Mas aquilo, as rotas, os caminhos e os territórios, pareceu abrir uma porta antiga dentro dele.
+
+— Katsuro veio negociar uma possível aliança contra os Kurotsuki — disse ela. — Depois que viu o que fizeram com Takeshi, decidiu interferir.
+
+— Mas por que ele precisaria dessas informações?
+
+— Porque os Onizuka estão se preparando para uma guerra. Contra os Kurotsuki.
+
+Seijuro empalideceu. Não como quem ouve um boato ruim, mas como quem vê um velho pesadelo atravessar a porta.
+
+— Guerra — murmurou. — Então os rumores eram verdadeiros.
+
+— Que rumores?
+
+Ele não respondeu de imediato. Ficou olhando para as próprias mãos, os dedos nodosos sobre a mesa, como se tentasse decidir se era justo entregar à filha mais uma herança de medo.
+
+— Katsuro acreditava que eu conhecia rotas antigas — disse Rin. — Passagens usadas por mercadores. Caminhos que atravessam territórios sem serem vistos.
+
+— Essas rotas são valiosas demais.
+
+— Eu sei. Mas Takeshi vale mais.
+
+Seijuro fechou os olhos. A dor em seu rosto não era reprovação. Era reconhecimento. Ele sabia que ela fizera exatamente aquilo que ele temia que fizesse.
+
+— Você fez isso por ele.
+
+— Ele é meu irmão. Eu não podia abandoná-lo.
+
+— Você arriscou muito, Rin. Muito mais do que deveria.
+
+A voz dela saiu baixa, mas firme.
+
+— Eu faria de novo. Quantas vezes fosse necessário.
+
+Seijuro abriu os olhos. Durante um instante, parecia olhar não apenas para Rin, mas para alguém que já não estava ali. Talvez para a esposa morta. Talvez para a menina que Rin fora antes de aprender o preço de sobreviver.
+
+— Então Takeshi já foi libertado?
+
+A pergunta atravessou Rin como uma lâmina fina.
+
+— Ainda não. Katsuro foi falar diretamente com Daikan. Ninguém sabe qual será a resposta.
+
+Seijuro apoiou-se na mesa. A madeira rangeu sob a pressão de suas mãos.
+
+— Espere. Katsuro veio negociar uma aliança contra os Kurotsuki?
+
+— Sim. Foi um dos principais motivos da visita dele.
+
+— Meu Deus...
+
+Rin inclinou-se para frente.
+
+— Pai?
+
+Seijuro não parecia mais dentro da casa. O olhar dele atravessava a parede, a vila, as montanhas. Ia para algum lugar que Rin não conhecia, mas que, de repente, parecia conhecê-la.
+
+— Por que homens poderosos insistem em cometer os mesmos erros?
+
+— O que quer dizer?
+
+— Porque ninguém faz guerra contra os Kurotsuki. Ninguém que conheça a história deles.
+
+Rin ficou em silêncio. A lareira estalou baixo, como se a casa também esperasse.
+
+— Que história?
+
+Seijuro demorou a responder. Quando falou, sua voz tinha a aspereza de madeira velha.
+
+— A história que começou com Tetsu-zan. E com a floresta que os homens aprenderam a evitar.
+
+O nome de Tetsu-zan atravessou a sala como uma sombra. Rin já ouvira boatos, como todos ouviam. Histórias de guerreiros que não caíam, de sangue escuro, de olhos que brilhavam na noite, de um clã que não temia fome, dor ou morte como os outros homens. Mas boatos eram boatos. Crianças cresciam ouvindo monstros nas florestas para não se afastarem das estradas. Homens adultos inventavam demônios para justificar derrotas.
+
+Ainda assim, o rosto de Seijuro não tinha nada de invenção.
+
+— Quando eu era jovem — começou ele —, meu avô me contou uma história. Durante muitos anos, pensei que fosse apenas uma lenda. Uma história sobre Tetsu-zan, o primeiro dos Kurotsuki, e sobre o lugar onde tudo começou.
+
+— Que lugar?
+
+Seijuro olhou pela janela. O sol subia sobre as montanhas, mas a expressão dele pertencia à noite.
+
+— Um lugar que poucos homens ousavam mencionar. E menos ainda ousavam visitar. Chamavam de Floresta do Inferno.
+
+Rin prendeu a respiração.
+
+— Hikogu-no-Mori?
+
+O velho a encarou.
+
+— Esse é o nome antigo. O nome que quase ninguém usa mais.
+
+A casa pareceu se encolher ao redor deles.
+
+— Muito antes dos grandes exércitos — disse Seijuro —, antes das alianças entre clãs, antes de Daikan Onizuka se sentar em tronos dourados e fingir que homens como ele inventaram o poder, existia uma floresta que todos evitavam. Diziam que ela engolia viajantes e devolvia apenas silêncio. Diziam que nenhum caçador permanecia lá por muito tempo, que os corvos se reuniam nos galhos antes mesmo que alguém morresse, que pegadas surgiam na lama sem dono algum. Com o passar dos anos, o medo virou lenda, como sempre acontece quando os vivos tentam fingir que não sabem do que têm medo.
+
+Rin permaneceu quieta. Não ousou interromper.
+
+— Até que um homem decidiu entrar — continuou Seijuro. — O homem se chamava Tetsu-zan. Seu único filho estava morrendo. Curandeiros falharam. Sábios falharam. Nenhum homem conseguiu salvá-lo. A morte já caminhava ao lado da criança, e Tetsu-zan, desesperado, levou o menino nos braços até Hikogu-no-Mori.
+
+A voz de Seijuro baixou ainda mais.
+
+— Diziam que aquela entidade podia conceder vida. Mas cobrava um preço que nenhum homem deveria aceitar.
+
+Rin sentiu o frio alcançar seus dedos.
+
+— E mesmo assim ele entrou.
+
+— Sim. E saiu.
+
+A resposta simples pareceu pior que qualquer descrição.
+
+— O que aconteceu lá dentro? — perguntou ela.
+
+— Ninguém jamais soube ao certo. Mas quando Tetsu-zan saiu, seu filho estava curado. A criança viveu. Porém Tetsu-zan não voltou sendo o mesmo homem.
+
+O fogo estalou de novo.
+
+— E depois daquele dia — disse Seijuro —, algo mudou em sua linhagem. Geração após geração, os Kurotsuki se tornaram mais fortes. Mais temidos. Mais respeitados. Mais difíceis de derrotar. Dizem que o sangue deles passou a carregar algo que não pertencia aos homens. Uma herança, uma dívida, talvez uma maldição. Ninguém conseguiu explicar o verdadeiro preço que Tetsu-zan pagou.
+
+Rin olhou para as próprias mãos. Pensou em Takeshi acorrentado. Pensou em Katsuro falando de acordos. Pensou em Daikan transformando vidas em moeda. Agora havia outra coisa por trás da guerra. Uma floresta antiga. Um pacto. Um sangue que talvez ainda estivesse cobrando.
+
+— Então as histórias eram verdadeiras — murmurou ela.
+
+— Talvez. Talvez não. Lendas mudam com o tempo. Mas o medo costuma nascer de algo real.
+
+— Katsuro acredita nisso?
+
+— Se ele é inteligente, acredita pelo menos na possibilidade.
+
+— E isso o preocupa?
+
+Seijuro encarou a filha.
+
+— Sim. E é isso que me preocupa.
+
+Rin não respondeu. Havia algo difícil de aceitar naquilo tudo. Até a manhã anterior, seu mundo era pequeno e cruel o bastante: remédios, impostos, dívidas, Takeshi longe de casa, a tosse do pai. Agora, de repente, esse mundo se ligava a clãs, alianças, exércitos desaparecidos e histórias antigas sobre homens que voltavam de florestas carregando maldições no sangue.
+
+Era muita coisa para uma única vida suportar. O mundo, como sempre, demonstrava péssimo senso de proporção.
+
+— Tome cuidado com esse Katsuro — disse Seijuro.
+
+Rin levantou os olhos.
+
+— Cuidado? Por quê?
+
+— Porque homens como ele costumam carregar mais coisas dentro do peito do que mostram no rosto.
+
+— Mas nós precisamos dele. Takeshi ainda está nas mãos dos Onizuka.
+
+— Eu sei. E é justamente isso que me preocupa.
+
+Rin se levantou. Não aguentava mais o peso parado da casa, o cheiro de remédio, o calor baixo da lareira, a sensação de que cada minuto de espera aproximava Takeshi da morte.
+
+— Então eu não vou ficar esperando aqui sem fazer nada.
+
+Seijuro ergueu a cabeça.
+
+— Rin...
+
+— Vou até a cabana de caça. Katsuro sabe onde me encontrar. Se ele trouxer notícias sobre Takeshi, saberei na mesma hora.
+
+— Isso pode ser perigoso.
+
+— Eu sei. Mas é melhor do que esperar no escuro. E é assim que eu souber de qualquer coisa. Volto imediatamente para contar.
+
+Seijuro observou a filha. Seus olhos estavam cansados demais para ordenar, mas lúcidos demais para fingir que conseguiria detê-la.
+
+— Você é teimosa — disse ele, quase sem voz. — Igual à sua mãe.
+
+Rin desviou o olhar. O nome não fora dito, mas a presença da mãe morta atravessou a casa mesmo assim.
+
+— Então sabe que não vai me convencer a ficar.
+
+Seijuro fechou os olhos por um instante. Quando os abriu, havia medo ali, mas também uma aceitação triste.
+
+— Tome cuidado, Rin. E volte antes da noite pesar demais sobre essa aldeia.
+
+Ela assentiu, pegou a faca curta, ajustou a roupa escura e puxou sobre os ombros a capa de peles que ainda carregava cheiro de estrada, chuva e sangue seco. Antes de sair, olhou para o pai mais uma vez. Seijuro parecia frágil diante da luz da manhã, como se o sol pudesse atravessá-lo.
+
+— Vá se deitar — disse ela. — E espere por mim.
+
+— Não demore.
+
+Rin abriu a porta. O ar frio da manhã entrou na casa, levando consigo parte do calor da lareira. Ela saiu sem olhar para trás, porque sabia que, se olhasse por tempo demais, talvez encontrasse uma razão para ficar.
+
+A aldeia ainda despertava quando Rin atravessou as ruas de terra. Mulheres carregavam água, crianças corriam entre casas baixas, velhos remendavam redes, e homens evitavam encará-la diretamente. As notícias da praça já tinham chegado ali. As pessoas sabiam. Sempre sabiam. O que quase nunca tinham era coragem para carregar esse conhecimento em voz alta.
+
+Rin caminhou entre elas sem pedir nada. Não queria compaixão. A compaixão naquele lugar era uma tigela vazia oferecida depois da fome.
+
+Ao alcançar a trilha que levava à floresta, diminuiu o passo. A luz filtrava-se entre as árvores, dourando folhas secas e pedras úmidas. Cada ruído parecia mais nítido ali: o estalo de galhos, o voo baixo de um pássaro, o atrito da bainha contra sua roupa, sua própria respiração. A lembrança da noite anterior ainda estava presa ao corpo. Homens seguindo seus passos. A corrida pela lama. A cabana. A faca nas mãos. Depois Katsuro surgindo como se a floresta tivesse decidido devolver uma sombra maior para espantar as menores.
+
+Ela apertou os dedos contra o cabo da faca.
+
+Não confiava nele.
+
+Precisava dele.
+
+As duas coisas cabiam no mesmo peito com uma facilidade irritante.
+
+A cabana de caça surgiu entre as árvores antes do meio-dia. Era pequena, torta em alguns pontos, com madeira escura, telhado gasto e uma varanda estreita voltada para a trilha. Ali, por anos, Seijuro guardara peles, armadilhas velhas, óleo para lâminas e silêncio. Rin conhecia cada tábua daquele lugar. Conhecia a porta que emperrava no frio, a fresta por onde o vento entrava, a mancha escura próxima à parede onde a chuva sempre vencia.
+
+Entrou primeiro com cuidado. A cabana estava vazia. Ainda assim, verificou os cantos, o espaço sob a mesa, as frestas da janela. Só depois fechou a porta e respirou.
+
+O interior cheirava a madeira úmida, couro antigo e cinzas frias. Rin deixou uma pequena lâmpada preparada, mas não a acendeu. Não queria chamar atenção. Sentou-se por alguns instantes, mas o corpo recusou descanso. Levantou-se de novo, caminhou até a janela, voltou à porta, olhou pela fresta, ouviu a floresta.
+
+Nada.
+
+O pior som era sempre esse.
+
+Com o passar das horas, a luz mudou. O dourado da manhã tornou-se pálido, depois pesado. As sombras das árvores cresceram sobre a trilha como dedos longos. Rin permaneceu na varanda, de pé, a faca escondida junto ao corpo e os olhos fixos no caminho por onde Katsuro deveria aparecer.
+
+Se ele aparecesse.
+
+Esse pensamento tentou criar raízes. Ela o esmagou antes que crescesse. Não tinha tempo para desconfiar do próprio desespero.
+
+Pensou em Takeshi. Em sua cabeça erguida, mesmo preso. Em sua voz baixa pedindo que cuidasse do pai. Pensou em Seijuro, sentado diante da janela, fingindo que ainda podia protegê-los de alguma coisa. Pensou em Daikan, em Goratsu, em moedas de prata que talvez estivessem naquele momento decidindo se seu irmão viveria ou morreria.
+
+Depois pensou em Hikogu-no-Mori.
+
+A Floresta do Inferno.
+
+O nome parecia absurdo à luz do dia, mas a floresta ao redor da cabana começava a escurecer, e nomes antigos tinham uma forma desagradável de parecerem menos absurdos quando o sol se retirava.
+
+Rin apoiou a mão na madeira da varanda. Estava fria.
+
+Ao longe, um corvo gritou.
+
+Ela levantou o rosto.
+
+A trilha permanecia vazia.
+
+Rin Kurosawa continuou esperando.
 
 ---
 
@@ -4328,5 +5401,3 @@ A centelha está plantada. A árvore crescerá. Agora... vá. Leve nossa chama p
 Tetsu-zan, o Primeiro, ergueu-se. Carregou o filho para fora da floresta, de volta para seus guardas aterrorizados. Mas o homem que saiu não era o mesmo que entrou. Era uma casca. Um vaso. O primeiro Rei Oni.
 
 E o verdadeiro Tetsu-zan, o homem, o pai? Ele foi devorado naquele instante. Tudo o que restou foi seu nome, seu rosto e seu amor paterno, agora servindo como o disfarce perfeito para a entidade primordial que agora possuía seu reino e iniciava seu lento, paciente plano de corromper a luz do dia a partir das sombras.
-
----
