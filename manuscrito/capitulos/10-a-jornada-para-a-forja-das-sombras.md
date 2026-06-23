@@ -1,4 +1,4 @@
-# Capítulo 13
+# Capítulo 10
 ## A Jornada para a Forja das Sombras
 
 O sol ainda não havia nascido quando o silêncio do acampamento Hayashi foi quebrado pelos sons discretos de preparação. Não havia fanfarra, nem discursos para as tropas. Esta missão era diferente de todas as outras — um raio em meio à tempestade que se aproximava, uma aposta desesperada no coração da lenda.

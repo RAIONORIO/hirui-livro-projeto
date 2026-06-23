@@ -1,4 +1,4 @@
-# Capítulo 7
+# Capítulo 4
 ## A Estrada Sem Volta
 
 A floresta, outrora um refúgio, agora era um labirinto de memórias dolorosas. Rin caminhou por horas, guiada apenas pelo instinto e pela fúria que lhe aquecia as entranhas. A fome era uma dor surda, mas a sede de justiça — ou de vingança — era mais aguda.

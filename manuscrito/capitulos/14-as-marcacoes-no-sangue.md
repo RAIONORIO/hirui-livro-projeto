@@ -1,4 +1,4 @@
-# Capítulo 17
+# Capítulo 14
 ## As Marcações no Sangue
 
 O amanhecer no Vale das Sombras não trouxe alívio. Trouxe revelação.

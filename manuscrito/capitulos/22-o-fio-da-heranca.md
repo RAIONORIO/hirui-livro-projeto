@@ -1,4 +1,4 @@
-# Capítulo 25
+# Capítulo 22
 ## O Fio da Herança
 
 O silêncio no salão pesava mais do que qualquer armadura após as palavras de Saburō. Takeshi parecia ter envelhecido dez anos em minutos, suas mãos ainda apoiadas na mesa como se fosse a única coisa que o impedia de cair. Rin não conseguia tirar os olhos do rosto de Saburō, procurando em cada linha, cada sombra, algum traço de si mesma, de seu irmão, da mãe que ela mal lembrava.

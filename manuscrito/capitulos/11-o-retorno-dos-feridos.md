@@ -1,4 +1,4 @@
-# Capítulo 14
+# Capítulo 11
 ## O Retorno dos Feridos
 
 A luz do amanhecer não trouxe alívio, apenas contornos nítidos ao desastre.

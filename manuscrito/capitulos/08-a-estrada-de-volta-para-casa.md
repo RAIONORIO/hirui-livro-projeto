@@ -1,4 +1,4 @@
-# Capítulo 11
+# Capítulo 8
 ## A Estrada de Volta para Casa
 
 A carroça de Rin e Takeshi seguia pela estrada empoeirada, a fronteira de Hayashi já um alívio no horizonte. A segunda carroça, com os três guardas disfarçados, mantinha uma distância segura, como combinado. O sucesso da missão trazia um clima de alívio cauteloso.

@@ -1,4 +1,4 @@
-# Capítulo 16
+# Capítulo 13
 ## O Vale das Sombras
 
 O dia amanheceu não com luz, mas com a ausência dela. Um céu baixo e plúmbeo prometia neve, pesando sobre os ombros de cada homem que se reunia no pátio principal de Hayashi.

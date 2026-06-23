@@ -1,4 +1,4 @@
-# Capítulo 15
+# Capítulo 12
 ## O Martelo e a Lâmina
 
 A viagem de retorno foi silenciosa, marcada apenas pelo ritmo dos cascos contra a terra endurecida pelo frio que se aproximava. Katsuro mantinha os sentidos alertas, mas sua mente girava em torno de um único eixo: logística. Quinze dias. Tempo suficiente para preparar um ataque surpresa, tempo curto demais para permitir dúvidas. Cada detalhe precisava se encaixar com a precisão de uma armadura bem ajustada.

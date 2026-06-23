@@ -1,4 +1,4 @@
-# Capítulo 9
+# Capítulo 6
 ## Frágeis Asas, Deveres de Aço
 
 O sol da manhã filtrou-se suavemente através das folhas, pintando o chão da floresta com padrões dourados. Junto a um riacho sereno, Rin vestia suas novas roupas de comerciante. O azul do kosode parecia mais vibrante sob a luz natural, e pela primeira vez em semanas, seus ombros não carregavam o peso visível do desespero.

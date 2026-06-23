@@ -1,4 +1,4 @@
-# Capítulo 10
+# Capítulo 7
 ## Máscaras na Estrada
 
 O tão aguardado dia chegou com um céu cinzento e pesado, como se o próprio tempo hesitasse em abençoar sua partida. O ar frio da manhã carregava o cheiro de terra molhada e ansiedade.

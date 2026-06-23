@@ -1,4 +1,4 @@
-# Capítulo 28
+# Capítulo 25
 ## A Semente do Fogo Negro
 
 Há muitas eras, na Floresta do Inferno, a origem do sangue amaldiçoado começou não com ambição, mas com o desespero de um pai diante da morte do filho.

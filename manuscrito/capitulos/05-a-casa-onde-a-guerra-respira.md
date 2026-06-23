@@ -1,4 +1,4 @@
-# Capítulo 8
+# Capítulo 5
 ## A Casa Onde a Guerra Respira
 
 A porta se fechou, e o mundo exterior pareceu desaparecer. O ar dentro da casa de Takeshi ficou gelado e estanque.

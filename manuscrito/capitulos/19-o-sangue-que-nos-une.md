@@ -1,4 +1,4 @@
-# Capítulo 22
+# Capítulo 19
 ## O Sangue que nos Une
 
 A névoa do pântano era um véu úmido e persistente, envolvendo Rin em um silêncio que parecia absorver até o som de seus próprios passos. A cabana do Mestre Akihito surgiu como um fantasma da lama, mais decadente e melancólica do que em sua memória. O cheiro de mofo, ervas amargas e algo indefinivelmente antigo a envolveu quando ela empurrou a porta rangente.

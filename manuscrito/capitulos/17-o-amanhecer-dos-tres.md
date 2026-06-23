@@ -1,4 +1,4 @@
-# Capítulo 20
+# Capítulo 17
 ## O Amanhecer dos Três
 
 O inferno não diminuía. A cada grito abafado, a cada som de madeira estilhaçando, mais Oni parecia emergir das sombras da cidade. A investida não era um ataque pontual; era uma invasão planejada, uma infestação noturna. E no centro desse pesadelo, três pontos de resistência impossíveis se formaram, cada um uma negação violenta da ordem natural que os Oni representavam.

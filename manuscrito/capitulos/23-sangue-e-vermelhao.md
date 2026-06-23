@@ -1,4 +1,4 @@
-# Capítulo 26
+# Capítulo 23
 ## Sangue e Vermelhão
 
 Rin ficou parada no pátio até que o último eco dos passos de Katsuro se perdesse na estrada poeirenta. O calor do abraço ainda a envolvia como um fantasma, uma promessa física que agora precisava guardar dentro de si. Ela respirou fundo, enxugou os olhos com as costas da mão e voltou para dentro do palácio.

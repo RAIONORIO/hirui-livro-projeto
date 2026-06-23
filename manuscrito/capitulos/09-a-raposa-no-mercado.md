@@ -1,4 +1,4 @@
-# Capítulo 12
+# Capítulo 9
 ## A Raposa no Mercado
 
 A chegada de Goratsu ao território Hayashi foi como a de uma raposa entrando sorrateiramente no território de um lobo. Ele trouxe consigo apenas uma pequena comitiva, suficiente para não ser considerado uma invasão, mas grande o bastante para projetar poder. Seu objetivo não era um confronto aberto, mas uma caçada. A peça? A "ratinha fujona" que havia escapado de suas garras.

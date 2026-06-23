@@ -2381,457 +2381,6 @@ Agora, se quisesse cobrar mais alguma coisa, teria que encontrá-la na sombra.
 ---
 
 # Capítulo 4
-## O Sangue que Não é Humano
-
-— Você acha, garoto de Hayashi, que nós deixamos os Kurotsuki em paz todos esses anos por fraqueza? — perguntou. — Que foi falta de ambição?
-
-Katsuro manteve a postura ereta. Não se curvou além do necessário.
-
-— Sempre supus que houvesse um equilíbrio de poder — respondeu com cautela. — Ou um medo maior do que a ganância.
-
-O sorriso que se abriu no rosto de Daikan foi feio, torto, quase satisfeito.
-
-— Equilíbrio? Não. — Ele deu um gole lento no saquê. — Isso é pragmatismo. Atacar Tetsu-zan não é declarar guerra. É assinar a própria sentença de morte.
-
-Daikan se inclinou levemente para frente.
-
-— Os guerreiros Kurotsuki não são como os nossos. Dizem que o sangue que corre em suas veias não é totalmente humano. Dizem que o próprio Tetsu-zan é um Oni encarnado. Um demônio da montanha que comanda uma legião de aberrações.
-
-O silêncio caiu pesado sobre o salão.
-
-Katsuro não respondeu de imediato. Em outro contexto, teria descartado aquelas palavras como superstição
-
-— histórias contadas para assustar camponeses e manter fronteiras intactas. Mas havia algo diferente agora.
-
-A convicção crua no olhar de Daikan não era a de um homem repetindo lendas. Era a de alguém que acreditava nelas... ou que as tinha visto de perto.
-
-A dúvida se instalou como uma lâmina fina sob sua armadura.
-
-Se aquilo fosse apenas medo, poderia ser explorado. Mas se houvesse verdade nas sombras daquela história... então o inimigo era algo muito mais antigo e profundo do que um simples clã rival.
-
-Enquanto alianças eram seladas em salões de pedra, Rin se preparava para cumprir sua parte do trato.
-
-A cabana à beira do rio estava envolta em penumbra quando ela se ajoelhou diante do pai. A tosse de Seijuro parecia mais áspera naquela noite, como se o próprio ato de lembrar tornasse o ar mais pesado em seus pulmões.
-
-— Pai — disse ela, em voz baixa. — O que você sabe sobre os Kurotsuki?
-
-Seijuro demorou a responder. Inclinou-se para frente, apoiando os cotovelos nos joelhos, e Rin fez o mesmo instintivamente. Havia algo diferente em seu semblante. Não era apenas cansaço. Era temor.
-
-— Os Kurotsuki não conquistaram seu poder, Rin — começou, num sussurro rouco, quase engolido pelo crepitar do fogo. — Eles compraram. Com um preço que nenhum homem pagaria.
-
-Seus olhos se perderam em algum ponto distante, como se atravessassem décadas e fronteiras invisíveis.
-
-— Tetsu-zan, o Primeiro... não era um demônio. Era um homem. Um imperador poderoso, sim, mas ainda humano. Seu herdeiro, um menino de apenas cinco invernos, adoeceu gravemente. A doença o consumia, e os sábios da corte já haviam perdido toda esperança.
-
-Rin prendeu a respiração.
-
-— Em desespero — continuou Seijuro — um dos curandeiros sussurrou sobre uma lenda antiga. Uma entidade que habitava o coração da floresta proibida, dentro do próprio império Kurotsuki.
-
-Ele fez uma pausa, como se medir cada palavra fosse necessário para manter o horror sob controle.
-
-— Diziam que ali vivia um Oni ancestral. Um espírito da floresta primordial. Chamavam aquele lugar de Hikogu no Mori... a Floresta do Inferno. A lenda dizia que essa entidade pode conceder vida — mas apenas àqueles dispostos a se tornarem parte de seu reino de escuridão.
-
-O mundo ao redor de Rin pareceu desaparecer.
-
-— Tetsu-zan pegou o filho moribundo nos braços e entrou naquela floresta — disse Seijuro. — Ninguém sabe o que aconteceu lá dentro. O que foi oferecido. Que pacto foi selado.
-
-Sua voz vacilou pela primeira vez.
-
-— O menino viveu. Tetsu-zan voltou são e salvo. Mas... não era mais o mesmo. Dizem que a floresta o seguiu para fora. Que algo se enraizou em sua alma.
-
-As chamas da lareira estavam altas, como se reagissem às palavras.
-
-— A partir daquele dia — concluiu Seijuro — a linhagem Kurotsuki foi amaldiçoada com uma força que não pertence a este mundo. O que quer que Tetsu-zan tenha se tornado naquela floresta... ele passou adiante. O Tetsu-zan que reina hoje não é um homem comum.
-
-Rin sentiu um calafrio percorrer-lhe a espinha.
-
-— Então... a lenda é verdade — murmurou. — Eles não são totalmente humanos.
-
-Seijuro assentiu lentamente. O cansaço em seu olhar parecia antigo demais para seu corpo frágil.
-
-— O sangue deles é corrompido, filha. Katsuro não entende contra o que está se metendo. Ele vê um clã rival. — A voz dele baixou ainda mais. — Eu vejo uma maldição que consome tudo o que toca.
-
-O silêncio que se seguiu foi profundo, pesado, quase sufocante.
-
-Rin compreendeu então que a guerra que se aproximava não seria travada apenas com espadas, alianças e traições. Era uma guerra contra algo que vinha sendo alimentado há gerações — uma herança sombria que nunca deveria ter sido despertada.
-
-E, pela primeira vez, ela se perguntou se alguma escolha realmente poderia salvá-los.
-
----
-
-# Capítulo 5
-## Lembranças que Não Escolhemos
-
-A cabana parecia menor do que da última vez. A luz do braseiro mal se sustentava, projetando sombras longas nas paredes de madeira. Rin estava de pé quando Katsuro entrou. Bastou um olhar para que ela entendesse: ele havia voltado com uma resposta.
-
-— Seu irmão está salvo — disse ele, sem rodeios. — Por enquanto.
-
-O alívio atingiu Rin como um golpe tardio. As pernas quase falharam, e ela precisou apoiar a mão na mesa áspera para se manter firme. Takeshi vivo significava tempo. Nada mais do que isso.
-
-— Então acabou? — perguntou ela, ainda sem coragem de encará-lo.
-
-Katsuro negou lentamente com a cabeça.
-
-— Não. Apenas mudamos o ritmo do jogo. Daikan recuou porque foi forçado a recuar. Mas homens como ele não esquecem. Eles aguardam.
-
-O silêncio que se seguiu foi pesado. As palavras de Seijuro voltaram à mente de Rin, insistentes como um presságio. Ela respirou fundo antes de falar.
-
-— Você sabe o que são os Kurotsuki?
-
-Katsuro não respondeu de imediato. Caminhou até o braseiro, estendeu as mãos para o calor fraco e ficou ali por alguns instantes, como se organizasse memórias que preferia manter enterradas.
-
-— Sei o suficiente para nunca ter desejado cruzar aquele território — disse por fim.
-
-Ele se virou para ela.
-
-— Minha mãe nasceu sob o domínio deles.
-
-Rin ergueu o olhar, atenta.
-
-— Ela fugiu de lá quando ainda me carregava no ventre. Nunca explicou tudo. Apenas dizia que certas terras cobram mais do que trabalho... cobram partes de quem você é.
-
-Katsuro sentou-se, o rosto endurecido não por raiva, mas por lembrança.
-
-— Ela chegou a Hayashi sozinha, assustada, sem nada além das roupas que vestia. Um camponês a acolheu. Casou-se com ela. Assume-me como filho. Foi ele quem me criou. Foi ele quem me ensinou a viver, a respeitar o clã, a entender o peso de uma palavra dada. Foi ele quem me inscreveu no Clã Hayashi.
-
-Havia algo firme em sua voz ao falar daquele homem.
-
-— Tive uma boa infância — continuou. — Honesta. Simples. Nada me faltou.
-
-Rin percebeu a mudança em seu tom quando ele falou do passado seguinte.
-
-— Sobre meu pai biológico... minha mãe sempre dizia a mesma coisa. Que ele havia ido trabalhar longe. E nunca voltou.
-
-Katsuro sorriu sem humor.
-
-— Mas ela nunca dizia onde. Nem para quem. Nem por quê. E toda vez que alguém mencionava os Kurotsuki... ela se calava.
-
-O silêncio voltou a preencher a cabana.
-
-— Com o tempo, deixei de acreditar que ele simplesmente desapareceu — disse Katsuro. — Tudo indica que o Clã Kurotsuki esteve envolvido. Não de forma aberta. Não com guerra. Mas do jeito que eles fazem. Do jeito que as pessoas não voltam.
-
-Rin sentiu um frio subir pela espinha.
-
-— Você acredita... — começou ela, hesitante.
-
-— Sim — interrompeu Katsuro. — Eu sei que há algo além do humano naquele clã. Não vi com meus próprios olhos. Mas homens não somem daquela forma. E o medo da minha mãe não era medo de soldados. Era medo de algo que não se combate com espadas.
-
-Ele ergueu o olhar para Rin.
-
-— É por isso que eu os odeio. Não por lendas. Não por histórias para assustar crianças. Mas porque eles tomam pessoas... e o mundo segue fingindo que nada aconteceu.
-
-Rin fechou os olhos por um instante. Agora compreendia. Não era apenas política. Não era apenas vingança. Era uma herança silenciosa, passada de geração em geração, sem escolha.
-
-— Minha história não tem monstros como o seu. Os monstros da minha vida usam rostos humanos e decretos de impostos. Mas eles também deixam marcas. — disse Rin.
-
-— Meu pai, Seijuro, nem sempre foi um homem doente. Ele era respeitado. O melhor curtidor do vilarejo, talvez de toda a região. Ele não só tratava o couro; ele o entendia. Sabia qual pele era perfeita para qual nobre, qual tingimento agradaria a qual comerciante. Nós tínhamos uma vida boa.
-
-— Mas então Daikan subiu ao poder. Ele viu a riqueza que passava pelas mãos do meu pai e decidiu que ela deveria passar pelas dele. Primeiro, foram os 'impostos de proteção'. Depois, as 'taxas de comércio'. Cada ano, uma nova invenção para sugar até a última moeda de quem realmente trabalhava.
-
-Ela faz uma pausa, o rosto fechado.
-
-— Minha mãe... ela não era como meu pai. Meu pai é pragmático. Ele se curva para não quebrar. Minha mãe tinha um fogo dentro dela. Ela contestou Daikan publicamente. Disse que ele era um ladrão com título de nobreza.
-
-— Algumas semanas depois, ela adoeceu. Uma febre rápida e violenta. Os remédios não faziam efeito. O curandeiro do vilarejo sussurrou para o meu pai que cheirava a... bem, não importa. Ela morreu em três dias.
-
-O silêncio que se segue é eloquente. Rin não acusa Daikan diretamente, mas a implicação paira no ar, tão pesada quanto a culpa.
-
-— Foi aí que o meu pai realmente adoeceu. Não foi só o corpo, foi a alma. Ele aprendeu o preço da resistência. E foi quando Daikan ofereceu seu 'acordo'. A vida do nosso vilarejo, pela servidão do meu pai... e do meu irmão.
-
-Ela ergue o olhar para Katsuro, e ele vê não uma garota, mas uma mulher cuja infância foi roubada pela política suja e pela perda.
-
-— Eu não tive tempo de chorar. Tive que aprender. Aprendi a negociar peles, a calcular impostos, a discernir um olhar amigo de um olhar que cobiça o que é nosso. Aprendi que a honra não enche a panela, mas que a submissão custa a alma. Minhas mãos estão sujas de terra e sangue de animal, mas a alma... a alma está manchada de escolhas que nenhuma criança deveria fazer. — disse Rin.
-
-— Então, sim, Katsuro. Eu entendo o ódio. O meu é um fogo baixo e constante, queimando em segredo há anos. O seu é um incêndio florestal. Talvez... talvez juntos, possamos queimar algo que precise ser queimado.
-
-— A morte da minha mãe 'ensinou' ao meu pai a se curvar. Mas foi outra coisa que ensinou a mim o que eles eram capazes.
-
-Ela ergue o antebraço, puxando a manga para cima. Mesmo na penumbra, é possível ver uma cicatriz antiga, branca e irregular, que vai do pulso até quase o cotovelo.
-
-— Eu tinha nove anos. Takeshi, onze. Goratsu, o filho de Daikan, já não era um menino, mas um jovem adulto cheio de si mesmo e da autoridade recém-descoberta. Ele veio com seus guardas para 'inspecionar' nossa oficina. Na verdade, era para humilhar meu pai. — disse Rin.
-
-Meu pai estava mostrando uma pele rara, valiosíssima. Goratsu pegou-a, fingiu admirar, e então, com um sorriso, a rasgou ao meio com a própria espada.
-
-CENA NO FLASHBACK Seijuro se ajoelha, impotente, os punhos tremendo de raiva e humilhação. Takeshi, o irmão mais velho, dá um passo à frente, seu rosto juvenil vermelho de fúria.
-
-— Seu covarde! Isto era para pagar os impostos! — exclamou Takeshi, ainda menino.
-
-— Goratsu nem olhou para o meu pai. Ele olhou para o meu irmão, aquele sorriso cruel ainda estampado no rosto. — disse Rin.
-
-Goratsu desfere um soco no estômago de Takeshi, que cai de joelhos, engasgando. Rin, escondida atrás de uma pilha de peles, grita e corre para o irmão.
-
-— Eu não pensei. Corri para ele. Gritei para ele parar. — disse Rin.
-
-Goratsu vira-se para a pequena Rin. Seu olhar não é de raiva, mas de diversão perversa. Ele pisa na pele rasgada e valiosa, arrastando-a pelo chão de terra suja.
-
-— Ah, a filhinha do curtidor. Você defende a honra da sua família de ratos? — perguntou Goratsu.
-
-Ele pega uma das facas de curtir que estava sobre uma tábua. Não a lâmina, mas o cabo de metal. A ponta do cabo estava no fogo há pouco, para selar um corte, e ainda brilhava de um laranja fraco.
-
-— Ele não usou a lâmina. Ele pegou o cabo de metal de uma das facas... a parte que estava no fogo. — disse Rin.
-
-Goratsu avança rápido e pressiona o cabo quente no braço estendido de Rin, que tentava proteger o irmão. O som de carne queimando é abafado pelo grito de agonia dela.
-
-— Ele segurou lá. Olhando nos meus olhos. O cheiro da minha própria pele queimando... ele sorriu. Disse: 'Isso é para você lembrar o lugar de sua família. Debaixo do nosso pé. — disse Rin.
-
-Ela baixa a manga, cobrindo a cicatriz como se estivesse cobrindo uma prova de crime.
-
-— Meu pai não fez nada. Ele sabia que qualquer movimento seria nossa sentença de morte. Ele me segurou a noite inteira, enquanto a febre da ferida me consumia, e eu chorava de dor e humilhação. Foi nessa noite que eu entendi. Lágrimas não vão nos salvar. Súplicas não vão nos salvar. Só a força vai. E se eu não tivesse a força de um soldado, teria que ter a força de uma sobrevivente. — disse Rin.
-
-O silêncio na cabana era pesado, carregado das memórias horríveis que ambos haviam desenterrado. Rin ainda sentia o eco do calor do metal em seu braço, uma sensação fantasma que a cicatriz sempre trazia à tona. Ela puxou a manga para baixo, um gesto rápido e automático, como se estivesse escondendo uma parte de sua alma.
-
-Katsuro não a pressionou. Ele não ofereceu palavras vazias de conforto. Em vez disso, ele a observou, e pela primeira vez, sua expressão não era a de um calculista capitão analisando um recurso. Havia um reconhecimento silencioso no olhar dele. A dor dela ecoava a dele. Eles eram estranhos, de mundos diferentes, mas falavam a mesma língua de perda.
-
-Uma cicatriz é uma lição que o corpo nunca esquece. A minha não está na pele, está aqui.
-
-Ele toca levemente seu próprio peito, sobre o coração.
-
-— Eles nos marcaram, Rin. Cada um à sua maneira. Goratsu com fogo e metal. Os Kurotsuki com garras e dentes. E Daikan com a corrupção lenta do medo. — disse Katsuro.
-
-Ele deu um passo à frente, não como uma ameaça, mas como alguém se aproximando de um aliado em campo de batalha.
-
-— Você perguntou se eu sabia o que eram os Kurotsuki. Agora você também sabe. E sabe que meu objetivo não é apenas derrotá-los. É apagá-los. E para isso, não posso ser apenas um soldado. Preciso ser uma sombra, um estrategista, tudo ao mesmo tempo. — disse Katsuro.
-
-Ele estendeu a mão, não para tocar nela, mas num gesto de pacto final.
-
-— Eu não posso prometer que você verá seu irmão novamente depois que ele for para Hayashi. O banimento é o preço da vida dele. — disse Katsuro.
-
-Era a oferta mais honesta que ele poderia fazer. Não era uma promessa de felicidade, mas de vingança e libertação.
-
-Rin olhou para a mão estendida de Katsuro. Não era a mão de um salvador, era a mão de quem ela escolhia para ser seu aliado. Ela não a tomou. Em vez disso, seu olhar subiu, lentamente, do seu peito, onde ele disse carregar sua própria cicatriz, até encontrar os olhos dele.
-
-O silêncio que se seguiu não era mais apenas pesado; era elétrico. A distância entre eles, de alguns passos, parecia ter encolhido. O ar vibrava com o peso das confissões trocadas.
-
-Katsuro não retirou a mão imediatamente. Ele a manteve ali, e seu olhar, antes um reconhecimento distante, agora a escaneia com uma intensidade nova. Ele não via uma garota assustada. Via uma mulher cuja raiva era um espelho da sua. E era uma visão perigosamente hipnótica.
-
-Rin sentiu um frio percorrer sua espinha, mas não era de medo. Era o instinto de uma fera sentindo a presença de outra. Seu coração, que batia acelerado pela raiva contida, pareceu prender por um segundo. A respiração dela ficou presa. Ela podia ver cada detalhe de seu rosto na penumbra: a cicatriz quase imperceptível perto de sua sobrancelha, a firmeza de sua mandíbula, a sombra sob seus olhos que falava de noites sem sono.
-
-Ele deu um passo à frente. Fechou a distância. Sua mão, ainda estendida, caiu ao lado do corpo, mas sua presença agora preenchia o espaço. Rin não recuou. Ergueu o queixo, um ato desafiador e vulnerável ao mesmo tempo. Seus olhos se encontraram, e não havia mais estratégia, não havia mais negociação. Havia apenas o vácuo silencioso e brutal entre duas pessoas que haviam removido todas as suas armaduras e mostrado as feridas purulentas uma para a outra.
-
-A mão de Katsuro se moveu. Não em direção à mão dela, nem para tocar seu rosto. Moveu-se lentamente, quase imperceptivelmente, em direção ao braço dela, onde a cicatriz estava escondida sob o tecido.
-
-Rin parou de respirar.
-
-Seus dedos pararam a centímetros do seu braço. Ele não tocou. O calor do corpo dele era quase palpável. Ele estava olhando para o local da cicatriz como se pudesse vê-la através da manga.
-
-— Às vezes fico pensando se meu pai está por aí. — disse Katsuro.
-
-Era uma confissão tola, desconexa. Mas era a mais íntima de todas. Era a admissão de que seus fantasmas eram reais e tangíveis.
-
-Rin sentiu um tremor incontrolável percorrer seu corpo. Não era nojo. Não era desejo. Era a ressonância pura e crua da dor dele ecoando na dela. Suas próprias memórias do cheiro de sua pele queimando inundaram suas narinas.
-
-Seus olhos se encheram de água, não de tristeza, mas da força daquele momento.
-
-Katsuro recuou bruscamente, como se tivesse sido queimado. A máscara do capitão voltou ao seu rosto, mas seus olhos ainda estavam selvagens, perturbados pelo que quase aconteceu. Ele limpou a garganta, um som áspero que quebrou o feitiço de intimidade.
-
-KATSURO (Voz firme, retomando o tom de comando, ainda áspera pelo que havia sido dito) "Vou agora buscar seu irmão. O resgate foi pago. Levarei Takeshi comigo para Hayashi. É o lugar mais seguro para ele.
-
-Ele se virou de lado, já se preparando para partir, o perfil recortado pela penumbra da cabana.
-
-KATSURO "Também informarei ao meu clã que a missão em Daikan foi concluída. A aliança está feita.
-
-As palavras caíram como o golpe final de uma lâmina — frias, definitivas — encerrando aquele momento suspenso e devolvendo-os ao peso do mundo real, com suas alianças, dívidas e mortes anunciadas.
-
-Rin não respondeu. Apenas assentiu uma única vez. Não havia mais nada a ser dito.
-
-Sem se despedir, Katsuro atravessou a soleira e desapareceu na escuridão da floresta. Sua silhueta foi engolida rapidamente pelas sombras, tão silenciosa quanto havia surgido.
-
-Rin permaneceu parada à porta, ouvindo o som de seus passos se perder até virar apenas parte da noite. O ar dentro da cabana ainda parecia carregado, como se as palavras trocadas tivessem impregnado as paredes.
-
-Ela levou a mão ao próprio braço, sobre o lugar onde a cicatriz dormia sob o tecido.
-
-Já não era apenas sobre salvar Takeshi.
-
-Era sobre guerra. Era sobre segredos antigos. Era sobre homens e demônios que usavam rostos humanos.
-
-A aliança estava selada.
-
-E o caminho à frente não prometia redenção — apenas sombras, escolhas difíceis e sangue.
-
----
-
-# Capítulo 6
-## O Preço do Amanhecer
-
-A caminhada de volta para casa foi a mais longa da vida de Rin. O alívio por saber Takeshi a salvo era um peso oco em seu peito, pois vinha acompanhado da certeza do adeus — um adeus que ela ainda não sabia quando, mas sentia que seria definitivo.
-
-Quando o vilarejo surgiu à frente, uma figura correu em sua direção. Era a senhora Aiko, a tecelã. O rosto da mulher estava pálido, marcado pelo pânico.
-
-— Rin! — gritou, ofegante. — Corra... é seu pai!
-
-Um frio atravessou a espinha de Rin. Ela não respondeu. O corpo se lançou à frente antes mesmo que a mente pudesse reagir. As casas viraram manchas, o chão desapareceu sob seus pés, até que ela empurrou a porta de casa com força.
-
-O ar lá dentro estava pesado. Quieto demais.
-
-Seijuro jazia sobre a esteira, o peito subindo e descendo com dificuldade. Sua respiração era um fio frágil, um sibilo irregular que parecia prestes a se romper a qualquer instante. A doença havia consumido quase tudo o que ele fora. Ainda assim, ao vê-la, um último lampejo de lucidez acendeu em seus olhos opacos.
-
-Rin caiu de joelhos ao seu lado e segurou sua mão, fria e leve demais.
-
-— Pai... — sussurrou, a voz quebrada. — Takeshi está salvo. Está a caminho de Hayashi. Está livre.
-
-Um suspiro profundo escapou dos lábios de Seijuro, como se carregasse o peso de uma vida inteira. Alívio e tristeza se misturaram em seus traços cansados.
-
-— Minha filha... — sua voz era pouco mais que um sopro, mas cada palavra vinha carregada de sentido. — Você... cumpriu seu dever. Para comigo... para com seu irmão. Agora... está cumprido.
-
-Ele fechou os olhos por um instante, reunindo forças que já não tinha.
-
-— Esta terra... — continuou, com dificuldade — só nos deu sofrimento. Primeiro sua mãe... depois Takeshi... agora... agora eu.
-
-Sua mão apertou a dela, fraca, mas determinada.
-
-— Está na hora de... parar.
-
-Seus olhos, nublados pela dor, fitaram os dela com uma intensidade súbita, quase dolorosa.
-
-— Vá embora, Rin... — murmurou. — Deixe este lugar para trás. Esqueça Daikan... esqueça a vingança... esqueça... tudo.
-
-Ele apertou a mão dela com uma força inesperada, como se aquele fosse o último gesto que ainda podia controlar.
-
-— Encontre uma terra distante... longe daqui. Um homem bom... uma vida simples. Seja... feliz. Essa é a minha última vontade.
-
-As palavras ecoaram na cabana silenciosa como um decreto sagrado. Eram o oposto de tudo o que Rin havia se preparado para fazer. Um pedido de rendição — mas nascido não do medo, e sim de um amor cansado, exausto de lutar.
-
-Antes que ela pudesse responder, protestar ou prometer qualquer coisa, a pressão em sua mão diminuiu. A respiração de Seijuro cessou em um último e tranquilo suspiro.
-
-A expressão em seu rosto não era de dor. Era de paz.
-
-O silêncio que se seguiu era diferente de qualquer outro. Não era o silêncio de quem espera um som, mas o silêncio absoluto e aterrador de quem sabe que nunca mais ouvirá nenhum.
-
-Rin permaneceu ajoelhada, incapaz de se mover. A mão do pai esfriava lentamente entre as suas, e ela não a soltava, como se seu próprio calor pudesse negar o inevitável. O tempo deixou de existir. Só havia aquele corpo imóvel... e a ausência.
-
-A dor veio forte, sufocante. Mas o vazio que se seguiu foi pior.
-
-O último elo com seu passado se fora. A última pessoa por quem ela lutava já não respirava. E sua última ordem fora que ela desistisse.
-
-Rin ergueu o olhar para o rosto sereno de Seijuro, agora livre do peso do mundo. Pela primeira vez, não havia ninguém para protegê-la. Ninguém para aconselhá-la. Ninguém para segurá-la de volta.
-
-Ela estava completamente sozinha.
-
-E diante dela restava apenas uma escolha: honrar o sacrifício do pai, obedecendo ao seu último desejo... ou honrar a própria dor, permitindo que ela se transformasse em algo mais sombrio — uma chama solitária, ardendo no escuro.
-
-Quando a realidade finalmente rachou o casulo de seu choque, o que veio não foi o pranto, mas uma lucidez gelada. Havia coisas a serem feitas. O corpo de seu pai não merecia apodrecer naquele leito de desespero.
-
-Com movimentos mecânicos, Rin fechou os olhos de Seijuro com a ponta dos dedos — um último e terno gesto de dignidade. Em seguida, saiu da cabana e caminhou até o poço. A água estava gelada, mordendo-lhe as mãos, mas ela encheu uma bacia e voltou. Com um pano limpo, lavou o rosto e as mãos do pai, removendo os vestígios dos dias de agonia. Depois, trocou as roupas suadas por uma túnica simples, porém limpa. Cada gesto era um adeus. Uma oração silenciosa. Um pedido de perdão por todos os sacrifícios que ele havia feito por ela e por Takeshi.
-
-A noite caiu, e Rin não acendeu a fogueira.
-
-Sentou-se no chão, de costas para a porta, encarando a forma imóvel de seu pai sob a luz pálida da lua que entrava pela janela. A solidão era uma presença física, pesada sobre seus ombros. Ela não chorou. As lágrimas pareciam ter se petrificado dentro dela, formando um nó duro e doloroso na garganta. Em vez disso, sua mente revisitou cada detalhe: o som de sua risada rara, o peso reconfortante de sua mão sobre sua cabeça quando criança, a resignação silenciosa que se instalara em seus olhos nos últimos anos.
-
-Ela passou a noite em vigília, ouvindo os sons do vilarejo adormecido — passos distantes, um cachorro latindo, o vento passando entre as casas. Nada daquilo lhe parecia mais familiar. Era a guardiã de um legado que terminava ali, a última sentinela de um nome que em breve seria esquecido. Quando o primeiro raio de luz do amanhecer pintou o céu, ela soube que era hora.
-
-O caixão de madeira simples foi trazido por dois homens do vilarejo, que evitaram seu olhar, misturando pena e medo. Eles carregaram Seijuro para fora de sua casa pela última vez. Rin os seguiu, o rosto endurecido como uma máscara de pedra, carregando sobre os ombros invisíveis o peso de dois mundos: o que havia terminado com a morte de seu pai... e o que estava prestes a começar com seu último ato de rebeldia no cemitério.
-
-O adeus privado havia terminado. O adeus público — e toda a fúria que ele despertaria — estava prestes a começar.
-
-A terra era fria e pesada nas mãos de Rin. Cada punhado lançado sobre o caixão simples, enterrado ao lado de sua mãe, era como selar um capítulo de sua vida. Apenas alguns vizinhos mais corajosos compareceram, seus rostos marcados por pena e temor. O silêncio era quebrado apenas pelo som surdo da terra caindo... e pelo choro contido de Rin, finalmente escapando em soluços baixos.
-
-Ela não tinha flores. Não tinha discursos.
-
-Apenas uma promessa silenciosa, feita diante da terra recém-fechada: o sofrimento de sua família não seria em vão.
-
-Foi então que um som dissonante cortou o luto: palmas lentas e sarcásticas.
-
-— Ploc. Ploc. Ploc.
-
-Goratsu emergiu da sombra das árvores na borda do cemitério, acompanhado por dois soldados. Seu sorriso era um corte torto no rosto, afiado e cruel.
-
-— Já vai tarde, Seijuro — disse ele, a voz escorrendo desdém venenoso. — Verme teimoso. Finalmente parou de causar problemas.
-
-Rin congelou. Os punhos se fecharam, as unhas cravando-se na terra úmida, mas ela não se virou. Manteve os olhos fixos na cova recém-fechada.
-
-— O que você quer, Goratsu? — perguntou, a voz surpreendentemente firme, fria como pedra.
-
-— Ora, vim prestar meus respeitos — zombou ele, aproximando-se com passos calculados. Os poucos vizinhos presentes recuaram, tomados pelo medo. — Veja só... restou apenas o último ratinho dessa linhagem de ratos, não é mesmo, Rin?
-
-Ele parou ao lado dela. Perto demais. Invadindo seu espaço. O cheiro de couro, suor e arrogância a envolveu.
-
-— Quem vai te proteger agora, hein? — continuou, saboreando cada palavra. — Seu pai virou comida para minhocas. Seu irmão... bem, se for esperto, nunca mais pisa aqui.
-
-Goratsu se inclinou, o sussurro carregado de veneno roçando o ouvido dela.
-
-— Você precisa de um homem. Alguém forte. Alguém para... cuidar de você.
-
-Antes que Rin pudesse reagir, a mão dele — envolta em uma luva de couro — tocou seu rosto num gesto possessivo e degradante.
-
-Foi a gota d'água.
-
-O estalo da mão de Rin contra o rosto de Goratsu ecoou pelo cemitério silencioso como um disparo. Um golpe seco, carregado de toda a raiva, dor e humilhação acumuladas ao longo de uma vida inteira.
-
-Por um instante, o mundo pareceu parar. Até o vento conteve o fôlego.
-
-O sorriso de Goratsu desapareceu.
-
-Ele levou a mão ao rosto, sentindo o calor do impacto. O vermão marcado em sua pele pálida era o selo da ousadia dela. Seus olhos, antes cheios de diversão perversa, estreitaram-se em fendas assassinas.
-
-A fúria que surgiu ali não era teatral.
-
-Era real
-
-— Sua cadela insolente... você ousa? — rugiu Goratsu, a voz deformada pela raiva. A mão voou para o cabo da espada.
-
-Foi como se um feitiço se quebrasse.
-
-Os poucos vizinhos presentes, antes paralisados pelo medo, entraram em pânico. Gritos explodiram. Uma mulher chorou. Mas dois homens — velhos caçadores que haviam bebido com Seijuro, cujos rostos agora ardiam de vergonha — agiram.
-
-— Peguem-na, seus inúteis! — Goratsu rosnou para os soldados, já puxando a lâmina da bainha.
-
-Os dois homens se lançaram à frente dos soldados. Não empunhavam armas. Usaram os próprios corpos, empurrando, agarrando, criando um bloqueio caótico e desesperado.
-
-— Vai, Rin! Corre! — gritou um deles, segurando o braço de um soldado.
-
-Não era uma batalha. Era um tumulto. Era a única chance.
-
-Rin não olhou para trás. Não olhou para a cova do pai. Girou nos calcanhares e disparou para fora do cemitério, em direção à floresta densa que se erguia logo atrás.
-
-Seus pés mal tocavam o chão.
-
-O som da confusão, os gritos de Goratsu e o tinir do metal ficaram para trás, engolidos pela batida ensurdecedora de seu coração e pelo farfalhar violento das folhas sob seus passos.
-
-Ela correu.
-
-Correu como nunca havia corrido. A dor, a raiva, a perda — tudo virou combustível queimando nos músculos. A floresta a engoliu, suas sombras fechando-se ao redor dela como um abrigo urgente e instável.
-
-Dois quilômetros adentro, quando a exaustão ameaçou derrubá-la e nenhum som de perseguição restava, Rin desabou atrás de um grande carvalho. Ofegante. O rosto molhado de suor e lágrimas que ela já não tentava conter.
-
-Ela estava sozinha.
-
-Sem família. Sem casa. Sem vilarejo.
-
-Agora, Goratsu não a caçaria apenas por desprezo, mas por vingança. Ela era uma foragida.
-
-E, ainda assim, no meio do pânico, algo novo começou a arder em seu peito — mais quente que o medo.
-
-Liberdade.
-
-As correntes que a mantinham ali — o dever, a submissão, o medo — haviam se rompido naquele cemitério.
-
-Rin não tinha mais nada a perder.
-
-E isso a tornava perigosa.
-
-Erguendo a cabeça, Rin sentiu as lágrimas secarem no próprio rosto. Seus olhos se firmaram. Ela olhou uma última vez na direção de onde viera — para o vilarejo que já não era seu lar, para as sepulturas recentes, para tudo o que havia perdido.
-
-Depois, voltou-se para a floresta. Para o desconhecido.
-
-O último desejo de seu pai fora simples: paz. Uma terra distante. Uma vida que não exigisse luta. Mas o mundo não lhe oferecia esse luxo.
-
-Para Rin, restava apenas um caminho.
-
-Não o da fuga. Não o esquecimento.
-
-O da guerra.
-
-E ela sabia exatamente a quem procurar.
-
-Katsuro.
-
-O homem que carregava o mesmo ódio. O homem que prometera incendiar o mundo.
-
-Era hora de cobrar essa promessa.
-
----
-
-# Capítulo 7
 ## A Estrada Sem Volta
 
 A floresta, outrora um refúgio, agora era um labirinto de memórias dolorosas. Rin caminhou por horas, guiada apenas pelo instinto e pela fúria que lhe aquecia as entranhas. A fome era uma dor surda, mas a sede de justiça — ou de vingança — era mais aguda.
@@ -3012,7 +2561,7 @@ Capitão Katsuro. Estava na hora.
 
 ---
 
-# Capítulo 8
+# Capítulo 5
 ## A Casa Onde a Guerra Respira
 
 A porta se fechou, e o mundo exterior pareceu desaparecer. O ar dentro da casa de Takeshi ficou gelado e estanque.
@@ -3157,7 +2706,7 @@ Naquela casa humilde, cercada pelos simples embrulhos de um novo começo, os doi
 
 ---
 
-# Capítulo 9
+# Capítulo 6
 ## Frágeis Asas, Deveres de Aço
 
 O sol da manhã filtrou-se suavemente através das folhas, pintando o chão da floresta com padrões dourados. Junto a um riacho sereno, Rin vestia suas novas roupas de comerciante. O azul do kosode parecia mais vibrante sob a luz natural, e pela primeira vez em semanas, seus ombros não carregavam o peso visível do desespero.
@@ -3264,7 +2813,7 @@ Sem dizer outra palavra, Rin começou a caminhar de volta em direção às casas
 
 ---
 
-# Capítulo 10
+# Capítulo 7
 ## Máscaras na Estrada
 
 O tão aguardado dia chegou com um céu cinzento e pesado, como se o próprio tempo hesitasse em abençoar sua partida. O ar frio da manhã carregava o cheiro de terra molhada e ansiedade.
@@ -3395,7 +2944,7 @@ Agora, a guerra não seria um salto no escuro. Seria uma investida calculada, co
 
 ---
 
-# Capítulo 11
+# Capítulo 8
 ## A Estrada de Volta para Casa
 
 A carroça de Rin e Takeshi seguia pela estrada empoeirada, a fronteira de Hayashi já um alívio no horizonte. A segunda carroça, com os três guardas disfarçados, mantinha uma distância segura, como combinado. O sucesso da missão trazia um clima de alívio cauteloso.
@@ -3644,7 +3193,7 @@ parei aqui
 
 ---
 
-# Capítulo 12
+# Capítulo 9
 ## A Raposa no Mercado
 
 A chegada de Goratsu ao território Hayashi foi como a de uma raposa entrando sorrateiramente no território de um lobo. Ele trouxe consigo apenas uma pequena comitiva, suficiente para não ser considerado uma invasão, mas grande o bastante para projetar poder. Seu objetivo não era um confronto aberto, mas uma caçada. A peça? A "ratinha fujona" que havia escapado de suas garras.
@@ -3735,7 +3284,7 @@ Agora, some da minha vista.
 
 ---
 
-# Capítulo 13
+# Capítulo 10
 ## A Jornada para a Forja das Sombras
 
 O sol ainda não havia nascido quando o silêncio do acampamento Hayashi foi quebrado pelos sons discretos de preparação. Não havia fanfarra, nem discursos para as tropas. Esta missão era diferente de todas as outras — um raio em meio à tempestade que se aproximava, uma aposta desesperada no coração da lenda.
@@ -3914,7 +3463,7 @@ Não houve perguntas. Não houve hesitação. Dois homens pegaram Katsuro de Tak
 
 ---
 
-# Capítulo 14
+# Capítulo 11
 ## O Retorno dos Feridos
 
 A luz do amanhecer não trouxe alívio, apenas contornos nítidos ao desastre.
@@ -4175,7 +3724,7 @@ E enquanto o martelo se preparava para golpear, nas forjas escondidas de Hayashi
 
 ---
 
-# Capítulo 15
+# Capítulo 12
 ## O Martelo e a Lâmina
 
 A viagem de retorno foi silenciosa, marcada apenas pelo ritmo dos cascos contra a terra endurecida pelo frio que se aproximava. Katsuro mantinha os sentidos alertas, mas sua mente girava em torno de um único eixo: logística. Quinze dias. Tempo suficiente para preparar um ataque surpresa, tempo curto demais para permitir dúvidas. Cada detalhe precisava se encaixar com a precisão de uma armadura bem ajustada.
@@ -4246,7 +3795,7 @@ A engrenagem não podia mais ser detida. O martelo estava erguido. A lâmina, af
 
 ---
 
-# Capítulo 16
+# Capítulo 13
 ## O Vale das Sombras
 
 O dia amanheceu não com luz, mas com a ausência dela. Um céu baixo e plúmbeo prometia neve, pesando sobre os ombros de cada homem que se reunia no pátio principal de Hayashi.
@@ -4381,7 +3930,7 @@ A batalha acabou. Mas a guerra, ele sentia no sangue que ainda fervia em suas ve
 
 ---
 
-# Capítulo 17
+# Capítulo 14
 ## As Marcações no Sangue
 
 O amanhecer no Vale das Sombras não trouxe alívio. Trouxe revelação.
@@ -4550,7 +4099,7 @@ No Vale das Sombras, o sol revelaria os segredos do sangue. No salão de Onizuka
 
 ---
 
-# Capítulo 18
+# Capítulo 15
 ## Os Heróis Quebrados
 
 A coluna que se aproximava das muralhas de Hayashi não marchava. Arrastava-se. Eram menos de trinta homens onde centenas haviam partido. Seus mantos azuis-escuros, outrora símbolo de orgulho e ordem, estavam rasgados, queimados nas bordas, impregnados de uma poeira escura que não era apenas terra, mas cinza de piras funerárias improvisadas e da decomposição dos Oni. E o sangue. Sempre o sangue. Manchas escuras e rígidas que iam do ombro à cintura, nas pernas, nos braços — um mapa mudo da carnificina do Vale das Sombras.
@@ -4675,7 +4224,7 @@ Era, talvez, uma guerra familiar.
 
 ---
 
-# Capítulo 19
+# Capítulo 16
 ## A Medida da Vitória
 
 O Salão do Lótus de Jade estava envolto em um silêncio denso, quebrado apenas pelo leve estalar das brasas no hibachi. O Imperador Hayashi, sentado à cabeceira da mesa baixa, tinha o rosto iluminado pela luz âmbar das lanternas, mas seus olhos eram duas pedras negras de astúcia. À sua direita, o General Ryoto, imóvel como uma estátua. Do outro lado, Katsuro, Takeshi e Rin — a trindade improvável cujos destinos agora pesavam sobre o futuro do clã.
@@ -4830,7 +4379,7 @@ A transformação de Rin não era o fim do pesadelo. Era a abertura de um capít
 
 ---
 
-# Capítulo 20
+# Capítulo 17
 ## O Amanhecer dos Três
 
 O inferno não diminuía. A cada grito abafado, a cada som de madeira estilhaçando, mais Oni parecia emergir das sombras da cidade. A investida não era um ataque pontual; era uma invasão planejada, uma infestação noturna. E no centro desse pesadelo, três pontos de resistência impossíveis se formaram, cada um uma negação violenta da ordem natural que os Oni representavam.
@@ -5011,7 +4560,7 @@ Rin observava, e em seus olhos não havia medo, mas uma compreensão profunda. E
 
 ---
 
-# Capítulo 21
+# Capítulo 18
 ## A Semente na Cinza
 
 O luto desceu sobre Hayashi como uma neblina pesada e silenciosa. O cheiro de incenso e cinzas de crisântemos brancos substituiu, por alguns dias, o odor de fumaça e morte. O Imperador Hayashi, agora um espectro vivo, ordenou um funeral de estado. Não uma celebração da vida, mas um ritual coletivo de dor para toda a cidade.
@@ -5082,7 +4631,7 @@ O luto havia sido o fim de um capítulo. Agora, o próximo começava, escrito n�
 
 ---
 
-# Capítulo 22
+# Capítulo 19
 ## O Sangue que nos Une
 
 A névoa do pântano era um véu úmido e persistente, envolvendo Rin em um silêncio que parecia absorver até o som de seus próprios passos. A cabana do Mestre Akihito surgiu como um fantasma da lama, mais decadente e melancólica do que em sua memória. O cheiro de mofo, ervas amargas e algo indefinivelmente antigo a envolveu quando ela empurrou a porta rangente.
@@ -5209,7 +4758,7 @@ Ela começou a andar de novo, em direção a Hayashi. Cada passo a afastava do p
 
 ---
 
-# Capítulo 23
+# Capítulo 20
 ## A Colheita do Ódio
 
 A conquista do território Onizuka não foi uma guerra. Foi um desabamento.
@@ -5354,7 +4903,7 @@ Mas não para sempre. Quando Takeshi voltasse, enfrentariam juntos a verdade: um
 
 ---
 
-# Capítulo 24
+# Capítulo 21
 ## O Pai da Floresta
 
 O antigo salão do trono de Daikan havia perdido sua opressão dourada. Takeshi mandara retirar os troféus de caça e os estandartes dos Onizuka. Agora, o espaço era simples: mesas de carvalho práticas, mapas de território nas paredes, e na cabeceira, apenas a bandeira de Hayashi e uma pequena lâmina de curtidor em uma moldura simples - homenagem a Seijuro.
@@ -5433,7 +4982,7 @@ A decisão que tomassem agora não seria sobre política ou estratégia de guerr
 
 ---
 
-# Capítulo 25
+# Capítulo 22
 ## O Fio da Herança
 
 O silêncio no salão pesava mais do que qualquer armadura após as palavras de Saburō. Takeshi parecia ter envelhecido dez anos em minutos, suas mãos ainda apoiadas na mesa como se fosse a única coisa que o impedia de cair. Rin não conseguia tirar os olhos do rosto de Saburō, procurando em cada linha, cada sombra, algum traço de si mesma, de seu irmão, da mãe que ela mal lembrava.
@@ -5550,7 +5099,7 @@ Rin continuou de pé até que não pudesse mais vê-los. Então, lentamente, lev
 
 ---
 
-# Capítulo 26
+# Capítulo 23
 ## Sangue e Vermelhão
 
 Rin ficou parada no pátio até que o último eco dos passos de Katsuro se perdesse na estrada poeirenta. O calor do abraço ainda a envolvia como um fantasma, uma promessa física que agora precisava guardar dentro de si. Ela respirou fundo, enxugou os olhos com as costas da mão e voltou para dentro do palácio.
@@ -5715,7 +5264,7 @@ Rin, ele pensou, iria adorar essa notícia. Ou talvez sua transformação em uma
 
 ---
 
-# Capítulo 27
+# Capítulo 24
 ## O Espelho do Rei Demônio
 
 O Vale da Lua Clara era um lugar de beleza sobrenatural e silêncio opressivo. Um lago de águas escuras e perfeitamente imóveis refletia o céu noturno estrelado, cercado por pinheiros antigos e negros. Não havia soldados à vista. Apenas uma figura sentada à beira do lago, em um simples banco de pedra, contemplando seu próprio reflexo.
@@ -5804,7 +5353,7 @@ E ele teria que vencê-la todos os dias, a cada respiração, até o confronto f
 
 ---
 
-# Capítulo 28
+# Capítulo 25
 ## A Semente do Fogo Negro
 
 Há muitas eras, na Floresta do Inferno, a origem do sangue amaldiçoado começou não com ambição, mas com o desespero de um pai diante da morte do filho.

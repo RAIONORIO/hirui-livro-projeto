@@ -1,4 +1,4 @@
-# Capítulo 21
+# Capítulo 18
 ## A Semente na Cinza
 
 O luto desceu sobre Hayashi como uma neblina pesada e silenciosa. O cheiro de incenso e cinzas de crisântemos brancos substituiu, por alguns dias, o odor de fumaça e morte. O Imperador Hayashi, agora um espectro vivo, ordenou um funeral de estado. Não uma celebração da vida, mas um ritual coletivo de dor para toda a cidade.

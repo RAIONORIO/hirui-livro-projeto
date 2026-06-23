@@ -1,4 +1,4 @@
-# Capítulo 27
+# Capítulo 24
 ## O Espelho do Rei Demônio
 
 O Vale da Lua Clara era um lugar de beleza sobrenatural e silêncio opressivo. Um lago de águas escuras e perfeitamente imóveis refletia o céu noturno estrelado, cercado por pinheiros antigos e negros. Não havia soldados à vista. Apenas uma figura sentada à beira do lago, em um simples banco de pedra, contemplando seu próprio reflexo.

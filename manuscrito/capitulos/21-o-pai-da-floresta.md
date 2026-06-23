@@ -1,4 +1,4 @@
-# Capítulo 24
+# Capítulo 21
 ## O Pai da Floresta
 
 O antigo salão do trono de Daikan havia perdido sua opressão dourada. Takeshi mandara retirar os troféus de caça e os estandartes dos Onizuka. Agora, o espaço era simples: mesas de carvalho práticas, mapas de território nas paredes, e na cabeceira, apenas a bandeira de Hayashi e uma pequena lâmina de curtidor em uma moldura simples - homenagem a Seijuro.

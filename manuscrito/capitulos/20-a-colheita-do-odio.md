@@ -1,4 +1,4 @@
-# Capítulo 23
+# Capítulo 20
 ## A Colheita do Ódio
 
 A conquista do território Onizuka não foi uma guerra. Foi um desabamento.

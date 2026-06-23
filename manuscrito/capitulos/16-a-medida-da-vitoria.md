@@ -1,4 +1,4 @@
-# Capítulo 19
+# Capítulo 16
 ## A Medida da Vitória
 
 O Salão do Lótus de Jade estava envolto em um silêncio denso, quebrado apenas pelo leve estalar das brasas no hibachi. O Imperador Hayashi, sentado à cabeceira da mesa baixa, tinha o rosto iluminado pela luz âmbar das lanternas, mas seus olhos eram duas pedras negras de astúcia. À sua direita, o General Ryoto, imóvel como uma estátua. Do outro lado, Katsuro, Takeshi e Rin — a trindade improvável cujos destinos agora pesavam sobre o futuro do clã.

@@ -1,4 +1,4 @@
-# Capítulo 18
+# Capítulo 15
 ## Os Heróis Quebrados
 
 A coluna que se aproximava das muralhas de Hayashi não marchava. Arrastava-se. Eram menos de trinta homens onde centenas haviam partido. Seus mantos azuis-escuros, outrora símbolo de orgulho e ordem, estavam rasgados, queimados nas bordas, impregnados de uma poeira escura que não era apenas terra, mas cinza de piras funerárias improvisadas e da decomposição dos Oni. E o sangue. Sempre o sangue. Manchas escuras e rígidas que iam do ombro à cintura, nas pernas, nos braços — um mapa mudo da carnificina do Vale das Sombras.
