@@ -1,178 +1,317 @@
 # Capítulo 4
+
 ## A Estrada Sem Volta
 
-A floresta, outrora um refúgio, agora era um labirinto de memórias dolorosas. Rin caminhou por horas, guiada apenas pelo instinto e pela fúria que lhe aquecia as entranhas. A fome era uma dor surda, mas a sede de justiça — ou de vingança — era mais aguda.
+A floresta deixara de parecer um refúgio antes mesmo de Rin perceber que ainda caminhava por ela. As árvores se fechavam ao seu redor como testemunhas mudas, os troncos úmidos marcados pela chuva da madrugada, as folhas pesadas pingando sobre seus ombros, seus cabelos e a pele exposta de suas mãos. Em outros tempos, aquele caminho teria sido apenas uma passagem conhecida entre a aldeia e as rotas de caça, um trecho de sombra onde Seijuro costumava ensiná-la a reconhecer pegadas, fungos venenosos, cascas úteis para tintura e sinais de animais feridos. Agora, cada árvore parecia guardar uma lembrança que ela não tinha forças para enfrentar.
 
-Finalmente, a densa vegetação começou a rarear. A luz do sol, que ela não via direito desde o enterro, bateu em seu rosto, e ela pestanejou, ofuscada. Diante dela, serpenteando pela paisagem, estava uma estrada de terra batida. Era a primeira vez que pisava em uma estrada real sozinha, sem a companhia do pai ou a carga de peles para vender. Era um marco. O fim de uma vida e o início de outra.
+Rin caminhava sem saber há quanto tempo havia deixado o cemitério para trás. O tapa dado em Goratsu ainda ardia em sua mão, mas a ardência era pequena diante do vazio deixado pela morte do pai. A chuva havia lavado a terra de seus joelhos, porém não tirara o cheiro do túmulo, nem o peso da última respiração de Seijuro, nem a forma como os dedos dele haviam perdido força dentro dos seus. Ela apertou a capa de pele sobre os ombros e continuou andando, guiada menos por direção do que por recusa. Voltar para a aldeia significava voltar para Daikan, para os cobradores, para a cabana vazia e para tudo aquilo que havia sido arrancado dela pedaço por pedaço. Seguir em frente, ao menos, ainda era uma forma de não se entregar.
 
-Enquanto avaliava para que lado seguir, o som de rodas rangendo e o passo lento de um cavalo chegaram até ela. Escondeu-se rapidamente atrás de uma árvore, o coração acelerado. Um carroção puxado por um cavalo velho surgiu na curva. E no banco do condutor, um homem de idade, com um chapéu de abas largas e um rosto enrugado pelo sol, que ela reconheceu imediatamente.
+A mata começou a rarear quando o sol já subia por trás das montanhas, pálido e frio, como se também tivesse vergonha de tocar aquela terra. A luz atravessou os galhos e obrigou Rin a semicerrar os olhos. Diante dela, uma estrada de terra batida cortava a paisagem em duas direções, uma levando de volta ao domínio Onizuka, outra seguindo para regiões onde ela nunca havia ido sozinha. Por um instante, ficou parada à beira do caminho, ouvindo o próprio fôlego e o ruído distante de pássaros entre os pinheiros. Era apenas uma estrada, estreita, irregular, marcada por rodas antigas e ferraduras, mas para ela pareceu algo maior: a fronteira entre a filha de Seijuro e qualquer coisa que restasse depois disso.
 
-Era o velho Sota, um comerciante de tecidos que fazia negócios com seu pai há anos. Era um homem tranquilo, de poucas palavras, mas de confiança.
+O som de rodas rangendo chegou antes do carroção. Rin recuou por instinto e se escondeu atrás de um tronco largo, a mão fechada sobre o cabo da faca que carregava sob a roupa. Não era uma arma digna de um guerreiro, apenas uma lâmina de trabalho, usada para cortar couro, raspar gordura e separar pele de carne, mas era tudo o que possuía. O cavalo surgiu primeiro, velho, magro, avançando sem pressa. Atrás dele vinha uma carroça coberta por lonas amarradas, sacos de tecido e caixas estreitas. No banco, curvado sob um chapéu de abas largas, seguia um homem de rosto enrugado, barba rala e olhos atentos ao caminho.
 
-Aproveitando que a estrada estava vazia, Rin saiu de seu esconderijo. "Tio Sota?
+Rin o reconheceu antes que ele a visse. Sota era comerciante de tecidos e havia negociado com Seijuro durante anos. Não era amigo íntimo, porque homens pobres raramente podiam se dar ao luxo de chamar negócios de amizade, mas sempre fora justo o bastante para pagar o valor combinado e discreto o bastante para não perguntar além do necessário. Seijuro dizia que isso, naquela terra, já era quase uma virtude.
 
-O homem levou um susto, puxando as rédeas. Seus olhos se arregalaram ao reconhecê-la, suja, com as roupas ainda manchadas de terra do cemitério e os olhos fundos, mas incrivelmente determinados.
+Ela esperou a carroça se aproximar e saiu de trás da árvore com os dedos ainda próximos da faca. O cavalo bufou, Sota puxou as rédeas com um susto e quase derrubou o embrulho que trazia ao lado.
 
-Rin?! Pelos deuses, menina! O que você está fazendo aqui sozinha? Onde está Seijuro?" Sua voz era cheia de genuína preocupação.
+— Tio Sota.
 
-Rin ignorou a última pergunta, a dor ainda uma faca torcida. "Para onde o senhor está indo, Tio Sota?
+O velho levou a mão ao peito, depois inclinou-se para enxergá-la melhor. Quando reconheceu o rosto sob os cabelos molhados e a capa manchada de barro, sua expressão endurecida pela estrada se desfez em espanto.
 
-Ele suspirou, acomodando-se no banco. "Ah, vou tentar a sorte a leste. Vou atravessar o Vale da Sombra Pálida, nas terras dos Kurotsuki. Os tecidos de lá são únicos... mas é uma viagem perigosa. Vou passar primeiro pelos Hayashi, para vender o que posso e ver se consigo mais algum guarda-costas para a travessia.
+— Rin? Pelos ancestrais, menina, o que você está fazendo aqui sozinha? — perguntou ele, descendo os olhos para as roupas dela, para a lama presa à barra do vestido, para o rosto pálido demais. — Onde está Seijuro?
 
-Hayashi. O coração de Rin deu um salto. Era o sinal. Era a sua passagem.
+O nome do pai atravessou Rin como uma lâmina fina. Ela não respondeu de imediato. Engoliu em seco, olhou para a estrada atrás da carroça e só então ergueu os olhos para Sota.
 
-Ela olhou para o velho comerciante, depois para a estrada que levava ao único lugar onde ela tinha, não um aliado, mas um cúmplice. Um plano começou a se formar em sua mente, tão claro e afiado quanto sua faca de curtir.
+— Para onde o senhor está indo?
 
-Tio Sota", ela disse, sua voz assumindo uma seriedade que ele nunca tinha ouvido nela. "O senhor precisa de uma guarda-costas que conheça o valor das coisas e que saiba negociar. E eu... eu preciso chegar aos Hayashi.
+Sota franziu o cenho. Havia preocupação em seu rosto, mas também o cuidado de quem entendia que algumas respostas só vinham quando a pessoa ainda tinha forças para dá-las.
 
-Os olhos de Sota se estreitaram, avaliando-a. Ele não era tolo. Viu a dor, a determinação e a desesperança em seu olhar. Ele sabia que aquela não era uma simples carona.
+— A leste — disse ele. — Pretendo passar pelas terras Hayashi antes de seguir mais longe. Levo tecidos bons, alguns rolos tingidos, poucas peças de valor alto. Se tiver sorte, vendo parte da carga no mercado deles e contrato escolta para a próxima etapa.
 
-Rin... o que aconteceu?", ele perguntou, suavemente.
+O nome dos Hayashi fez o corpo de Rin ficar imóvel. A estrada, que até então parecia apenas fuga, ganhou direção. Hayashi não era salvação. Ela não era tola o bastante para acreditar em salvação depois de tudo o que havia visto. Mas lá estava Takeshi. Lá estava Katsuro. Lá estava o único fio de acordo que ainda ligava a vida de seu irmão a algo diferente de uma sepultura.
 
-O senhor não vai querer saber", ela respondeu, seu olhar indo em direção à estrada, na direção de Hayashi. "Mas posso garantir que, se me levar, sua carga chegará intacta. E eu... eu encontrare o que procuro.
+Sota percebeu a mudança em seus olhos e suspirou, cansado antes mesmo de ouvir o pedido.
 
-O velho comerciante ficou em silêncio por um longo momento, olhando para a estrada à frente e depois para a jovem marcada pela tragédia que estava à sua frente. Finalmente, ele fez um aceno de cabeça.
+— Rin, o que aconteceu?
 
-Entre no carroção, menina. E conte-me o que quiser pelo caminho.
+Ela olhou para as mãos. Ainda havia terra escura sob suas unhas, talvez do túmulo, talvez da floresta, talvez de tudo o que se misturava nela desde a manhã anterior. Quando respondeu, a voz saiu baixa, mas firme.
 
-E assim, Rin deu seu primeiro passo concreto em sua nova vida. Não como a filha do curtidor, mas como uma sombra em busca de uma guerra.
+— Meu pai morreu.
 
-O Salão do Trono de Daikan
+O comerciante ficou em silêncio. O cavalo mexeu a cabeça, impaciente, e as rodas da carroça rangeram de leve quando o vento passou sob a lona. Sota tirou o chapéu devagar, num gesto simples de respeito, e abaixou os olhos.
 
-Daikan Onizuka estava sentado em seu trono, examinando um pergaminho com os números dos impostos arrecadados, quando Goratsu entrou sem cerimônia, um sorriso vitorioso estampado em seu rosto.
+— Sinto muito, menina.
 
-Você interrompe por um bom motivo, filho?
+Rin assentiu, mas não permitiu que a pausa se alongasse. Se deixasse o luto ocupar todo o espaço, talvez nunca conseguisse voltar a andar.
 
-O melhor, pai. A situação com os Kurosawa findou-se. De vez.
+— Eu preciso chegar aos Hayashi. Não peço caridade. Posso ajudar na viagem, posso negociar sua carga, posso reconhecer preços, medidas e enganos melhor do que muitos homens que se dizem comerciantes. Meu pai me ensinou o valor das coisas, e os Onizuka me ensinaram quanto custa não saber defendê-lo.
 
-Daikan baixou o pergaminho, seu interesse verdadeiramente capturado.
+Sota a observou com atenção. Não viu nela uma guarda, porque Rin não tinha porte de guerreira, nem armadura, nem força para deter salteadores com uma lâmina curta e raiva nos olhos. Viu outra coisa: uma jovem ferida, mas lúcida; alguém que havia perdido tudo e ainda assim falava de preço, rota e utilidade. Seijuro teria reconhecido aquele tipo de desespero. Talvez por isso o velho comerciante não a recusou.
 
-Fale.
+— Suba — disse ele, recolocando o chapéu. — Não sei no que você se meteu, e provavelmente isso deveria me assustar mais do que já assusta. Mas devo favores ao seu pai. Pelo menos até Hayashi, você vai comigo.
 
-O velho Seijuro finalmente sucumbiu à sua doença. A terra dele agora está vazia." O sorriso de Goratsu se tornou um pouco mais cruel. "Quanto à filha, a ratinha Rin... ela desapareceu. Depois do enterro do velho, ninguém no vilarejo a viu. Deve ter fugido com o rabo entre as pernas, com medo de sofrer o mesmo destino do irmão.
+Rin subiu na parte traseira da carroça entre os rolos de tecido e as caixas amarradas. Quando Sota tocou as rédeas e o cavalo voltou a andar, ela olhou pela última vez para a linha escura da floresta atrás de si. Não viu a aldeia, nem o cemitério, nem a cabana onde Seijuro havia morrido. Ainda assim, tudo aquilo a seguia. A estrada não apagava nada. Apenas levava a dor para outro lugar.
 
-Daikan permaneceu em silêncio por um momento, processando a informação. Um problema menor, mas persistente, havia sido resolvido. Um capítulo se fechava.
+Enquanto Rin deixava o domínio Onizuka escondida sob uma lona de comerciante, Goratsu entrava no salão de Daikan com a marca do tapa ainda viva na face. Tentara disfarçá-la com o colarinho alto e a postura arrogante, mas havia um inchaço discreto próximo à maçã do rosto, e isso bastava para irritá-lo. A lembrança da mão de Rin contra sua pele o acompanhava como uma afronta pública que a chuva não conseguira lavar.
 
-O conhecimento das rotas morreu com Seijuro, então?
+Daikan estava sentado sob os estandartes do clã, examinando registros de tributos com a paciência de quem tratava vidas como números. O salão cheirava a madeira encerada, incenso velho e metal úmido. Guardas permaneciam imóveis nas laterais, e a luz que entrava pelas frestas altas mal tocava o chão polido.
 
-Os comerciantes ainda virão, pai. Eles são movidos pelo lucro, não pela lealdade. Sem os Kurosawa para organizá-los e barganhar por eles, estarão mais vulneráveis. Mais... sugestionáveis.
+— Você interrompe por bom motivo? — perguntou Daikan, sem erguer os olhos.
 
-Daikan assentiu lentamente, um brilho de aprovação em seus olhos frios. Era uma lógica sólida.
+Goratsu inclinou a cabeça, embora o gesto lhe custasse mais orgulho do que respeito.
 
-Então é hora de consolidarmos nosso controle. A rota comercial que Seijuro gerenciava é vital.
+— O melhor motivo, pai. A situação com os Kurosawa terminou.
 
-Ele ergueu o olhar, fixando-o no filho.
+Daikan baixou o pergaminho. Só então olhou para ele.
 
-Goratsu. A partir de hoje, você está encarregado de controlar todos os comerciantes que entram e saem do nosso território. Você irá tributar cada carroça, cada animal de carga. Você garantirá que nenhum bem de valor escape aos nossos cofres. E você fará com que todos entendam que a 'proteção' dos Onizuka tem um preço, e que não há mais ninguém para intermediá-lo.
+— Fale.
 
-Era uma nomeação significativa. Dava a Goratsu controle direto sobre um grande fluxo de riqueza e poder.
+— Seijuro morreu. A doença finalmente fez o que a pobreza vinha tentando há anos. Quanto à filha, desapareceu depois do enterro. Ninguém na aldeia a viu desde ontem.
 
-Com prazer, pai. Serei um anfitrião muito atento para nossos visitantes mercantis.
+Goratsu falou com desprezo calculado, mas o modo como sua boca se contraía ao mencionar Rin denunciava algo mais ácido do que simples aborrecimento. Daikan percebeu, claro. Homens como ele não sobreviviam por tanto tempo ignorando rachaduras no orgulho dos próprios aliados, mesmo quando esses aliados eram filhos.
 
-Enquanto Goratsu saía do salão, sua mente já fervilhava com maneiras de extorquir ainda mais os comerciantes. Ele não sabia, é claro, que a "ratinha" que ele subestimou não estava fugindo com o rabo entre as pernas. Ela estava seguindo direto para o covil do único homem que poderia ajudá-la a incendiar todo o império que Goratsu agora tentava controlar. A ameaça não tinha desaparecido. Apenas mudou de endereço.
+— Desapareceu — repetiu Daikan.
 
-A chegada ao território dos Hayashi.
+— Fugiu — corrigiu Goratsu, rápido demais. — Como toda criatura acuada faz quando entende o próprio lugar.
 
-A carroça de Sota rangiu ao cruzar a fronteira simbólica para o território Hayashi. Rin observava tudo com olhos atentos, diferentes dos de uma simples passageira. Ela via os postos de guarda, à disposição dos edifícios, o fluxo de pessoas. Sua mente, aguçada pela necessidade de sobrevivência, já mapeia rotas de fuga e pontos estratégicos.
+Daikan apoiou os dedos no braço do assento. O nome de Rin não parecia pesar em sua mente, mas as rotas de Seijuro, sim. O curtidor morto não fora apenas um homem doente que pagava impostos atrasados; era um intermediário útil, alguém que conhecia caminhos, comerciantes, favores antigos e pequenos acordos que nunca chegavam ao salão, mas mantinham mercadorias circulando. A morte dele abria um vazio. E vazios, no domínio Onizuka, eram sempre cobrados.
 
-Sota, impressionado, seguiu sua sugestão e parou no mercado principal. E foi Rin quem, com uma astúcia herdada do pai, conduziu a negociação das peças de tecido. Ela não suplicava; ela realçava o valor, conhecia a qualidade do que vendia e falava com uma firmeza que não admitia desaforo. Em pouco tempo, conseguiu um preço 30% maior do que o velho comerciante esperava.
+— Então o conhecimento das rotas morreu com ele?
 
-Sota estava maravilhado. Enquanto guardava as moedas, olhou para a jovem com uma gratidão profunda.
+Goratsu sorriu. Dessa vez, o sorriso pareceu menos ferido.
 
-Rin... não sei o que te trouxe até aqui, e acho que é melhor nem perguntar. Mas o que eu posso fazer por você, garota? Você vai ficar por aqui? Não conheço ninguém...
+— Os comerciantes ainda virão. Homens como Sota, Kamei e os outros não são movidos por lealdade. São movidos por lucro. Sem Seijuro para barganhar por eles, estarão mais expostos. Mais obedientes.
 
-Ela deu um sorriso pequeno e triste. "Fica tranquilo, Tio Sota. Eu vou ficar bem." Seu olhar vagou pela movimentação da praça, até se fixar na entrada de um edifício maior, que claramente abrigava a liderança do clã. "E eu conheço duas pessoas aqui... pelo menos uma delas irá me ajudar.
+Daikan assentiu lentamente. Era uma resposta prática, e a praticidade ainda era a única qualidade de Goratsu que às vezes compensava sua vaidade. Ele enrolou o pergaminho e o entregou a um serviçal.
 
-Ela se despediu do velho com um aceno de cabeça e se misturou à multidão, o capuz puxado sobre o rosto.
+— A rota comercial que Seijuro administrava era pequena demais para justificar atenção do conselho, mas importante demais para ficar sem dono. A partir de hoje, você controlará a entrada e a saída dos mercadores nas terras Onizuka. Cada carroça será registrada. Cada animal de carga, contado. Cada rolo de tecido, saco de arroz, lâmina, couro ou remédio pagará pela proteção do nosso nome.
 
-Do outro lado da rua, em frente ao salão principal, dois guardas montavam vigília. Um deles era Takeshi. Ele estava sério, rígido, tentando projetar uma autoridade que ainda não lhe era natural. Seus olhos vasculharam a rua com uma tensão visível.
+O rosto de Goratsu se iluminou com uma satisfação quase infantil. Controle sobre comerciantes significava moedas, favores, medo e homens obrigados a sorrir enquanto eram esfolados por impostos. Para ele, aquilo era mais do que uma nomeação. Era reparação.
 
-Foi então que uma figura encapuzada se separou da multidão e começou a caminhar diretamente em sua direção. Ele endireitou a postura, a mão indo instintivamente para o cabo da espada. A figura parou a poucos passos dele.
+— Farei com que todos entendam o valor da proteção Onizuka.
 
-Quem vê você até pode achar que é um guarda", disse uma voz familiar, seguida por uma risada baixa e irônica, como quem tira sarro de uma situação absurda.
+— Faça com que entendam também o custo de atravessar minhas terras sem permissão — respondeu Daikan. — Se a filha de Seijuro voltar, quero saber antes que ela respire duas vezes dentro da aldeia.
 
-Antes que Takeshi pudesse reagir, o outro guarda, um homem mais velho e intransigente, agarrou o braço de Rin com força.
+Goratsu endureceu por um instante. A lembrança do tapa ardeu sob o colarinho.
 
-Quem é você para falar isso com um guarda?", rosnou o homem, puxando o capuz para trás com um puxão brusco.
+— Se ela voltar, não fugirá de novo.
 
-O rosto de Rin foi revelado. Takeshi sentiu o sangue congelar em suas veias. Seus olhos encontraram os dela, e ele viu neles uma tempestade de emoções — alívio, dor, e um desafio perigoso.
+Daikan não respondeu. Apenas voltou ao assento, encerrando a conversa com o peso de seu silêncio. Goratsu saiu do salão já imaginando novos tributos, novas punições, novas formas de transformar medo em renda. Não sabia, porque a vaidade raramente enxerga além do próprio espelho, que a mulher que ele chamava de fugitiva seguia viva na estrada. E não fugia do jogo. Aproximava-se dele por outro caminho.
 
-Deixa comigo!", Takeshi interveio, a voz um pouco mais alta do que pretendia. Ele colocou a mão no braço do colega. "Vou cuidar dessa doida sozinho. Você pode me cobrir por alguns instantes? Já volto.
+A viagem até Hayashi consumiu o restante do dia e parte da manhã seguinte. Rin dormiu pouco, escondida entre tecidos, acordando a cada parada, a cada voz desconhecida, a cada rangido diferente nas rodas. Sota falava apenas o necessário. Em alguns postos, apresentou-a como ajudante temporária, sobrinha distante, moça contratada para auxiliar nas vendas; em outros, nem precisou dizer nada. A capa de pele, o rosto fechado e a sujeira da estrada faziam Rin parecer mais uma sombra entre tantas sombras que atravessavam tempos ruins.
 
-O outro guarda soltou Rin com relutância, lançando um olhar desconfiado para Takeshi, que já puxava sua irmã pelo braço, afastando-a dali.
+Quando os primeiros telhados do território Hayashi surgiram entre colinas e árvores mais bem cuidadas, Rin sentiu uma estranheza que a incomodou mais do que imaginava. Havia guardas nas entradas, mas não a mesma brutalidade ostensiva dos Onizuka. Havia soldados, sim, e disciplina, e olhos atentos, mas também havia ordem. As carroças eram inspecionadas sem gritos. As pessoas passavam pelos portões sem se curvar até quase tocar o chão. O lugar não era livre, nenhum clã era, mas a opressão ali parecia usar luvas. Rin não sabia se isso era melhor ou apenas mais elegante.
 
-Ele a levou para um beco isolado, escondido dos olhares. Assim que se viram a sós, a fachada de Takeshi desmoronou.
+No mercado principal, Sota preparou a voz de vendedor e começou a abrir a carga. Rin ficou ao lado dele, observando os compradores antes de falar. Reconheceu tecidos de tingimento irregular, percebeu quando um mercador tentava depreciar uma peça por uma falha inexistente, corrigiu medidas, comparou preços com rotas conhecidas e, sem elevar a voz, fez Sota vender mais caro do que pretendia. Não havia alegria nisso. Apenas competência. Seijuro a havia ensinado que sobreviver era, muitas vezes, saber o valor exato daquilo que alguém tentava tomar por menos.
 
-Rin! Você está louca? O que você está fazendo aqui?", ele sussurrou, seu rosto uma máscara de puro pânico. "Se me virem com você... Se o Katsuro souber que você veio até mim...
+Quando a última negociação terminou, Sota guardou as moedas com uma expressão entre gratidão e espanto.
 
-Ela parou de rir. O sorriso sumiu, substituído por uma expressão tão dura e carregada que ele calou.
+— Seu pai ficaria orgulhoso — disse ele.
 
-Depois de tudo", ela disse, a voz um fio de gelo cortante, "não vai nem abraçar sua irmã?
+Rin não soube o que fazer com aquela frase. Orgulho parecia uma palavra de outro tempo.
 
-Takeshi a puxou para um abraço brusco e apertado. Era um abraço de desespero, de alívio e de uma culpa esmagadora. Ela podia sentir seu corpo tremendo.
+— Ele teria pedido uma margem melhor — respondeu.
 
-O pai...", ele sussurrou, a voz quebrada.
+Sota soltou uma risada baixa, triste, e depois ficou sério. A mão enrugada dele repousou sobre a borda da carroça.
 
-Se foi", ela completou, sem rodeios. "Cansou de lutar. Eu o enterrei sozinha." Ela fez uma pausa, deixando o peso daquela imagem pairar entre eles. "E Goratsu apareceu no enterro para dar seu 'adeus'.
+— Vai ficar aqui?
 
-Takeshi soltou-a, recuando um passo, o rosto desfigurado pela raiva e pela impotência. "O que ele fez?
+Rin olhou para o movimento da praça, para os guardas, para os edifícios de madeira escura, para o salão maior ao fundo. Em algum lugar daquele território, Takeshi respirava. Essa era a única certeza que a mantinha de pé.
 
-O que ele sempre faz", ela respondeu, erguendo o braço e puxando a manga para cima, mostrando a cicatriz antiga. "Só que desta vez, eu revidei. Dei um tapa na cara dele na frente de todos. E fugi. Sou uma foragida, Takeshi. Não tenho mais para onde ir.
+— Por enquanto.
 
-Ele a fitou, finalmente entendendo a profundidade da mudança nela. Esta não era mais sua irmãzinha. Era uma mulher acuada, transformada em uma arma pelo sofrimento. E ela tinha vindo até ele.
+— Conhece alguém?
 
-Rin...", a voz dele falhou. O que ele poderia dizer? Pedir para ela ir embora? Era impossível. Pedir para ela ficar? Era uma sentença de morte para ambos.
+— Conheço meu irmão — disse ela. Depois de uma pausa, acrescentou: — E conheço o homem que comprou a vida dele.
 
-Ela leu o conflito em seus olhos. "Eu não vim para ficar no seu caminho. Vim porque você é a única pessoa que me restava. E vim porque há uma guerra chegando, Takeshi.
+Sota não perguntou mais nada. Talvez porque a idade o tivesse tornado prudente, talvez porque a resposta de Rin carregasse perigos suficientes para dispensar curiosidade. Ele apenas lhe entregou uma pequena trouxa com arroz seco, uma tira de tecido limpo e algumas moedas.
 
-Takeshi levou Rin por caminhos secundários, evitando os olhares curiosos, até chegar a uma pequena casa de madeira, simples, mas sólida, localizada numa área tranquila, próxima ao centro do poder do clã Hayashi. Era um claro sinal de que ele estava sob a proteção direta de alguém importante.
+— Não é pagamento justo pelo que fez hoje.
 
-Assim que a porta se fechou, Rin não perdeu tempo olhando os arredores. Ela se virou para o irmão.
+— Então o senhor ainda me deve — respondeu Rin, aceitando a trouxa.
 
-Preciso ver o Katsuro. Hoje. Pode levá-lo até aqui?
+— Devo mesmo — disse ele. — E espero viver tempo suficiente para pagar.
 
-Takeshi esfregou o rosto, estressado. "Rin, ele é o Capitão. Eu não simplesmente 'peço' para ele vir até minha casa. É ele quem dá as ordens.
+Ela se despediu com um aceno breve e desapareceu na multidão. Não correu. Aprendera, ainda menina, que quem corre atrai olhos. Caminhou com o capuz baixo, o passo medido e o corpo inclinado o suficiente para parecer apenas mais uma viajante cansada. Procurou primeiro os pontos de guarda. Depois, os homens mais jovens entre eles. Takeshi sempre se destacara mesmo quando tentava não fazê-lo, porque havia nele uma tensão própria de animal mantido preso tempo demais.
 
-Então dê um jeito", ela respondeu, com a voz firme. "Diga que é urgente. Diga que é sobre a informação que ele queria. Ele virá.
+Encontrou-o diante de uma entrada lateral do salão Hayashi, vestindo roupa simples de serviço, com uma lâmina na cintura e a postura rígida demais para alguém acostumado ao posto. Não parecia capitão, nem homem importante, nem herói recém-salvo. Parecia o que era: um guerreiro em dívida, recém-tirado da forca e colocado sob observação por um clã que ainda decidia o que fazer com ele. Ainda assim, estava vivo. Vivo, respirando, com os olhos atentos sobre a rua.
 
-Takeshi sabia que ela estava certa. Apesar do risco, ele assentiu. "Está bem. Vou tentar. Fique aqui. E, por favor, não saia.
+Rin parou a poucos passos dele.
 
-Ele saiu, deixando-a sozinha na nova e estranha casa. Rin não se sentou. Caminhou pela sala, seus olhos analisando cada detalhe — uma tigela vazia sobre a mesa, uma espada de treino encostada na parede. A vida que o irmão estava tentando construir.
+— Quem vê até acredita que você virou guarda.
 
-Enquanto isso, Takeshi caminhava de volta ao seu posto com o coração pesado, ensaiando mentalmente como abordaria Katsuro. Mas ao se aproximar da entrada do salão principal, seu plano desmoronou.
+Takeshi voltou o rosto no mesmo instante. Por um segundo, não pareceu entender o que via. Depois o sangue sumiu de sua face, e a mão que repousava próxima ao cabo da espada ficou imóvel.
 
-Katsuro já estava lá. E não estava sozinho. O veterano guarda que Takeshi havia deixado sozinho enquanto estava ao lado do capitão, falando em voz baixa e urgente. O homem gesticulava em direção ao beco de onde Takeshi havia saído, seu rosto era uma máscava de contrariedade.
+— Rin?
 
-Katsuro ouvia seus olhos escaneando o ambiente até pousarem em Takeshi. A conversa cessou. O veterano guarda se afastou com um olhar que era pura advertência.
+O outro guarda, um homem mais velho de expressão amarga, estreitou os olhos e segurou o braço dela antes que Takeshi conseguisse falar mais.
 
-Katsuro virou-se completamente para encarar o jovem soldado. A atmosfera ficou gelada.
+— Quem é você para falar assim com um homem em serviço?
 
-Kurosawa", a voz de Katsuro era suave, mas carregada de autoridade. "Seu colega me informou sobre sua partida abrupta. E sobre a visita inesperada." Seus olhos pareciam perfurar Takeshi. "Parece que temos assuntos a discutir. Em privado. Agora.
+O puxão arrancou o capuz de Rin. Takeshi deu um passo à frente rápido demais.
 
-Katsuro acenou para um outro soldado que passava, designando-o para a guarda. Com um gesto discreto, ele indicou a Takeshi que o seguisse, e os dois começaram a caminhar, afastando-se do burburinho do centro do clã.
+— Deixe comigo — disse, colocando-se entre os dois. A voz saiu mais dura do que prudente. — Eu conheço essa doida. Cubra meu posto por alguns instantes.
 
-Está quase tudo pronto, Takeshi", começou Katsuro, sua voz era contemplativa, olhando para o horizonte onde as montanhas dos Kurotsuki se erguiam como dentes cinzentos. "Os planos estão traçados, os suprimentos, quase todos reunidos. Em breve, partiremos.
+O guarda olhou de Rin para Takeshi, desconfiado. Sua mão demorou a soltá-la, como se quisesse lembrar aos dois quem ainda tinha autoridade ali. Por fim, recuou com um resmungo.
 
-Ele fez uma pausa, medindo suas palavras. "Um homem como você, com a experiência que tem... ficaria à vontade para ficar aqui, montando guarda para sempre? Ou gostaria de tentar algo maior? Algo com mais... propósito.
+Takeshi segurou Rin pelo pulso e a conduziu por uma passagem lateral, sem força suficiente para machucá-la, mas com urgência demais para fingir calma. Entraram num beco estreito entre depósitos, onde o cheiro de palha úmida, madeira velha e carvão abafava o movimento do mercado. Só então ele a soltou.
 
-Takeshi sentiu o chão sumir sob seus pés por um instante. Ele esperava uma reprimenda, uma investigação sobre Rin. Não uma oferta. Não um convite para o front de uma guerra que ele mal compreendia. Sua mente, que só pensava em encontrar um canto quieto para se esconder e reconstruir uma vida qualquer, foi tomada por uma onda de confusão. Ele sempre lutou, sim, mas por sobrevivência, nunca por glória ou dever.
+— Você perdeu o juízo? — sussurrou ele, o rosto tomado por pânico. — O que está fazendo aqui? Se alguém dos Onizuka souber que você veio, se Katsuro descobrir desse jeito, se...
 
-Katsuro...", a voz de Takeshi saiu rouca. Ele engoliu em seco. "Sério mesmo? O senhor... o senhor já fez o bastante por mim. Eu devo minha vida a si. Se é para onde o senhor for, então... é para onde eu irei.
+Rin o encarou até ele calar. A raiva que o sustentava desmanchou-se pouco a pouco diante do estado dela: os olhos fundos, as marcas da chuva, a sujeira presa à pele, a exaustão mantida de pé apenas por teimosia.
 
-Katsuro acenou com a cabeça, um sinal de respeito pela decisão.
+— Depois de tudo — disse ela, com a voz baixa —, você não vai nem abraçar sua irmã?
 
-Tomado por uma gratidão intensa e pela necessidade de fazer algo para retribuir, Takeshi acrescentou, gesticulando em direção a uma rua lateral. "Como gesto de gentileza... e se o senhor permitir, estamos bem próximos da minha humilde casa. Deixe-me oferecer uma bebida? É o mínimo que posso fazer.
+Takeshi puxou-a contra si com tanta força que Rin perdeu o ar por um instante. O abraço dele era desajeitado, bruto, quase doloroso, mas carregava todo o medo que ele não havia podido mostrar acorrentado diante da praça. Ela sentiu o corpo dele tremer. Sentiu também a culpa. Takeshi sempre carregava culpa como carregava uma arma: perto demais do peito.
 
-Katsuro olhou para Takeshi, e pela primeira vez, um quase-sorriso tocou seus lábios. Era uma oportunidade de solidificar a lealdade do jovem soldado em um ambiente mais informal, longe dos ouvidos do clã.
+— O pai? — perguntou ele, sem conseguir terminar.
 
-Por que não, Takeshi? Vamos.
+Rin fechou os olhos.
 
-Os passos deles ecoaram nas pedras da rua tranquila. Takeshi, com o coração agora dividido entre a honra da proposta e o pânico do segredo que guardava em casa, conduziu o capitão. Cada passo em direção à sua porta era um passo em direção ao precipício. Ele abriu a porta, seu movimento um tanto rígido.
+— Morreu. Eu o enterrei sozinha.
 
-Por favor, entre", disse Takeshi, a voz um pouco tensa.
+O braço de Takeshi apertou ainda mais antes de afrouxar. Ele recuou apenas o suficiente para olhar o rosto dela, como se procurasse alguma mentira piedosa e não encontrasse nenhuma.
 
-Katsuro cruzou a soleira, seus olhos analíticos se ajustando à penumbra da sala simples. E então, eles se fixaram na figura que estava de pé no centro do cômodo, esperando.
+— Eu devia estar lá.
 
-Rin não usava mais o capuz. Seu rosto estava limpo, sua postura, ereta. Ela não parecia surpresa. Parecia que estava esperando por aquele encontro há muito, muito tempo.
+— Devia — respondeu Rin.
 
-Capitão Katsuro. Estava na hora.
+A palavra feriu os dois, mas ela não a retirou. Havia verdades que não precisavam ser suavizadas para caber melhor na boca.
+
+— Goratsu apareceu no enterro — continuou ela. — Veio rir do morto e do que sobrou de nós.
+
+Os olhos de Takeshi escureceram.
+
+— O que ele fez?
+
+Rin puxou a manga e mostrou a cicatriz antiga, a marca deixada pelo metal aquecido anos antes, o desenho pálido e irregular que atravessava sua pele como uma lembrança que nunca cicatrizara por completo.
+
+— Nada que ele já não tivesse feito antes. A diferença é que dessa vez eu revidei. Bati no rosto dele diante de todos.
+
+Takeshi ficou imóvel. O horror e o orgulho disputaram espaço em sua expressão, e nenhum dos dois venceu.
+
+— Rin...
+
+— Depois eu corri — disse ela. — Não porque me arrependi, mas porque ficar seria morrer. Sou uma foragida, Takeshi. Não tenho casa, não tenho pai e não tenho mais o direito de fingir que os Onizuka vão se cansar de nos destruir.
+
+Ele olhou para a saída do beco, depois para ela. A vida nova que tentava construir em Hayashi pareceu pequena demais para protegê-los, e grande demais para ser abandonada sem consequência.
+
+— Você não pode ficar aparecendo assim.
+
+— Eu não vim para atrapalhar seu posto.
+
+— Você já atrapalhou.
+
+— Então acostume-se. Eu ainda pretendo atrapalhar coisas maiores.
+
+A frase teria soado como provocação em outro tempo. Agora, saiu sem humor. Takeshi esfregou o rosto, respirou fundo e tomou uma decisão que parecia doer.
+
+— Tenho um alojamento simples. Uma casa pequena, cedida pelos Hayashi enquanto decidem o que sou para eles. Você vai ficar lá por enquanto, longe dos olhos da rua.
+
+— Preciso ver Katsuro.
+
+— Eu imaginei.
+
+— Hoje.
+
+Takeshi a fitou como se quisesse negar, mas ambos sabiam que a negação seria apenas barulho.
+
+— Katsuro não é homem que se chama como servo — disse ele. — Ele vem quando quer.
+
+— Então diga que é sobre o que ele comprou.
+
+Takeshi apertou a mandíbula.
+
+— Você está falando como se fosse mercadoria.
+
+— Não. Estou falando como alguém que aprendeu a sobreviver entre homens que transformam tudo em preço.
+
+Ele não respondeu. Conduziu-a por ruelas secundárias, evitando praças abertas e grupos de guardas. A casa ficava numa parte mais tranquila, próxima o suficiente do centro para provar que Takeshi estava sob proteção, distante o bastante para lembrar que essa proteção ainda tinha condições. Era pequena, de madeira escura, com uma mesa baixa, um braseiro, um colchonete enrolado no canto e uma espada de treino encostada na parede. Pouco, mas limpo. Para alguém que quase apodrecera numa cela Onizuka, talvez aquilo parecesse luxo.
+
+Rin entrou e olhou ao redor em silêncio. A simplicidade do lugar a atingiu de modo inesperado. Takeshi tinha uma tigela, uma manta, uma arma emprestada e espaço para respirar. Era quase nada. Ainda assim, era mais futuro do que Seijuro tivera em seus últimos dias.
+
+— Fique aqui — disse Takeshi. — Não abra a porta. Não fale com ninguém. Não saia.
+
+— Você fala como nosso pai.
+
+— Então talvez um de nós ainda esteja tentando parecer sensato.
+
+Ela não sorriu.
+
+— Traga Katsuro.
+
+Takeshi saiu pouco depois, deixando Rin sozinha com o silêncio da casa. Ela não se sentou de imediato. Caminhou pelo cômodo, tocou a borda da mesa, observou a manta dobrada, a lâmina de treino, os sinais de uma vida interrompida antes mesmo de começar. Pela primeira vez desde o enterro, teve vontade de chorar sem estar diante de alguém. Não chorou. O corpo havia aprendido rápido demais que lágrimas cansavam, mas não resolviam.
+
+Do lado de fora, Takeshi retornou ao posto com a mente dividida entre o dever recém-recebido e a irmã escondida em sua casa. Pensava em como abordaria Katsuro, em qual palavra usar para não parecer insolente, em como explicar uma presença que já era perigo antes mesmo de ser descoberta. Não teve tempo de escolher. Quando se aproximou da entrada lateral do salão, viu o guarda veterano falando em voz baixa com Katsuro. O homem gesticulava na direção do beco e parecia satisfeito demais consigo mesmo, como todo covarde que acredita ter comprado segurança entregando outra pessoa.
+
+Katsuro ouviu sem demonstrar surpresa. Quando seus olhos pousaram em Takeshi, a conversa terminou. O veterano inclinou a cabeça e se afastou, deixando atrás de si uma tensão mais fria que qualquer repreensão.
+
+— Kurosawa — disse Katsuro.
+
+Takeshi parou diante dele e inclinou a cabeça.
+
+— Capitão.
+
+— Seu colega informou que você abandonou o posto por alguns instantes. Também mencionou uma mulher encapuzada, íntima o bastante para zombar da sua postura e imprudente o bastante para sobreviver a isso.
+
+Takeshi sentiu a garganta secar.
+
+— Senhor, eu posso explicar.
+
+— Imagino que possa — respondeu Katsuro. — A questão é se devo permitir que explique aqui, diante de gente demais, ou em outro lugar, onde mentiras pelo menos tenham espaço para respirar.
+
+Takeshi ergueu os olhos. Havia ameaça naquela frase, mas não apenas ameaça. Katsuro já sabia o suficiente para agir; se ainda falava, era porque escolhia medir a situação antes de esmagá-la. Isso, vindo de um capitão, era quase generosidade. Vindo de Katsuro, provavelmente era estratégia. Porque os homens, para tornar o mundo mais cansativo, raramente fazem uma coisa só.
+
+— Ela está na minha casa — admitiu Takeshi.
+
+— Eu sei.
+
+A resposta veio tão rápida que Takeshi percebeu o óbvio tarde demais. Katsuro não precisava da denúncia do guarda para desconfiar. Homens como ele não deixavam dívidas de sangue caminharem sem vigilância.
+
+— Ela pediu para vê-lo — disse Takeshi.
+
+— E você veio me procurar.
+
+— Sim.
+
+Katsuro observou o jovem por um momento. Takeshi ainda era bruto, ainda era impulsivo, ainda carregava no olhar o instinto de quebrar o mundo antes que o mundo o quebrasse primeiro. Mas havia nele uma lealdade rara, do tipo perigoso: aquela que não nascia de juramento, e sim de perda. Katsuro sabia aproveitar esse tipo de homem. Também sabia que, se o fizesse mal, poderia criar um inimigo pior do que o soldado que havia salvado.
+
+— Em breve, Hayashi marchará — disse ele, desviando o olhar para as montanhas ao longe. — Os planos estão traçados, os suprimentos quase reunidos. O acordo com Daikan está firmado, mesmo que nenhum homem sensato devesse gostar disso.
+
+Takeshi franziu o cenho. Esperava ser punido, não convidado para uma conversa de guerra.
+
+— Senhor?
+
+— Você foi comprado dos Onizuka, mas não para viver como ornamento na porta de um salão. Um homem com sua experiência tem usos melhores do que fingir calma diante de visitantes. Quero você em um destacamento avançado quando partirmos. Não como líder, não ainda. Como lâmina. Como alguém que sabe sobreviver quando a ordem falha.
+
+Takeshi ficou em silêncio. Durante anos, lutara para não morrer sob o domínio Onizuka. Não havia pensado em glória, carreira ou propósito. Seu mundo era feito de castigo, dívida e resistência. A proposta de Katsuro não apagava nada disso, mas lhe dava forma. Era uma coisa perigosa oferecer propósito a quem só conhecia sobrevivência.
+
+— O senhor já fez mais do que devia por mim — disse Takeshi. — Se precisa que eu marche, marcharei.
+
+Katsuro inclinou a cabeça, satisfeito, mas não comovido. Comoção, nele, parecia ter sido enterrada em algum campo de batalha antigo e substituída por uma educação impecável.
+
+— Então caminhe comigo.
+
+Takeshi entendeu que não era convite. Os dois seguiram por ruas laterais, longe do centro mais movimentado. Por alguns instantes, apenas os passos soaram sobre a pedra. Takeshi sabia para onde iam. Katsuro também. Não havia sentido em fingir o contrário, mas ainda assim o silêncio entre eles manteve a aparência de uma escolha que já fora feita.
+
+— Ela não tem para onde ir — disse Takeshi, afinal.
+
+— Eu sei.
+
+— Se entregá-la aos Onizuka...
+
+— Eu não a teria deixado chegar tão longe para entregá-la agora.
+
+Takeshi olhou para ele de lado, desconfiado.
+
+— Então o que quer dela?
+
+Katsuro não respondeu de imediato. Quando falou, a voz veio baixa.
+
+— O mesmo que ela quer de mim. Utilidade. A diferença é que ela ainda chama isso de justiça.
+
+A casa apareceu no fim da rua estreita. Takeshi abriu a porta com a mão mais rígida do que gostaria. A penumbra do interior acolheu os dois com cheiro de madeira fria, cinzas e roupa úmida. Rin estava de pé no centro do cômodo, sem capuz. Não parecia surpresa. Parecia cansada de esperar.
+
+Katsuro entrou primeiro. Seus olhos percorreram o ambiente, registrando a mesa, o braseiro, a espada de treino, a janela fechada e, por fim, a mulher à sua frente. Rin estava mais magra do que na última vez em que a vira, com as marcas da estrada ainda na pele e a morte recente do pai pesando nos ombros. Ainda assim, sua postura não cedia. A dor a havia ferido, mas também a havia tornado mais difícil de empurrar.
+
+— Capitão Katsuro — disse ela.
