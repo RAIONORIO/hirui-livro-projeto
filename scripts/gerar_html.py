@@ -2,40 +2,71 @@ from pathlib import Path
 import re
 import html
 
+# =========================================================
+# CAMINHOS DO PROJETO
+# =========================================================
+# ROOT aponta para a raiz do projeto.
+# Como este script fica dentro da pasta scripts/,
+# usamos parents[1] para subir uma pasta.
 ROOT = Path(__file__).resolve().parents[1]
+
+# Pasta onde ficam os capítulos separados em Markdown.
 CAP_DIR = ROOT / "manuscrito" / "capitulos"
+
+# Arquivo HTML final que será gerado para o site.
 OUT = ROOT / "site" / "index.html"
 
-# =========================================================
-# CONFIGURAÇÕES DO LIVRO
-# =========================================================
 
+# =========================================================
+# CONFIGURAÇÕES PRINCIPAIS DO LIVRO
+# =========================================================
+# Título principal do livro.
 BOOK_TITLE = "HIRUI NAKI CHISUJI"
-BOOK_TITLE_STACKED = "HIRUI<br>NAKI<br>CHISUJI"
-BOOK_SUBTITLE = "Romance literário"
 
-# Edite estes dados como quiser
+# Tradução em português do título.
+BOOK_TRANSLATION = "A Linhagem Suprema"
+
+# Título em japonês.
+BOOK_JAPANESE = "比類なき血筋"
+
+# Imagem usada como arte da capa.
+# O caminho é relativo ao arquivo site/index.html.
+COVER_IMAGE = "assets/capa-hirui.png"
+
+# Dados da página de autoria.
+# Pode editar os textos aqui sem mexer no resto do código.
 AUTHOR_BLOCK = [
-    ("Autor", "Rai Onorio"),
-    ("Edição", "Rai Onorio"),
-    ("Revisão", "Projeto editorial assistido por IA"),
+    ("Autor", "Raí Onório"),
+    ("Edição", "Raí Onório"),
+    ("Revisão editorial", "Revisão editorial assistida por ChatGPT"),
+    ("Projeto", "HIRUI NAKI CHISUJI — Versão literária"),
 ]
 
+# Sinopse exibida na Home e também no PDF do livro.
 SYNOPSIS = [
     "Em uma terra feudal marcada por clãs, dívidas de sangue e pactos antigos, Rin Kurosawa aprende cedo que sobreviver exige mais do que coragem. Após perder a mãe, ver o pai definhar sob o peso da servidão e assistir o irmão ser condenado por uma mentira política, ela é empurrada para uma guerra que começou muito antes de seu nascimento.",
     "Entre os Onizuka, os Hayashi e a ameaça ancestral dos Kurotsuki, cada aliança cobra um preço. Katsuro Morikawa, capitão Hayashi movido por dever, vingança e feridas antigas, oferece salvação sem prometer inocência. Takeshi Kurosawa, guerreiro brutal e protetor, tenta transformar sobrevivência em propósito enquanto carrega as correntes invisíveis do exílio.",
-    "HIRUI NAKI CHISUJI é uma história de honra, dor, herança e resistência, onde cada escolha deixa cicatrizes — e onde viver pode custar quase tanto quanto morrer."
+    "HIRUI NAKI CHISUJI é uma história de honra, dor, herança e resistência, onde cada escolha deixa cicatrizes — e onde viver pode custar quase tanto quanto morrer.",
 ]
 
-# Quantidade aproximada de caracteres por página simulada
+# Controle da paginação simulada.
+# Quanto maior o número, menos páginas simuladas.
+# Quanto menor o número, mais páginas simuladas.
 CHARS_PER_PAGE = 2300
+
+# Evita criar página nova com pouquíssimos parágrafos.
 MIN_PARAGRAPHS_PER_PAGE = 4
 
 
 # =========================================================
-# CSS
+# CSS DO SITE E DO PDF
 # =========================================================
-
+# Todo o visual do site fica aqui:
+# - Home
+# - Autoria
+# - Sumário
+# - Leitor dos capítulos
+# - Impressão/PDF
 CSS = """
 :root{
     --bg:#11100f;
@@ -50,6 +81,7 @@ CSS = """
     --gold-soft:#d9c59e;
 }
 
+/* Reset básico para evitar diferenças estranhas entre navegadores */
 *{
     box-sizing:border-box;
 }
@@ -72,6 +104,10 @@ button{
 a{
     color:inherit;
 }
+
+/* =========================================================
+   NAVBAR
+   ========================================================= */
 
 .site-header{
     position:sticky;
@@ -126,6 +162,10 @@ a{
     border-color:rgba(213,194,161,.42);
 }
 
+/* =========================================================
+   CONTROLE DE TELAS
+   ========================================================= */
+
 .screen{
     display:none;
 }
@@ -134,31 +174,95 @@ a{
     display:block;
 }
 
+/* =========================================================
+   HOME
+   ========================================================= */
+
 .home-shell{
     width:min(1680px,100%);
     margin:0 auto;
     min-height:calc(100vh - 82px);
     display:grid;
-    grid-template-columns:1.1fr .9fr;
+    grid-template-columns:1.05fr .95fr;
 }
 
-.home-hero{
+.home-cover{
+    position:relative;
     min-height:calc(100vh - 82px);
     display:flex;
-    align-items:flex-end;
+    align-items:flex-start;
     justify-content:center;
-    padding:56px;
+    padding:72px 56px 56px;
     background:radial-gradient(circle at top,#2a211c 0,#14110f 42%,#090807 100%);
+    text-align:center;
+    overflow:hidden;
 }
 
-.home-hero-title{
-    color:var(--gold);
-    font-size:clamp(4rem,8vw,9.2rem);
-    line-height:.9;
-    letter-spacing:.04em;
-    text-transform:uppercase;
+.home-cover::after{
+    content:"";
+    position:absolute;
+    inset:0;
+    z-index:1;
+    background:
+        linear-gradient(to bottom,rgba(0,0,0,.10) 0%,rgba(0,0,0,.30) 42%,rgba(0,0,0,.70) 100%),
+        radial-gradient(circle at top,rgba(239,225,198,.10),rgba(0,0,0,0) 46%);
+    pointer-events:none;
+}
+
+.home-cover-art{
+    position:absolute;
+    inset:0;
+    z-index:0;
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    object-position:center;
+    opacity:.88;
+    filter:brightness(.78) contrast(1.05) saturate(.95);
+}
+
+.home-cover-inner{
+    position:relative;
+    z-index:2;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:16px;
+    text-shadow:0 4px 20px rgba(0,0,0,.72);
+}
+
+.home-cover-inner{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:16px;
+}
+
+.home-title-main{
     margin:0;
-    text-align:left;
+    color:var(--gold);
+    font-size:clamp(2.6rem,4.6vw,5.8rem);
+    line-height:1;
+    letter-spacing:.08em;
+    font-weight:normal;
+    text-transform:uppercase;
+}
+
+.home-title-translation{
+    margin:0;
+    color:var(--gold-soft);
+    font-size:clamp(1rem,1.4vw,1.35rem);
+    line-height:1.3;
+    letter-spacing:.08em;
+}
+
+.home-title-japanese{
+    margin:0;
+    color:var(--gold);
+    font-family:"Yu Mincho","Hiragino Mincho ProN","Noto Serif JP",serif;
+    font-size:clamp(2.2rem,3.8vw,4.6rem);
+    line-height:1.15;
+    letter-spacing:.08em;
 }
 
 .home-synopsis{
@@ -185,6 +289,10 @@ a{
     line-height:1.95;
     text-align:left;
 }
+
+/* =========================================================
+   PÁGINAS INTERNAS: AUTORIA, SUMÁRIO E LEITOR
+   ========================================================= */
 
 .page-shell{
     width:min(1280px,calc(100% - 36px));
@@ -217,6 +325,7 @@ a{
     padding:36px clamp(24px,4vw,48px) 44px;
 }
 
+/* Cards da página de autoria */
 .meta-grid{
     display:grid;
     grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
@@ -245,6 +354,7 @@ a{
     line-height:1.6;
 }
 
+/* Botões do site */
 .summary-actions,
 .reader-actions{
     display:flex;
@@ -276,6 +386,7 @@ a{
     background:#761b18;
 }
 
+/* Sumário na tela */
 .summary-list{
     list-style:none;
     margin:0;
@@ -319,6 +430,7 @@ a{
     white-space:nowrap;
 }
 
+/* Leitor dos capítulos */
 .reader-wrap{
     padding:28px clamp(16px,2.8vw,28px) 48px;
 }
@@ -387,6 +499,7 @@ a{
     line-height:1.08;
 }
 
+/* Texto literário dos capítulos */
 .body-text{
     max-width:680px;
     margin:0 auto;
@@ -421,6 +534,8 @@ a{
     letter-spacing:.08em;
 }
 
+/* A raiz de impressão fica escondida na tela.
+   Ela só aparece quando o usuário gera PDF/imprime. */
 #print-root{
     display:none;
 }
@@ -450,12 +565,14 @@ a{
         print-color-adjust:exact !important;
     }
 
+    /* Esconde a interface do site durante a impressão */
     .site-header,
     .screen,
     .footer-note{
         display:none !important;
     }
 
+    /* Mostra apenas o conteúdo próprio para PDF */
     #print-root{
         display:block !important;
         margin:0 !important;
@@ -464,6 +581,7 @@ a{
     }
 
     .print-page{
+        display:block;
         width:210mm;
         min-height:297mm;
         margin:0 auto !important;
@@ -472,14 +590,18 @@ a{
         overflow:hidden;
     }
 
-    .book-only{
+    /* Modo PDF do livro:
+       imprime capa, autoria, sinopse, sumário e todos os capítulos. */
+    body[data-print-mode="book"] .book-only{
         display:block !important;
     }
 
-    .chapter-page{
+    body[data-print-mode="book"] .chapter-page{
         display:block !important;
     }
 
+    /* Modo PDF do capítulo:
+       esconde capa, autoria, sinopse, sumário e todos os capítulos. */
     body[data-print-mode="chapter"] .book-only{
         display:none !important;
     }
@@ -488,108 +610,134 @@ a{
         display:none !important;
     }
 
-    body[data-print-mode="chapter"][data-print-chapter="0"] .chapter-page[data-chapter="0"],
-    body[data-print-mode="chapter"][data-print-chapter="1"] .chapter-page[data-chapter="1"],
-    body[data-print-mode="chapter"][data-print-chapter="2"] .chapter-page[data-chapter="2"],
-    body[data-print-mode="chapter"][data-print-chapter="3"] .chapter-page[data-chapter="3"],
-    body[data-print-mode="chapter"][data-print-chapter="4"] .chapter-page[data-chapter="4"],
-    body[data-print-mode="chapter"][data-print-chapter="5"] .chapter-page[data-chapter="5"],
-    body[data-print-mode="chapter"][data-print-chapter="6"] .chapter-page[data-chapter="6"],
-    body[data-print-mode="chapter"][data-print-chapter="7"] .chapter-page[data-chapter="7"],
-    body[data-print-mode="chapter"][data-print-chapter="8"] .chapter-page[data-chapter="8"],
-    body[data-print-mode="chapter"][data-print-chapter="9"] .chapter-page[data-chapter="9"],
-    body[data-print-mode="chapter"][data-print-chapter="10"] .chapter-page[data-chapter="10"],
-    body[data-print-mode="chapter"][data-print-chapter="11"] .chapter-page[data-chapter="11"],
-    body[data-print-mode="chapter"][data-print-chapter="12"] .chapter-page[data-chapter="12"],
-    body[data-print-mode="chapter"][data-print-chapter="13"] .chapter-page[data-chapter="13"],
-    body[data-print-mode="chapter"][data-print-chapter="14"] .chapter-page[data-chapter="14"],
-    body[data-print-mode="chapter"][data-print-chapter="15"] .chapter-page[data-chapter="15"],
-    body[data-print-mode="chapter"][data-print-chapter="16"] .chapter-page[data-chapter="16"],
-    body[data-print-mode="chapter"][data-print-chapter="17"] .chapter-page[data-chapter="17"],
-    body[data-print-mode="chapter"][data-print-chapter="18"] .chapter-page[data-chapter="18"],
-    body[data-print-mode="chapter"][data-print-chapter="19"] .chapter-page[data-chapter="19"],
-    body[data-print-mode="chapter"][data-print-chapter="20"] .chapter-page[data-chapter="20"],
-    body[data-print-mode="chapter"][data-print-chapter="21"] .chapter-page[data-chapter="21"],
-    body[data-print-mode="chapter"][data-print-chapter="22"] .chapter-page[data-chapter="22"],
-    body[data-print-mode="chapter"][data-print-chapter="23"] .chapter-page[data-chapter="23"],
-    body[data-print-mode="chapter"][data-print-chapter="24"] .chapter-page[data-chapter="24"],
-    body[data-print-mode="chapter"][data-print-chapter="25"] .chapter-page[data-chapter="25"],
-    body[data-print-mode="chapter"][data-print-chapter="26"] .chapter-page[data-chapter="26"],
-    body[data-print-mode="chapter"][data-print-chapter="27"] .chapter-page[data-chapter="27"],
-    body[data-print-mode="chapter"][data-print-chapter="28"] .chapter-page[data-chapter="28"],
-    body[data-print-mode="chapter"][data-print-chapter="29"] .chapter-page[data-chapter="29"],
-    body[data-print-mode="chapter"][data-print-chapter="30"] .chapter-page[data-chapter="30"]{
+    /* No modo PDF do capítulo, só o capítulo selecionado aparece. */
+    body[data-print-mode="chapter"] .chapter-page.print-selected{
         display:block !important;
     }
 
-    .print-cover{
-        background:radial-gradient(circle at top,#2a211c 0,#14110f 42%,#090807 100%) !important;
+    /* Capa do PDF */
+.print-cover{
+    position:relative !important;
+    overflow:hidden !important;
+    background:radial-gradient(circle at top,#2a211c 0,#14110f 42%,#090807 100%) !important;
+    color:#efe1c6 !important;
+    display:flex !important;
+    flex-direction:column !important;
+    justify-content:flex-start !important;
+    align-items:center !important;
+    text-align:center !important;
+    padding:38mm 22mm 24mm !important;
+}
+
+.print-cover::after{
+    content:"" !important;
+    position:absolute !important;
+    inset:0 !important;
+    z-index:1 !important;
+    background:
+        linear-gradient(to bottom,rgba(0,0,0,.10) 0%,rgba(0,0,0,.34) 44%,rgba(0,0,0,.76) 100%),
+        radial-gradient(circle at top,rgba(239,225,198,.10),rgba(0,0,0,0) 46%) !important;
+}
+
+.print-cover-art{
+    position:absolute !important;
+    inset:0 !important;
+    z-index:0 !important;
+    width:100% !important;
+    height:100% !important;
+    object-fit:cover !important;
+    object-position:center !important;
+    opacity:.88 !important;
+    filter:brightness(.78) contrast(1.05) saturate(.95) !important;
+}
+
+.print-cover-inner{
+    position:relative !important;
+    z-index:2 !important;
+    display:flex !important;
+    flex-direction:column !important;
+    align-items:center !important;
+    gap:13pt !important;
+    width:100% !important;
+    text-shadow:0 4px 18px rgba(0,0,0,.72) !important;
+}
+
+    .print-title-main{
+        margin:0 !important;
         color:#efe1c6 !important;
-        display:flex;
-        flex-direction:column;
-        justify-content:center;
-        align-items:center;
-        text-align:center;
-        padding:28mm;
+        font-size:34pt !important;
+        line-height:1 !important;
+        letter-spacing:.08em !important;
+        font-weight:normal !important;
+        text-transform:uppercase !important;
+        white-space:nowrap !important;
     }
 
-    .print-cover h1{
-        margin:0 0 18pt;
-        font-size:40pt;
-        line-height:.95;
-        letter-spacing:.08em;
-        font-weight:normal;
-        text-transform:uppercase;
+    .print-title-translation{
+        margin:0 !important;
+        color:#d9c59e !important;
+        font-size:12pt !important;
+        line-height:1.3 !important;
+        letter-spacing:.08em !important;
+    }
+
+    .print-title-japanese{
+        margin:0 !important;
         color:#efe1c6 !important;
+        font-family:"Yu Mincho","Hiragino Mincho ProN","Noto Serif JP",serif !important;
+        font-size:30pt !important;
+        line-height:1.15 !important;
+        letter-spacing:.08em !important;
     }
 
-    .print-cover p{
-        margin:0;
-        color:#cdb890 !important;
-        font-size:11pt;
-        letter-spacing:.14em;
-        text-transform:uppercase;
-    }
-
+    /* Páginas de autoria, sinopse e sumário no PDF */
     .print-front{
         background:#f3ead8 !important;
         color:var(--ink) !important;
-        padding:24mm 22mm;
+        padding:24mm 22mm !important;
     }
 
     .print-front h2{
-        margin:0 0 18pt;
+        margin:0 0 18pt !important;
         color:var(--accent) !important;
-        font-weight:normal;
-        font-size:22pt;
-        text-transform:uppercase;
-        letter-spacing:.08em;
+        font-weight:normal !important;
+        font-size:22pt !important;
+        text-transform:uppercase !important;
+        letter-spacing:.08em !important;
+    }
+
+    .print-front .meta-grid{
+        display:grid !important;
+        grid-template-columns:1fr 1fr !important;
+        gap:14pt !important;
     }
 
     .print-front .meta-card{
         background:#efe4cf !important;
+        border:1px solid #d5c2a1 !important;
+        padding:14pt !important;
     }
 
     .print-front p,
     .print-front li,
     .print-front div{
         color:var(--ink) !important;
-        font-size:12pt;
-        line-height:1.7;
+        font-size:12pt !important;
+        line-height:1.7 !important;
     }
 
     .print-summary-list{
-        list-style:none;
-        margin:22pt 0 0;
-        padding:0;
+        list-style:none !important;
+        margin:22pt 0 0 !important;
+        padding:0 !important;
     }
 
     .print-summary-list li{
-        display:flex;
-        justify-content:space-between;
-        gap:18pt;
-        padding:7pt 0;
-        border-bottom:1px solid #d5c2a1;
+        display:flex !important;
+        justify-content:space-between !important;
+        gap:18pt !important;
+        padding:7pt 0 !important;
+        border-bottom:1px solid #d5c2a1 !important;
     }
 
     .print-summary-list .title{
@@ -598,9 +746,10 @@ a{
 
     .print-summary-list .pages{
         color:#6c5948 !important;
-        white-space:nowrap;
+        white-space:nowrap !important;
     }
 
+    /* Página de capítulo no PDF */
     .chapter-page{
         background:#f3ead8 !important;
         color:var(--ink) !important;
@@ -646,18 +795,18 @@ a{
     }
 }
 
+/* =========================================================
+   RESPONSIVO
+   ========================================================= */
+
 @media(max-width:1080px){
     .home-shell{
         grid-template-columns:1fr;
     }
 
-    .home-hero{
+    .home-cover{
         min-height:48vh;
         align-items:center;
-    }
-
-    .home-hero-title{
-        text-align:center;
     }
 }
 
@@ -697,12 +846,18 @@ a{
 }
 """
 
-# =========================================================
-# JS
-# =========================================================
 
+# =========================================================
+# JAVASCRIPT DO SITE
+# =========================================================
+# Controla:
+# - troca de telas
+# - abertura de capítulos
+# - impressão/PDF do livro
+# - impressão/PDF de capítulo específico
 JS = """
 (function(){
+    // Guarda as telas principais do site.
     const screens = {
         home: document.getElementById('screen-home'),
         auth: document.getElementById('screen-auth'),
@@ -710,14 +865,17 @@ JS = """
         reader: document.getElementById('screen-reader')
     };
 
+    // Mostra uma tela e esconde as outras.
     window.showScreen = function(name){
         Object.values(screens).forEach(el => el.classList.remove('active'));
+
         if(screens[name]){
             screens[name].classList.add('active');
             window.scrollTo({top:0, behavior:'smooth'});
         }
     };
 
+    // Abre um capítulo específico no leitor.
     window.openChapter = function(num){
         showScreen('reader');
 
@@ -726,37 +884,62 @@ JS = """
         });
 
         const target = document.querySelector('.chapter-reader[data-chapter="' + num + '"]');
+
         if(target){
             target.classList.add('active');
             window.scrollTo({top:0, behavior:'smooth'});
         }
     };
 
+    // Prepara impressão do livro inteiro.
     window.printBook = function(){
         document.body.setAttribute('data-print-mode', 'book');
         document.body.removeAttribute('data-print-chapter');
+
+        document.querySelectorAll('.chapter-page').forEach(el => {
+            el.classList.remove('print-selected');
+        });
+
         window.print();
     };
 
+    // Prepara impressão de um capítulo específico.
     window.printChapter = function(num){
         document.body.setAttribute('data-print-mode', 'chapter');
         document.body.setAttribute('data-print-chapter', String(num));
+
+        document.querySelectorAll('.chapter-page').forEach(el => {
+            el.classList.remove('print-selected');
+        });
+
+        document.querySelectorAll('.chapter-page[data-chapter="' + num + '"]').forEach(el => {
+            el.classList.add('print-selected');
+        });
+
         window.print();
     };
 
+    // Depois da impressão, volta o modo padrão para livro inteiro.
     window.addEventListener('afterprint', function(){
         document.body.setAttribute('data-print-mode', 'book');
         document.body.removeAttribute('data-print-chapter');
+
+        document.querySelectorAll('.chapter-page').forEach(el => {
+            el.classList.remove('print-selected');
+        });
     });
 
+    // Modo padrão caso o usuário use Ctrl+P direto.
     document.body.setAttribute('data-print-mode', 'book');
 })();
 """
 
+
 # =========================================================
-# FUNÇÕES AUXILIARES
+# FUNÇÕES DE APOIO
 # =========================================================
 
+# Palavras que devem continuar minúsculas ao gerar título pelo nome do arquivo.
 LOWER_WORDS = {
     "a", "o", "as", "os",
     "de", "da", "do", "das", "dos",
@@ -767,27 +950,68 @@ LOWER_WORDS = {
 
 
 def safe(text: str) -> str:
+    """
+    Escapa textos para HTML.
+
+    Isso impede que caracteres especiais quebrem o HTML.
+    Exemplo:
+    < vira &lt;
+    > vira &gt;
+    """
     return html.escape(text, quote=True)
 
 
 def title_from_filename(path: Path) -> str:
-    name = re.sub(r"^\d+[-_ ]*", "", path.stem).replace("-", " ").replace("_", " ").strip()
+    """
+    Cria um título legível a partir do nome do arquivo.
+
+    Exemplo:
+    05-a-casa-onde-a-guerra-respira.md
+    vira:
+    A Casa Onde a Guerra Respira
+    """
+    name = re.sub(r"^\d+[-_ ]*", "", path.stem)
+    name = name.replace("-", " ").replace("_", " ").strip()
+
     words = []
+
     for word in name.split():
         lw = word.lower()
+
         if lw in LOWER_WORDS:
             words.append(lw)
         else:
             words.append(lw.capitalize())
+
     return " ".join(words)
 
 
 def chapter_number_from_filename(path: Path) -> int:
+    """
+    Pega o número do capítulo pelo começo do nome do arquivo.
+
+    Exemplo:
+    07-mascaras-na-estrada.md
+    retorna:
+    7
+    """
     match = re.match(r"^(\d+)", path.stem)
     return int(match.group(1)) if match else 0
 
 
 def parse_markdown_chapter(path: Path) -> dict:
+    """
+    Lê um arquivo Markdown de capítulo e extrai:
+    - número do capítulo
+    - título
+    - blocos de texto
+
+    O formato esperado é:
+    # Capítulo 7
+    ## Máscaras na Estrada
+
+    Texto do capítulo...
+    """
     text = path.read_text(encoding="utf-8").strip()
     lines = text.splitlines()
 
@@ -798,20 +1022,25 @@ def parse_markdown_chapter(path: Path) -> dict:
     for line in lines:
         clean = line.strip()
 
+        # Detecta linha do tipo: # Capítulo 7
         if clean.startswith("# Capítulo"):
             match = re.search(r"(\d+)", clean)
             num = int(match.group(1)) if match else chapter_number_from_filename(path)
             continue
 
+        # Detecta linha do tipo: ## Título do Capítulo
         if clean.startswith("## "):
             title = clean[3:].strip()
             continue
 
+        # Todo o resto entra como corpo do capítulo.
         raw_lines.append(line)
 
+    # Se não achou número no conteúdo, usa o número do arquivo.
     if num is None:
         num = chapter_number_from_filename(path)
 
+    # Se não achou título no conteúdo, usa o nome do arquivo.
     if not title:
         title = title_from_filename(path)
 
@@ -819,7 +1048,11 @@ def parse_markdown_chapter(path: Path) -> dict:
     buffer = []
 
     def flush_buffer():
+        """
+        Fecha o parágrafo atual e manda para a lista de blocos.
+        """
         nonlocal buffer
+
         if buffer:
             blocks.append(" ".join(x.strip() for x in buffer if x.strip()))
             buffer = []
@@ -827,14 +1060,17 @@ def parse_markdown_chapter(path: Path) -> dict:
     for line in raw_lines:
         clean = line.strip()
 
+        # Linha com --- vira separador visual no HTML.
         if clean == "---":
             flush_buffer()
             blocks.append("__HR__")
             continue
 
+        # Linha com texto entra no parágrafo atual.
         if clean:
             buffer.append(clean)
         else:
+            # Linha vazia fecha o parágrafo.
             flush_buffer()
 
     flush_buffer()
@@ -847,6 +1083,12 @@ def parse_markdown_chapter(path: Path) -> dict:
 
 
 def paginate_blocks(blocks, chars_per_page=CHARS_PER_PAGE, min_blocks=MIN_PARAGRAPHS_PER_PAGE):
+    """
+    Divide o texto em páginas simuladas.
+
+    Isso não é paginação editorial profissional.
+    É uma simulação por quantidade de caracteres para leitura no site e PDF.
+    """
     if not blocks:
         return [[]]
 
@@ -855,9 +1097,11 @@ def paginate_blocks(blocks, chars_per_page=CHARS_PER_PAGE, min_blocks=MIN_PARAGR
     current_chars = 0
 
     for block in blocks:
+        # Separadores contam como um pequeno espaço.
         block_cost = 120 if block == "__HR__" else len(block)
         proposed_chars = current_chars + block_cost
 
+        # Cria nova página quando passa do limite.
         if current and len(current) >= min_blocks and proposed_chars > chars_per_page:
             pages.append(current)
             current = [block]
@@ -873,23 +1117,45 @@ def paginate_blocks(blocks, chars_per_page=CHARS_PER_PAGE, min_blocks=MIN_PARAGR
 
 
 def render_body_blocks(blocks):
+    """
+    Transforma blocos de texto em HTML.
+
+    Parágrafo vira <p>.
+    Separador __HR__ vira <hr>.
+    """
     parts = []
+
     for block in blocks:
         if block == "__HR__":
             parts.append("<hr>")
         else:
             parts.append(f"<p>{safe(block)}</p>")
+
     return "\n".join(parts)
 
 
 def format_page_range(start_page: int, end_page: int) -> str:
+    """
+    Formata intervalo de páginas.
+
+    Exemplo:
+    Página 5
+    ou
+    Páginas 5–12
+    """
     if start_page == end_page:
         return f"Página {start_page}"
+
     return f"Páginas {start_page}–{end_page}"
 
 
 def build_chapters():
+    """
+    Lê todos os capítulos da pasta manuscrito/capitulos,
+    ordena pelo número e calcula páginas simuladas.
+    """
     chapter_files = sorted(CAP_DIR.glob("*.md"))
+
     chapters = [parse_markdown_chapter(p) for p in chapter_files]
     chapters.sort(key=lambda c: c["num"])
 
@@ -897,6 +1163,7 @@ def build_chapters():
 
     for chapter in chapters:
         pages = paginate_blocks(chapter["blocks"])
+
         chapter["pages"] = []
         chapter["start_page"] = global_page
 
@@ -906,6 +1173,7 @@ def build_chapters():
                 "global_page": global_page,
                 "blocks": page_blocks
             })
+
             global_page += 1
 
         chapter["end_page"] = global_page - 1
@@ -914,15 +1182,30 @@ def build_chapters():
     return chapters, global_page - 1
 
 
+# =========================================================
+# RENDERIZAÇÃO DAS TELAS DO SITE
+# =========================================================
+
 def render_home():
+    """
+    Gera a tela Home:
+    - capa visual
+    - sinopse
+    """
     synopsis_html = "\n".join(f"<p>{safe(p)}</p>" for p in SYNOPSIS)
 
     return f"""
 <section class="screen screen-home active" id="screen-home">
     <div class="home-shell">
-        <div class="home-hero">
-            <h1 class="home-hero-title">{BOOK_TITLE_STACKED}</h1>
-        </div>
+        <div class="home-cover">
+    <img class="home-cover-art" src="{safe(COVER_IMAGE)}" alt="">
+    <div class="home-cover-inner">
+        <h1 class="home-title-main">{safe(BOOK_TITLE)}</h1>
+        <p class="home-title-translation">{safe(BOOK_TRANSLATION)}</p>
+        <p class="home-title-japanese">{safe(BOOK_JAPANESE)}</p>
+    </div>
+</div>
+
         <div class="home-synopsis">
             <h2>Sinopse</h2>
             {synopsis_html}
@@ -933,13 +1216,16 @@ def render_home():
 
 
 def render_authorship():
+    """
+    Gera a tela de Autoria.
+    """
     meta_html = "\n".join(
-        f'''
+        f"""
         <article class="meta-card">
             <h3>{safe(label)}</h3>
             <p>{safe(value)}</p>
         </article>
-        '''.strip()
+        """.strip()
         for label, value in AUTHOR_BLOCK
     )
 
@@ -948,11 +1234,13 @@ def render_authorship():
     <div class="page-shell">
         <div class="section-head">
             <h2>Autoria</h2>
+
             <div class="reader-actions">
                 <button class="action-btn" onclick="showScreen('home')">Voltar ao início</button>
                 <button class="action-btn" onclick="showScreen('summary')">Ir para o sumário</button>
             </div>
         </div>
+
         <div class="section-body">
             <div class="meta-grid">
                 {meta_html}
@@ -964,24 +1252,35 @@ def render_authorship():
 
 
 def render_summary(chapters):
+    """
+    Gera a tela de Sumário:
+    - lista todos os capítulos
+    - mostra intervalo de páginas simuladas
+    - botão para abrir capítulo
+    - botão para PDF do capítulo
+    - botão para PDF do livro
+    """
     items = []
 
     for chapter in chapters:
         page_range = format_page_range(chapter["start_page"], chapter["end_page"])
+
         items.append(
-            f'''
+            f"""
             <li class="summary-item">
                 <div class="summary-main">
                     <h3>Capítulo {chapter["num"]} — {safe(chapter["title"])}</h3>
                     <p>{page_range}</p>
                 </div>
+
                 <div class="summary-pages">{chapter["page_count"]} página(s)</div>
+
                 <div class="summary-actions">
                     <button class="action-btn" onclick="openChapter({chapter["num"]})">Abrir capítulo</button>
                     <button class="action-btn" onclick="printChapter({chapter["num"]})">PDF do capítulo</button>
                 </div>
             </li>
-            '''.strip()
+            """.strip()
         )
 
     return f"""
@@ -989,11 +1288,13 @@ def render_summary(chapters):
     <div class="page-shell">
         <div class="section-head">
             <h2>Sumário</h2>
+
             <div class="summary-actions">
                 <button class="action-btn" onclick="showScreen('home')">Voltar ao início</button>
                 <button class="action-btn fill" onclick="printBook()">PDF do livro</button>
             </div>
         </div>
+
         <div class="section-body">
             <ol class="summary-list">
                 {"".join(items)}
@@ -1005,13 +1306,19 @@ def render_summary(chapters):
 
 
 def render_reader(chapters):
+    """
+    Gera o leitor de capítulos.
+    Cada capítulo vira uma tela interna com páginas simuladas.
+    """
     chapter_views = []
 
     for chapter in chapters:
         page_cards = []
 
         for page in chapter["pages"]:
+            # O cabeçalho do capítulo aparece só na primeira página do capítulo.
             header_html = ""
+
             if page["local_page"] == 1:
                 header_html = f"""
                 <header>
@@ -1021,35 +1328,39 @@ def render_reader(chapters):
                 """.strip()
 
             page_cards.append(
-                f'''
+                f"""
                 <article class="page-card">
                     <div class="page-marker"><span>Página {page["global_page"]}</span></div>
+
                     {header_html}
+
                     <div class="body-text">
                         {render_body_blocks(page["blocks"])}
                     </div>
                 </article>
-                '''.strip()
+                """.strip()
             )
 
         chapter_views.append(
-            f'''
+            f"""
             <section class="chapter-reader" data-chapter="{chapter["num"]}">
                 <div class="page-shell">
                     <div class="section-head">
                         <h2>Capítulo {chapter["num"]} — {safe(chapter["title"])}</h2>
+
                         <div class="reader-actions">
                             <button class="action-btn" onclick="showScreen('summary')">Voltar ao sumário</button>
                             <button class="action-btn" onclick="printChapter({chapter["num"]})">PDF deste capítulo</button>
                             <button class="action-btn fill" onclick="printBook()">PDF do livro</button>
                         </div>
                     </div>
+
                     <div class="reader-wrap">
                         {"".join(page_cards)}
                     </div>
                 </div>
             </section>
-            '''.strip()
+            """.strip()
         )
 
     return f"""
@@ -1059,61 +1370,97 @@ def render_reader(chapters):
 """.strip()
 
 
+# =========================================================
+# RENDERIZAÇÃO DO CONTEÚDO PARA PDF
+# =========================================================
+
 def render_print_root(chapters):
+    """
+    Gera uma versão separada do conteúdo apenas para impressão/PDF.
+
+    Isso evita imprimir navbar, botões e telas escondidas.
+    Também permite que o PDF do livro tenha:
+    - capa
+    - autoria
+    - sinopse
+    - sumário
+    - capítulos
+
+    E que o PDF de capítulo imprima apenas o capítulo escolhido.
+    """
     auth_cards = "\n".join(
-        f'''
+        f"""
         <article class="meta-card">
             <h3>{safe(label)}</h3>
             <p>{safe(value)}</p>
         </article>
-        '''.strip()
+        """.strip()
         for label, value in AUTHOR_BLOCK
     )
 
     synopsis_html = "\n".join(f"<p>{safe(p)}</p>" for p in SYNOPSIS)
 
     summary_items = "\n".join(
-        f'''
+        f"""
         <li>
             <span class="title">Capítulo {chapter["num"]} — {safe(chapter["title"])}</span>
             <span class="pages">{format_page_range(chapter["start_page"], chapter["end_page"])}</span>
         </li>
-        '''.strip()
+        """.strip()
         for chapter in chapters
     )
 
-    print_pages = [
-        f'''
-        <section class="print-page print-cover book-only">
-            <h1>{BOOK_TITLE_STACKED}</h1>
-            <p>{safe(BOOK_TITLE)}</p>
-        </section>
-        '''.strip(),
+    print_pages = []
 
-        f'''
+    # Capa do PDF do livro.
+    print_pages.append(
+        f"""
+        <section class="print-page print-cover book-only">
+    <img class="print-cover-art" src="{safe(COVER_IMAGE)}" alt="">
+    <div class="print-cover-inner">
+        <h1 class="print-title-main">{safe(BOOK_TITLE)}</h1>
+        <p class="print-title-translation">{safe(BOOK_TRANSLATION)}</p>
+        <p class="print-title-japanese">{safe(BOOK_JAPANESE)}</p>
+    </div>
+</section>
+        """.strip()
+    )
+
+    # Página de autoria do PDF do livro.
+    print_pages.append(
+        f"""
         <section class="print-page print-front book-only">
             <h2>Autoria</h2>
+
             <div class="meta-grid">
                 {auth_cards}
             </div>
         </section>
-        '''.strip(),
+        """.strip()
+    )
 
-        f'''
+    # Página de sinopse e sumário do PDF do livro.
+    print_pages.append(
+        f"""
         <section class="print-page print-front book-only">
             <h2>Sinopse</h2>
+
             {synopsis_html}
+
             <h2 style="margin-top:28pt;">Sumário</h2>
+
             <ol class="print-summary-list">
                 {summary_items}
             </ol>
         </section>
-        '''.strip()
-    ]
+        """.strip()
+    )
 
+    # Páginas dos capítulos no PDF.
     for chapter in chapters:
         for page in chapter["pages"]:
             header_html = ""
+
             if page["local_page"] == 1:
                 header_html = f"""
                 <header>
@@ -1123,27 +1470,44 @@ def render_print_root(chapters):
                 """.strip()
 
             print_pages.append(
-                f'''
+                f"""
                 <section class="print-page chapter-page" data-chapter="{chapter["num"]}">
                     <div class="page-marker"><span>Página {page["global_page"]}</span></div>
+
                     {header_html}
+
                     <div class="body-text">
                         {render_body_blocks(page["blocks"])}
                     </div>
                 </section>
-                '''.strip()
+                """.strip()
             )
 
     return f'<div id="print-root">{"".join(print_pages)}</div>'
 
 
+# =========================================================
+# FUNÇÃO PRINCIPAL
+# =========================================================
+
 def main():
+    """
+    Função principal do script.
+
+    Ela:
+    1. lê os capítulos em Markdown
+    2. calcula páginas simuladas
+    3. monta o HTML completo
+    4. salva em site/index.html
+    """
     chapters, total_pages = build_chapters()
 
+    # Navbar fixa do site.
     nav = f"""
 <header class="site-header">
     <div class="site-header-inner">
         <button class="brand-button" onclick="showScreen('home')">{safe(BOOK_TITLE)}</button>
+
         <div class="nav-actions">
             <button class="nav-pill" onclick="showScreen('auth')">Autoria</button>
             <button class="nav-pill" onclick="showScreen('summary')">Sumário</button>
@@ -1152,6 +1516,7 @@ def main():
 </header>
 """.strip()
 
+    # Documento HTML final.
     doc = f"""<!doctype html>
 <html lang="pt-BR">
 <head>
@@ -1160,14 +1525,22 @@ def main():
 <title>{safe(BOOK_TITLE)}</title>
 <style>{CSS}</style>
 </head>
+
 <body data-print-mode="book">
 {nav}
+
 {render_home()}
+
 {render_authorship()}
+
 {render_summary(chapters)}
+
 {render_reader(chapters)}
+
 {render_print_root(chapters)}
+
 <p class="footer-note">{safe(BOOK_TITLE)}</p>
+
 <script>{JS}</script>
 </body>
 </html>"""

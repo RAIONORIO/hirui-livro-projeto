@@ -2701,385 +2701,1212 @@ Katsuro entrou primeiro. Seus olhos percorreram o ambiente, registrando a mesa, 
 ---
 
 # Capítulo 5
+
 ## A Casa Onde a Guerra Respira
 
-A porta se fechou, e o mundo exterior pareceu desaparecer. O ar dentro da casa de Takeshi ficou gelado e estanque.
+Katsuro permaneceu imóvel por uma fração de segundo.
 
-Katsuro paralisou por uma fração de segundo, seus olhos, sempre tão calculistas, permaneceram em genuína surpresa ao ver Rin de pé no centro do cômodo. Não era a visão de uma suplicante ou de uma refugiada amedrontada. Era a aparição sólida e desafiante de uma mulher que havia queimado suas pontes. A poeira da estrada ainda manchava suas roupas, e nos olhos dela brilhava um fogo que ele reconheceu instantaneamente — era o mesmo ódio que o consumia, mas temperado por uma dor mais recente e pessoal.
+Não foi medo. Rin não confundiria aquele homem com alguém que se assustava facilmente. Foi cálculo interrompido, o pequeno intervalo em que uma mente acostumada a controlar variáveis descobre que uma delas atravessou sozinha a estrada, entrou em Hayashi, arrastou o próprio desastre até a casa de um soldado recém-salvo e agora estava de pé no centro do cômodo como se tivesse direito ao chão sob seus pés.
 
-Rin.
+A porta se fechou atrás dele. O som foi baixo, mas pareceu cortar o ar.
 
-Foi tudo o que ele conseguiu dizer. Seu olhar cortou para Takeshi, que encolheu sob o peso daquele olhar silenciosamente acusatório.
+Takeshi ficou próximo à entrada, rígido demais. Havia culpa no modo como mantinha os ombros tensos, e também desafio. Se pudesse, colocaria o próprio corpo entre Rin e qualquer sentença. Era um gesto inútil diante de Katsuro Morikawa, mas Rin não o odiou por isso. Algumas formas de amor eram burras, repetidas e necessárias. Talvez por isso sobrevivessem.
 
-Você trouxe um incêndio para dentro de casa, soldado.
+Katsuro olhou primeiro para ela, depois para Takeshi. Seus olhos não se demoraram em nenhum detalhe por acaso: o capuz retirado, a lama seca na barra da roupa, a postura reta de Rin, a tensão no maxilar do irmão, a janela fechada, a mesa baixa, a espada de treino encostada na parede. A casa de Takeshi era pequena demais para esconder uma mentira daquele tamanho.
 
-Capitão Katsuro.
+— Rin — disse ele.
 
-Ele se virou de volta para ela, a mente claramente trabalhando a mil por hora, avaliando os riscos. Sua presença ali era um perigo imenso para todos eles. Mas ao olhar para ela — para a postura rígida, para os olhos que não se desviavam — ele não via apenas uma ameaça. Via um recurso. Uma testemunha da tirania de Daikan. Uma sobrevivente. Sua sobrevivente.
+Foi apenas o nome. Ainda assim, nele havia pergunta, advertência e um cansaço que não pertencia àquela noite apenas.
 
-O que aconteceu? Por que você não está longe daqui?
+O olhar de Katsuro voltou para Takeshi.
 
-Goratsu veio ao enterro do meu pai. Profanou o momento. Eu... não me contive." Ela não deu detalhes, mas a fúria contida em suas palavras era eloqüente o suficiente. "Ele me caçaria até os confins da terra se pudesse. Você foi a única direção que me restou.
+— Você trouxe um incêndio para dentro de casa, soldado.
 
-Katsuro estudou o rosto dela. Ele via a garota endurecida que ele encontrara antes, mas agora havia uma ferida aberta, uma vulnerabilidade perigosa que tornava sua determinação ainda mais aguda. Ele não podia mandá-la embora. Ela era um elo vivo com o conhecimento que ele precisava, e agora, uma refugiada sob sua custódia. Um instinto primal de proteger o que era seu — sua investida, seu trunfo — surgiu com força.
+Takeshi abaixou a cabeça por um instante, mas não recuou.
 
-Você fica. Ninguém, ninguém fora desta sala pode saber que você está aqui. Takeshi, você garantirá isso." Seu olhar voltou a Rin, penetrante. "E você... você me diz tudo o que seu pai lhe contou. Cada lenda, cada sussurro sobre os Kurotsuki. Tudo o que você ouviu naquela cabana. Sua mente é a única coisa que pode nos dar uma vantagem agora. Você entende? Eu não posso protegê-la se você não me der as armas para lutar.
+— Ela veio até mim.
 
-Era uma ordem. Era um pacto renovado. Ele não a estava acolhendo por bondade; estava a recrutando para a sobrevivência mútua. E pelo olhar em seus olhos, Rin entendia perfeitamente.
+— E você achou prudente escondê-la aqui?
 
-Rin manteve seu olhar, mas em vez de concordar imediatamente, ela abanou a cabeça com uma calma que desarmou a intensidade dele.
+— Achei que deixá-la na rua seria pior.
 
-Você está procurando no lugar errado, Capitão. Eu não sou uma estudiosa de lendas. Meu pai guardava esses segredos para si, e ele os levou consigo. Qualquer coisa que eu ouvi sobre os Kurotsuki não passa de fogueira de acampamento, inútil para um campo de batalha.
+Katsuro sustentou o olhar dele. A reprimenda veio sem grito, o que a tornava mais afiada.
 
-Ela viu um lampejo de frustração nos olhos de Katsuro, mas não lhe deu tempo para protestar.
+— Prudência não é escolher entre duas imprudências e chamar a menos mortal de plano.
 
-Mas o senhor não me procurou por causa de monstros. Procurou-me por causa do poder real. E esse poder... eu tenho.
+Takeshi cerrou a mandíbula. Rin sentiu o impulso de defendê-lo, mas o conteve. Não tinha vindo até ali para que o irmão apanhasse por ela em silêncio, nem para se esconder atrás dele. Deu um passo à frente. Pequeno, mas suficiente para puxar de volta o centro da sala.
 
-Ela deu um passo à frente, seu olhar fixo no dele, incisivo.
+— Capitão Katsuro — disse ela, a voz firme apesar do cansaço. — Se veio para punir alguém por eu estar aqui, comece por mim.
 
-Eu conheço cada comerciante que mantém o armazém de Daikan abastecido. Sei quais capitães da guarda aceitam um saco de moedas para 'não ver' um carregamento ilegal passar. Sei por quais trilhas de caçador um exército poderia se mover sem ser detectado. Se o senhor quer enfraquecer Daikan — cortar o dinheiro, a comida e a informação dele — antes mesmo de pensar em enfrentar os Kurotsuki... isso eu posso lhe dar. Os nomes, os caminhos, os pontos fracos.
+Katsuro se voltou para ela. A luz fraca da tarde atravessava as frestas da madeira e desenhava sombras no rosto dele. O capitão parecia menos surpreso agora. Mais perigoso.
 
-Katsuro ficou em silêncio por um longo momento, mas o interesse aguçado que Rin tinha visto antes se dissolveu, substituído por uma expressão ponderada e... cansada. Ele esfregou o rosto com uma mão, e quando olhou para ela novamente, era com um olhar diferente. Não mais o de um estrategista vislumbrando uma nova arma, mas o de um comandante avaliando um problema logístico.
+— O que aconteceu? — perguntou. — Por que você não está longe daqui?
 
-Essas informações sobre Daikan... são úteis. Estratégicas. Mas são planos de longo prazo. Envolvem infiltração, suborno, uma guerra de desgaste que pode levar meses.
+Rin pensou no cemitério. Na terra fria. No rosto de Seijuro já sem dor. No som das palmas de Goratsu cortando o luto como uma lâmina sem fio, cruel justamente por não precisar ser precisa. A mão dela formigou com a lembrança do tapa.
 
-Ele deu um passo atrás, criando um espaço físico que também era emocional.
+— Goratsu foi ao enterro do meu pai — respondeu. — Veio rir do morto, da minha família e de tudo que sobrou de nós. Eu bati no rosto dele diante da aldeia.
 
-Mas o jogo mudou, Rin. Antes, você era um contato externo, um ativo secreto. Agora você é uma refugiada sob meu teto. Sua presença aqui é um risco ativo. Se Goratsu suspeitar que você está em Hayashi, ele usará isso como desculpa para romper a aliança antes mesmo de estarmos prontos.
+Takeshi respirou fundo pelo nariz, como se ouvisse pela primeira vez a parte que sua mente ainda tentava negar.
 
-Ele não disse isso com raiva, mas com uma frieza factual que era quase pior. Ele não a via mais como um trunfo imediato, e sim como um fardo. Um fardo pelo qual ele, por um código interno de honra ou simples pena, sentia-se responsável.
+Katsuro não demonstrou espanto. Mas algo se fechou em seus olhos.
 
-O velho do pântano... Mestre Akihito. Ele pode saber das lendas que o senhor busca. É uma direção.
+— E fugiu.
 
-Katsuro anuiu, mas foi um aceno distante, de quem já está pensando cinco passos à frente.
+— Sobrevivi — corrigiu Rin. — Ele me caçaria até os confins da terra se pudesse. Talvez ainda tente. Você foi a única direção que me restou.
 
-É uma direção. A única que me restou, it seems." Ele suspirou. "Você me dará a localização exata. Eu mandarei homens investigarem. Homens de confiança.
+A frase ficou no ar entre eles, mais pesada do que uma súplica. Rin odiou o gosto disso. A última vez que pedira por ajuda ajoelhada diante de homens armados, sua dignidade fora moída na praça. Dessa vez, recusava-se a baixar a cabeça. Mesmo que estivesse pedindo. Mesmo que todos naquela sala soubessem.
 
-Ele se virou para ir, mas parou na porta, sem olhar para trás.
+Katsuro caminhou alguns passos pelo cômodo. Não havia muito espaço, e talvez por isso sua presença parecesse ocupar a casa inteira. Tocou com os olhos a janela, a porta e o pequeno corredor que levava aos fundos, como se decidisse em silêncio quantos homens poderiam morrer se aquele segredo vazasse.
 
-Fique aqui. Não cause problemas. Takeshi, você garante o silêncio. Eu... preciso pensar. Preciso recalcular tudo.
+— Você fica — disse por fim.
 
-E então, ele saiu. A porta se fechou, não com um estrondo, mas com um clique suave que soou como a queda de uma sentença. Pela primeira vez desde que chegou, Rin sentiu o peso esmagador daquela solidão. Ela não era uma parceira. Era um problema que Katsuro, por um fio de compaixão ou puro pragmatismo, ainda não decidira se iria resolver... ou descartar.
+Takeshi ergueu os olhos, surpreso demais para esconder o alívio.
 
-A porta da casa de Takeshi se fechou com um clique suave. O som ecoou na sala silenciosa, marcando não um fim, mas um limbo agonizante. Rin permaneceu imóvel, o peso da resignação nas palavras de Katsuro afundando como uma pedra em seu peito. Ele não a via como um trunfo, e sim como um fardo. Um problema a ser contornado.
+Rin não se moveu.
 
-Takeshi a observou, sua expressão é uma mistura de lealdade e angústia. "Rin... ele vai pensar em algo. Ele é um homem de palavra.
+— Por quê?
 
-Palavras não vão me proteger de Goratsu," ela respondeu, a voz oca. Pela primeira vez desde que fugiu, a chama de determinação parecia vacilar, ameaçada pelo gelo da realidade.
+— Porque mandá-la embora agora seria entregá-la à estrada, e a estrada fala. Porque se Goratsu descobrir que você passou por Hayashi e eu a ignorei, ele transformará sua morte em mensagem. Porque se Daikan souber que uma fugitiva Onizuka esteve sob minha vista e desapareceu, ele usará isso para arrancar vantagem do acordo antes mesmo de nossas tropas marcharem. E porque você ainda sabe coisas que eu preciso saber.
 
-Katsuro estava em seu escritório, os mapas dos Kurotsuki estendidos diante dele como um quebra-cabeça mortal. Seu rosto estava tenso. A imagem de Rin, ferida mas indomável, teimava em se intrometer em seus pensamentos estratégicos. Ele mandou um soldado chamar Takeshi.
+Não era bondade. Rin quase se sentiu mais segura por isso. Bondade mudava de forma conforme o medo. Interesse, ao menos, tinha raízes mais visíveis.
 
-Quando Takeshi entrou, ereto mas com o coração apertado, Katsuro dispensou os guardas com um gesto.
+— Ninguém fora desta sala deve saber que você está aqui — continuou Katsuro, voltando-se para Takeshi. — Ninguém. Nem companheiros de guarda, nem curiosos, nem homens que sorriem demais depois de fazer perguntas demais. Você garantirá isso.
 
-Feche a porta," Katsuro ordenou, sua voz era áspera pela falta de sono. Ele não ofereceu cerimônia. "Sente-se.
+— Sim, Capitão.
 
-Takeshi obedeceu, preparando-se para o pior.
+— E você — disse Katsuro, olhando para Rin — vai me contar tudo o que seu pai lhe disse sobre os Kurotsuki. Cada lenda. Cada sussurro. Cada nome. Cada caminho que pareça levar a lugar nenhum. Se eu vou protegê-la, preciso das armas certas.
 
-Preciso de olhos dentro do território Kurotsuki," Katsuro começou, os dedos pressionando o mapa sobre a região montanhosa. "Não um exército. Uma sombra. Alguém para observar, ouvir, aprender sobre seus movimentos, sua logística... suas fraquezas.
+Rin não respondeu de imediato. A velha raiva, cansada e constante, mexeu-se dentro dela. Havia algo insultante na facilidade com que homens transformavam proteção em cobrança, abrigo em contrato, vida em ferramenta. Ainda assim, ela compreendia a lógica. E talvez fosse isso que mais a irritasse.
 
-Ele ergueu o olhar, fixando-o em Takeshi.
+— Está procurando no lugar errado — disse ela.
 
-Você tem a discrição e a resistência. Conhece a dureza da estrada. É um homem com algo a provar. Por isso, ofereço a você esta missão. Liderar esta investigação. Um cargo de confiança.
+Katsuro estreitou os olhos.
 
-Era uma honra imensa. Takeshi sentiu um surto de orgulho, rapidamente sufocado pela lembrança de sua irmã escondida.
+— Explique.
 
-Katsuro pareceu ler seus pensamentos. Ele se levantou e foi até a janela, suas costas voltadas para Takeshi. Por um momento, sua postura rígida pareceu ceder.
+— Não sou guardiã de lendas. Meu pai guardava esses segredos como quem segura brasa dentro da mão fechada. Contava pedaços, nunca tudo. O que sei sobre os Kurotsuki é pouco. Histórias de fogueira, medo velho, frases interrompidas quando alguém entrava na sala. Isso não vence batalha.
 
-Sua irmã..." a voz de Katsuro baixou, perdendo a frieza tática e ganhando um tom incomumente vulnerável. "Ela tem... uma centelha. Uma teimosia que... bem, que me faz questionar coisas." Ele fez uma pausa longa. "Mas a vingança é uma estrada que não permite passageiros. É um fardo solitário. Se eu ceder a esse sentimento... será minha ruína. Nossa ruína. Preciso estar focado.
+O rosto de Katsuro não mudou, mas a frustração passou por ele como uma sombra rápida. Rin a viu. Ele esperava que ela fosse uma chave para uma porta antiga, talvez a porta errada, talvez a única que imaginava existir.
 
-Ele se virou novamente, e a máscara do comandante estava de volta, mas seus olhos ainda guardavam o eco daquela admissão.
+Ela deu mais um passo em direção à mesa.
 
-Vocês dois são importantes para mim, Takeshi. Cada um à sua maneira. Mas a verdade é que Rin já não serve ao meu propósito principal. O conhecimento que ela tinha era comercial, não militar. Você... você serve. Você é útil agora.
+— Mas você não me procurou apenas por causa de monstros.
 
-A afirmação foi um golpe baixo, mas dita sem malícia, apenas com a crueza de um pragmático. Takeshi sentiu uma fagulha de revolta. Ele não era um instrumento descartável, e Rin muito menos.
+Takeshi olhou para ela. Katsuro esperou.
 
-Senhor," Takeshi disse, erguendo a cabeça com uma coragem recém-descoberta. "Com todo respeito, o senhor está subestimando minha irmã. Rin não é um soldado, é verdade. Mas ela é uma excelente negociadora. Foi ela quem sustentou nossa família por anos nas mesas de barganha.
+— Procurou-me porque meu pai entendia o poder real das terras de Daikan. Não o poder dos estandartes, nem dos discursos, nem do medo que Goratsu cospe na cara dos outros. O poder que entra pelos portões em carroças, sacos, couro, remédios e moedas. Esse eu conheço.
 
-Ele inclinou-se para a frente, apontando para o mapa.
+A atenção de Katsuro voltou inteira para ela.
 
-Se a missão é civil, porque não forjamos a melhor cobertura possível? Podemos nos passar por irmãos comerciantes de peles, expandindo nossos negócios para o território Kurotsuki. Quem desconfiaria de dois jovens empreendedores fazendo perguntas sobre rotas e preços de mercado? Ela faria o papel de negociadora brilhantemente, distraindo com seu charme e astúcia, enquanto eu recolhia as informações que o senhor precisava. É a farsa perfeita.
+Rin apoiou a mão na mesa baixa. A madeira estava fria. Era bom tocar algo firme enquanto falava de um mundo que sempre tentara arrancar firmeza dela.
 
-Katsuro ficou em silêncio, sua expressão impenetrável. Seus olhos percorreram o mapa, depois fitaram Takeshi, e por um breve instante, pousaram na direção da casa onde Rin estava escondida. Ele viu a lógica. Era arriscado, mas era genial. Não era sobre sentimentos; era sobre estratégia pura. Ele não estaria cedendo a uma fraqueza, estaria utilizando um recurso subestimado de forma brilhante.
+— Sei quais comerciantes abastecem os armazéns de Daikan. Sei quais deles odiavam negociar com Goratsu e só continuavam porque meu pai intermediava os preços. Sei quais guardas aceitam pagamento para não ver mercadoria extra. Sei quais trilhas de caçador evitam os postos de cobrança. Sei onde uma carroça quebra com facilidade, onde um grupo pequeno pode atravessar sem chamar atenção e onde um grupo grande morreria atolado antes de alcançar a próxima ponte.
 
-Um aceno de cabeça, lento e decisivo.
+Katsuro aproximou-se da mesa, sem pressa. A expressão dele já não era de frustração. Era de interesse, e isso, em Katsuro, parecia quase uma fome controlada.
 
-Está bem," Katsuro disse, a voz recuperando sua firmeza habitual. "É arriscado... mas é bom. Muito bom. Ela será a negociadora. Você, o guarda-costas e meus olhos. Vocês partem em uma semana.
+— Continue.
 
-Ele encarou Takeshi, o peso da nova aliança pairando entre eles.
+— Daikan governa pelo medo, mas medo precisa comer. Precisa de arroz, couro, sal, ferro, lenha, remédios. Se quiser enfraquecê-lo, pode atacar uma muralha e perder homens. Ou pode fazer os suprimentos atrasarem, os preços subirem, os mercadores desconfiarem uns dos outros, os guardas começarem a cobrar por fora e os aldeões perceberem que o senhor deles sangra moeda como qualquer outro tirano.
 
-Use esse tempo. Ensine a ela tudo o que sabemos sobre os hábitos comerciais Kurotsuki. E, Takeshi..." Katsuro manteve seu olhar. "Mantenha ela viva. O sucesso de sua missão, e o futuro de todos nós, depende disso.
+Takeshi fitava Rin como se tivesse acabado de notar uma arma escondida dentro de casa desde a infância. Não orgulho simples. Espanto. Talvez culpa também, por nunca ter entendido o tamanho do que ela carregava enquanto ele carregava espada.
 
-A missão estava dada. O jogo havia mudado mais uma vez.
+— Isso é valioso — disse Katsuro.
 
-Assim que Katsuro saiu de seu escritório, Takeshi não foi imediatamente para casa. Seus pés o levaram ao movimentado mercado de Hayashi, seu coração batendo com um ritmo novo — uma mistura de ansiedade e antecipação. Ele tinha uma missão, um propósito, mas mais importante, ele tinha uma forma de proteger sua irmã.
+Rin não sorriu.
 
-Seus olhos, treinados para avaliar ameaças, agora procuravam cores e texturas. Ele parou em uma barraca e, com uma parte do seu primeiro salário, comprou um kosode simples de um azul profundo, cor do crepúsculo, e um hakama de um cinza prático. Eram roupas de qualidade, dignas de uma comerciante que queria causar uma boa impressão, não as de uma refugiada. Em seguida, foi a uma padaria e comprou dois manjū Ainda quentes, o doce de feijão favorito dela desde criança, e uma garrafa de chá fresco.
+— Eu sei.
 
-Ao voltar para casa, sua mão tremeu ligeiramente ao abrir a porta. Rin estava sentada no mesmo lugar, mas a postura dela era diferente — menos derrotada, mais vigilante, como um animal acuado que se recusa a se render.
+— Mas é guerra de desgaste. Suborno, rotas, infiltração, atraso de carga, pressão sobre mercadores. Isso leva tempo.
 
-Takeshi?" ela perguntou, sua voz um fio de esperança.
+— Então comece antes que precise.
 
-Ele fechou a porta e, sem dizer uma palavra, estendeu os embrulhos para ela. Seu rosto tentava manter a seriedade de um soldado, mas um sorriso teimoso insistia em aparecer nos cantos de sua boca.
+— Você não entende o que mudou.
 
-O que é isso?" ela sussurrou, pegando os pacotes com cuidado.
+— Entendo bem demais. Eu era útil enquanto estava fora do seu território. Agora sou um problema dentro dele.
 
-Abre," ele disse, a voz embargada.
+A honestidade da frase tornou o cômodo mais frio. Takeshi se mexeu, incomodado.
 
-Rin desembrulhou primeiro a comida. O aroma doce do manjū preencheu o ar. Seus olhos se arregalaram e, então, encheram-se de lágrimas silenciosas que rolaram pelo seu rosto. Era um gesto tão simples, tão profundamente deles, que quebrou todas as suas defesas.
+— Rin...
 
-Takeshi...", ela chorou, o nome dele um suspiro de alívio.
+— É verdade — disse ela, sem olhar para o irmão.
 
-Agora as roupas," ele insistiu, sua própria voz falhando.
+Katsuro não negou. Homens como ele raramente desperdiçavam mentira quando a verdade já fazia o trabalho.
 
-Ela puxou o tecido azul. A qualidade era inegável. Não era um presente de luxo, era um investimento. Um investimento nela. Ela olhou para o irmão, a pergunta clara em seus olhos vermelhos.
+— Sua presença aqui é risco ativo — disse ele. — Se Goratsu suspeitar, fará barulho. Se Daikan descobrir, fingirá ofensa e cobrará algo por ela. Se o conselho Hayashi souber antes de mim, perguntará por que a filha de um intermediário Onizuka está escondida na casa de um homem que acabei de tirar da forca. E nenhuma resposta será limpa.
 
-Katsuro aceitou," Takeshi finalmente disse, a felicidade e o orgulho explodindo em seu peito, tornando impossível conter o sorriso largo. "Ele aceitou o meu plano. Em uma semana, partimos para o território Kurotsuki. Como irmãos comerciantes de peles. Você será a negociadora, Rin. A chefe. Eu serei seu guarda-costas.
+— Nada nessa guerra será limpo.
 
-A notícia atingiu Rin como uma onda de calor. A dor, o medo, a humilhação — tudo pareceu ser varrido por aquele único anúncio. Ela não era mais um fardo. Ela era a peça central. Um som entre um riso e um soluço escapou de sua garganta. Ela se jogou nos braços do irmão, o tecido azul apertado contra o peito dele.
+— Justamente por isso eu preciso escolher onde sujar as mãos.
 
-De verdade?" ela sussurrou, seu rosto enterrado no ombro dele. "Ele realmente confia em mim para isso?
+Rin sustentou o olhar dele. Por um instante, quis odiá-lo por completo. Seria mais fácil. Mas Katsuro não estava tentando humilhá-la, nem descartá-la por crueldade. Estava medindo o estrago que ela trazia e calculando se ainda havia forma de transformá-lo em vantagem. Era frio. Era duro. Também era o único tipo de pensamento que sobrevivia perto de homens como Daikan.
 
-Ele confia em nós," Takeshi corrigiu, segurando-a firme. "Nós vamos fazer isso juntos, Rin. Como sempre deveria ter sido. Ninguém nunca vai te separar de mim de novo. Eu juro.
+Ela puxou o ar devagar.
 
-Naquela casa humilde, cercada pelos simples embrulhos de um novo começo, os dois irmãos permaneceram abraçados. O futuro era incerto e perigoso, mas pela primeira vez desde a morte do pai, eles estavam enfrentando-o ombro a ombro, com uma centelha de esperança reacendendo-se em seus corações.
+— Há uma pessoa — disse.
+
+Katsuro não se moveu, mas seus olhos mudaram.
+
+— Quem?
+
+— Mestre Akihito. Um velho que vive perto das terras úmidas, na região dos pântanos ao norte das antigas rotas de caça. Meu pai o respeitava. Nunca falava dele como se fosse apenas mais um curandeiro. Se alguém souber mais sobre os Kurotsuki, talvez seja ele.
+
+— Talvez?
+
+— Meu pai morreu antes de me dar certezas.
+
+A frase foi simples. Não houve tremor nela. Ainda assim, Takeshi abaixou os olhos.
+
+Katsuro assentiu lentamente.
+
+— Você me dará a localização exata.
+
+— Posso desenhar o caminho.
+
+— Fará isso.
+
+Rin esperou que ele dissesse mais. Que selasse um plano, que lhe devolvesse alguma função clara, que transformasse sua fuga em movimento. Mas Katsuro olhou para a porta, e o gesto foi quase uma sentença.
+
+— Por enquanto, fique aqui. Não cause problemas. Não apareça à janela. Não fale com ninguém.
+
+— Vai me trancar?
+
+— Vou impedir que sua morte complique uma guerra que já tem problemas demais.
+
+A resposta deveria soar cruel. Soou prática. Rin odiou ainda mais.
+
+Katsuro voltou-se para Takeshi.
+
+— Você mantém o silêncio. Age normalmente. Volta ao posto. Se alguém perguntar, a mulher encapuzada era uma conhecida do passado que pediu ajuda e foi embora. Nada além disso.
+
+Takeshi engoliu em seco.
+
+— Sim, Capitão.
+
+Katsuro colocou a mão na porta, mas parou antes de abri-la. Não olhou para Rin quando falou.
+
+— Preciso pensar. Recalcular algumas coisas.
+
+A porta se fechou atrás dele com um clique suave.
+
+O som foi pequeno demais para o peso que deixou.
+
+Rin permaneceu de pé no centro da casa. Não sabia se havia sido acolhida ou inventariada. Talvez as duas coisas. Talvez, no mundo dos homens de guerra, não existisse diferença real entre abrigo e posse. A casa de Takeshi, que momentos antes parecia uma possibilidade de descanso, tornou-se uma sala de espera entre uma caçada e outra.
+
+Takeshi a observava com a expressão torcida pela culpa.
+
+— Ele vai pensar em algo — disse.
+
+Rin soltou uma respiração sem força.
+
+— Ele vai pensar em como usar isso sem perder o controle.
+
+— Katsuro não é Daikan.
+
+— Não. Katsuro sabe ouvir antes de apertar o pescoço. Isso o torna mais perigoso, não mais puro.
+
+Takeshi não respondeu de imediato. Era uma coisa nova nele, esse esforço de não transformar cada incômodo em defesa ou ataque. Sentou-se na beira da mesa e passou a mão pelo rosto.
+
+— O que quer que eu faça?
+
+A pergunta a pegou desprevenida. Durante anos, Takeshi agira antes de perguntar. Agora, estava ali, tentando aprender a permanecer.
+
+Rin olhou para o irmão. A luz fraca marcava os hematomas antigos que ainda pareciam existir em sua memória, mesmo quando o rosto já estava limpo. Ele sobrevivera à forca, mas não escapara da dívida. Apenas mudara de senhor, de muro e de uniforme.
+
+— Não me trate como carga — disse ela.
+
+Takeshi ergueu os olhos.
+
+— Nunca tratei.
+
+— Tratou. Com amor, talvez. Mas tratou.
+
+A frase o feriu. Rin viu. Não pediu desculpas. Algumas feridas precisavam abrir antes de limpar.
+
+Takeshi abaixou a cabeça.
+
+— Então me ensine a fazer diferente.
+
+Rin não tinha resposta para isso. Não ainda.
+
+Horas depois, Katsuro estava em seu escritório com os mapas abertos diante de si. As linhas de tinta atravessavam montanhas, rios, rotas de comércio, postos conhecidos e trechos vazios onde a ignorância parecia mais ameaçadora do que qualquer fortaleza. Do lado de fora, Hayashi seguia disciplinada: passos nos corredores, vozes baixas, aço sendo polido, ordens sendo transmitidas de homem para homem. Dentro do gabinete, porém, tudo parecia estreito demais.
+
+Rin Kurosawa era um problema.
+
+Essa constatação deveria bastar. Uma fugitiva Onizuka em Hayashi colocava pressão sobre a aliança com Daikan, arrastava Goratsu para dentro de seu território e transformava Takeshi em ponto vulnerável. Tudo nela exigia cuidado, sigilo e recursos.
+
+Ainda assim, ela também era uma possibilidade.
+
+Katsuro apoiou os dedos sobre o mapa das rotas Kurotsuki. Não precisava de uma guerreira. Guerreiras eram vistas, medidas, esperadas. Precisava de olhos. Ouvidos. Uma presença capaz de entrar onde um soldado Hayashi chamaria atenção. Alguém que soubesse negociar, observar, mentir sem parecer que mentia e fazer perguntas sem parecer que procurava respostas.
+
+Chamou um soldado à porta.
+
+— Traga Takeshi Kurosawa. Sem alarde.
+
+O homem assentiu e partiu.
+
+Quando Takeshi entrou, ainda trazia no rosto a tensão de quem espera punição. Fechou a porta ao comando de Katsuro e permaneceu de pé, embora o capitão tivesse indicado a cadeira. Só se sentou quando Katsuro repetiu o gesto com os olhos.
+
+— Preciso de alguém dentro do território Kurotsuki — disse Katsuro, sem preâmbulos.
+
+Takeshi ficou imóvel.
+
+— Dentro?
+
+— Não um exército. Não uma patrulha armada. Uma sombra. Alguém que possa observar estradas, mercados, postos de guarda, movimentação de carga, número de soldados, horários, costumes. Qualquer coisa que nos diga como eles respiram antes que tentemos cortar sua garganta.
+
+Takeshi olhou para o mapa. As montanhas desenhadas em tinta pareciam dentes.
+
+— O senhor quer que eu vá.
+
+— Quero saber se é capaz.
+
+Takeshi abriu a boca, mas a resposta não veio de imediato. Ele esperava repreensão pela presença de Rin, talvez alguma ordem para mantê-la escondida até segunda decisão. Não esperava uma missão. Não daquele tipo. Um chamado para algo maior que a própria sobrevivência.
+
+Durante anos, lutar significara não morrer. Proteger Rin. Resistir a Goratsu. Permanecer inteiro sob o peso de Daikan. A palavra missão parecia pertencer a outros homens, de outros clãs, homens que escolhiam o próprio caminho antes que alguém o escolhesse por eles.
+
+— Eu devo minha vida ao senhor — disse por fim, a voz baixa. — Se precisa que eu vá, eu vou.
+
+— Dívida não é preparo.
+
+— Não. Mas sobreviver aos Onizuka ensina algumas coisas.
+
+Katsuro observou-o. Havia verdade nisso. Takeshi não tinha educação de corte, nem polidez refinada, nem paciência suficiente para uma mesa de negociações. Mas conhecia fome, estrada ruim, vigilância, humilhação e homens perigosos. Sabia quando abaixar a cabeça sem se submeter por dentro. Sabia identificar violência antes que ela levantasse a mão.
+
+— Você sabe se passar por guarda — disse Katsuro. — Por soldado. Por ameaça. Isso ajuda, mas também denuncia.
+
+Takeshi entendeu a crítica e a aceitou com um aceno curto.
+
+— Então preciso de uma cobertura melhor.
+
+— Sim.
+
+O silêncio abriu espaço para uma ideia que, pelo modo como Takeshi ergueu lentamente os olhos, parecia ter nascido antes mesmo de ele perceber.
+
+— Comerciantes — disse ele.
+
+Katsuro não respondeu. Apenas esperou.
+
+— Peles — continuou Takeshi. — Rin sabe negociar. Sabe falar com mercador, avaliar couro, puxar conversa sobre preço, imposto, estrada, fornecimento. Eu posso ir como guarda-costas. Irmãos tentando abrir comércio em novas terras. Não seria estranho. Não demais.
+
+Katsuro permaneceu imóvel. A ideia era arriscada. Pior: era boa.
+
+— Você entende o que está oferecendo? — perguntou.
+
+— Entendo.
+
+— Está oferecendo sua irmã como parte da missão.
+
+O rosto de Takeshi endureceu.
+
+— Estou oferecendo a verdade sobre ela. Rin não é carga escondida. Também não é enfeite de loja. Se o senhor quer entrar onde soldados não entram, ela é melhor do que qualquer homem armado que eu conheça.
+
+Katsuro recostou-se lentamente. Pela primeira vez desde que Takeshi entrara, olhou para ele não como soldado recém-comprado, mas como alguém capaz de enxergar uma peça que o próprio capitão quase havia deixado fora do tabuleiro por excesso de controle.
+
+— Essa cobertura exigiria preparo — disse Katsuro. — Nomes falsos talvez. Carga real. Moedas suficientes para parecerem comerciantes legítimos. Homens seguindo à distância. Uma rota que permita retirada. E disciplina. Principalmente sua.
+
+— Eu faço o que for preciso.
+
+— Não basta fazer. Precisa não parecer que está fazendo.
+
+Takeshi respirou fundo. A irritação passou por ele e foi engolida.
+
+— Então eu aprendo.
+
+Katsuro levantou-se e caminhou até a janela. Lá fora, as sombras do fim de tarde alongavam o pátio. Hayashi parecia em paz apenas para quem não sabia ouvir. O som da guerra já estava lá: no martelo distante, no couro sendo ajustado, nas ordens repetidas até perderem hesitação.
+
+— Em uma semana — disse Katsuro.
+
+Takeshi não se mexeu.
+
+— Senhor?
+
+— Uma semana para preparar a cobertura. Você será guarda-costas. Rin será a negociadora. Dois irmãos comerciantes de peles testando mercado no leste, interessados em vender couro resistente e comprar tecidos ou ervas de passagem. Haverá homens meus atrás de vocês, discretos o bastante para não parecer escolta, próximos o bastante para trazer notícia se algo der errado.
+
+Takeshi apertou as mãos sobre os joelhos. Havia medo ali, mas também algo que se parecia perigosamente com esperança.
+
+— Ela vai aceitar.
+
+— Não decida por ela.
+
+Takeshi ergueu o olhar. A advertência era justa. Irritantemente justa. Acenou uma vez.
+
+— Direi a ela.
+
+— Não como presente. Como escolha.
+
+— Sim.
+
+Katsuro voltou-se para o mapa.
+
+— Até lá, mantenha-a escondida. Traga comida, roupas adequadas e nada que chame atenção. Se alguém notar mudança demais na sua rotina, a missão morre antes de nascer.
+
+Takeshi se levantou.
+
+— Capitão.
+
+— Mais uma coisa.
+
+Ele parou.
+
+Katsuro demorou um instante antes de falar. Não havia suavidade em seu rosto, mas havia peso.
+
+— Se essa missão acontecer, sua prioridade é voltar com informações. A segunda é manter sua irmã viva. A terceira é manter você vivo. Entendeu a ordem?
+
+Takeshi sorriu sem humor.
+
+— Ela não vai gostar de ser segunda em nada.
+
+— Então terá que sobreviver para reclamar.
+
+Takeshi inclinou a cabeça e saiu.
+
+Não foi direto para casa. Seus passos o levaram ao mercado de Hayashi, onde as barracas começavam a fechar sob o céu escurecido. Por alguns instantes, ficou parado entre tecidos, cordas, potes de chá, pães doces e pequenas coisas que pareciam absurdamente comuns diante do que acabara de aceitar. Uma missão em território Kurotsuki. Uma cobertura frágil. Rin no centro do plano. Ele, que passara a vida tentando mantê-la longe da violência dos homens, agora voltaria para casa com uma proposta que a colocava no caminho da guerra.
+
+Comprou primeiro as roupas.
+
+Não escolheu nada vistoso. Um kosode azul profundo, discreto, firme, de tecido bom o bastante para uma comerciante que desejava ser levada a sério, mas simples o suficiente para não parecer nobre disfarçada. Depois, um hakama cinza, prático, resistente à estrada. A vendedora tentou empurrar uma faixa mais clara, bordada. Takeshi recusou. Rin odiaria algo que gritasse vaidade onde precisava haver função.
+
+Depois comprou chá.
+
+Por fim, diante de uma pequena banca de doces, hesitou mais do que havia hesitado diante de homens armados. Comprou dois manjū ainda mornos. O cheiro do feijão doce subiu do embrulho de papel oleado e atravessou uma memória antiga: Rin pequena roubando metade do doce dele porque, segundo ela, Takeshi demorava demais para comer e aquilo era desperdício. Ele a chamara de ladra. Ela respondera que ladrões não dividiam depois.
+
+Na volta, carregava os embrulhos como se fossem mais perigosos do que armas.
+
+Quando abriu a porta da casa, Rin estava sentada perto da mesa, mas levantou-se imediatamente. O corpo dela continuava alerta, como se qualquer entrada pudesse ser perseguição.
+
+— Takeshi?
+
+Ele fechou a porta e colocou os pacotes sobre a mesa.
+
+— Trouxe algumas coisas.
+
+Rin olhou para os embrulhos. Não tocou neles de início.
+
+— O que aconteceu?
+
+— Katsuro aceitou um plano.
+
+A cautela nos olhos dela se tornou outra coisa, mais afiada.
+
+— Que plano?
+
+Takeshi empurrou primeiro o pacote das roupas em sua direção.
+
+— Abra.
+
+— Takeshi.
+
+— Abre, Rin.
+
+Ela puxou o tecido devagar. O azul escuro apareceu sob a luz baixa, profundo como o céu pouco antes da noite fechar de vez. Rin passou os dedos pela trama com cuidado. Reconheceu qualidade, resistência, utilidade. Não era luxo. Era ferramenta.
+
+Depois abriu o embrulho menor. O cheiro doce do manjū preencheu o cômodo.
+
+Por um instante, toda a dureza de seu rosto falhou.
+
+— Você lembrou — disse ela.
+
+Takeshi tentou dar de ombros, mas o gesto saiu pesado demais.
+
+— Você roubava os meus.
+
+— Eu impedia desperdício.
+
+— Continua chamando roubo de virtude.
+
+Rin segurou um dos doces com as duas mãos. Era uma coisa pequena, quase ridícula. Um pão doce numa casa emprestada, depois de túmulos, fuga, ameaça e guerra. Mas talvez justamente por isso seus olhos arderam. Porque o mundo havia tirado dela coisas enormes e, de repente, a bondade vinha em algo pequeno o bastante para caber na palma da mão.
+
+— Katsuro aceitou o seu plano? — perguntou, sem desviar os olhos do doce.
+
+— Sim.
+
+— Qual plano, Takeshi?
+
+Ele respirou fundo.
+
+— Entraremos no território Kurotsuki como comerciantes de peles. Irmãos tentando abrir rota. Você negocia. Eu vou como guarda-costas. Haverá homens de Katsuro atrás de nós, mas longe o bastante para não parecer escolta. Em uma semana.
+
+Rin ficou imóvel.
+
+A notícia a atingiu de várias formas ao mesmo tempo. Medo primeiro, frio e instintivo. Depois, indignação. Depois algo pior, mais perigoso: utilidade. Não a utilidade de ser escondida, guardada, alimentada em silêncio até virar problema menor. A utilidade de estar no centro de um plano porque aquilo que sabia fazer importava.
+
+— Ele quer que eu vá? — perguntou.
+
+— Ele aceitou que você é a melhor pessoa para isso.
+
+— Não foi isso que perguntei.
+
+Takeshi sustentou o olhar dela.
+
+— Ele disse que é escolha sua.
+
+Rin soltou o ar devagar. A palavra escolha parecia frágil demais ali dentro. Ainda assim, era mais do que Daikan jamais lhe dera. Mais do que Goratsu saberia oferecer. Mais do que a própria estrada lhe prometera quando ela deixou o túmulo de Seijuro para trás.
+
+Ela baixou os olhos para o tecido azul.
+
+— Negociadora.
+
+— A chefe — disse Takeshi.
+
+Rin ergueu uma sobrancelha. Pela primeira vez em muito tempo, havia algo quase vivo no gesto.
+
+— Você aprendeu rápido.
+
+— Sempre soube. Só tinha medo de admitir.
+
+A sombra de um sorriso tocou a boca dela, pequena, cansada e triste, mas verdadeira o suficiente para sobreviver ao cômodo.
+
+Ela partiu um dos manjū ao meio e entregou uma parte a Takeshi.
+
+— Então coma, guarda-costas.
+
+Ele aceitou. Sentou-se ao lado dela no chão, não diante, não acima. Ao lado. Por um tempo, comeram em silêncio. O chá esfriou na mesa. A noite caiu sobre Hayashi e deixou a casa ainda menor, mas já não parecia apenas um esconderijo. Parecia o primeiro lugar onde os dois podiam respirar sem pedir permissão.
+
+Isso não era salvação. Rin sabia. Salvação era uma palavra grande demais para uma casa emprestada, duas roupas novas e um plano que os levaria ao território de um clã amaldiçoado.
+
+Mas era caminho.
+
+E, depois de tudo, caminho já era mais do que ela imaginava receber.
+
+Quando terminou o doce, Rin dobrou o tecido azul com cuidado e o colocou sobre a mesa. Depois olhou para Takeshi.
+
+— Em uma semana, então.
+
+— Em uma semana.
+
+— Se essa missão nos matar, vou culpar você.
+
+— Justo.
+
+— E Katsuro.
+
+— Mais justo ainda.
+
+Dessa vez, ela quase riu. Não chegou a tanto. Mas o quase ficou ali, entre eles, como uma pequena brasa protegida do vento.
+
+Do lado de fora, Hayashi dormia sob a aparência de ordem. Dentro da casa, dois irmãos dividiam um doce e aceitavam uma mentira que poderia levá-los ao coração do inimigo. Rin não era mais a filha obediente de Seijuro, nem a comerciante que calculava impostos para sobreviver, nem a irmã que implorava de joelhos enquanto homens decidiam o preço da vida de Takeshi.
+
+Agora, seria exatamente aquilo que tantos haviam subestimado.
+
+Uma mulher com memória, nome falso, mãos de comerciante e olhos atentos o bastante para transformar mercado em campo de batalha.
+
+A guerra ainda não havia começado.
+
+Mas, naquela noite, ela ganhou uma nova máscara.
 
 ---
 
 # Capítulo 6
+
 ## Frágeis Asas, Deveres de Aço
 
-O sol da manhã filtrou-se suavemente através das folhas, pintando o chão da floresta com padrões dourados. Junto a um riacho sereno, Rin vestia suas novas roupas de comerciante. O azul do kosode parecia mais vibrante sob a luz natural, e pela primeira vez em semanas, seus ombros não carregavam o peso visível do desespero.
+A manhã chegou a Hayashi sem pressa.
 
-Uma borboleta, suas asas como pétalas de laranja e negro, dançou no ar e pairou perto dela. Rin paralisou, sua respiração contida. Era uma beleza tão pura, tão distante de tudo que ela havia vivido. Lentamente, quase com reverência, ela estendeu a mão. Para sua surpresa absoluta, a frágil criatura pousou em seu dedo indicador, suas asas abrindo e fechando suavemente.
+A luz atravessava as copas das árvores em fios dourados, espalhando manchas claras sobre a grama úmida. Perto de um riacho estreito, onde a água corria sobre pedras lisas com um som baixo e constante, Rin vestia as roupas que Takeshi havia trazido na noite anterior. O kosode azul escuro ajustava-se melhor ao corpo do que ela esperava. Não era luxuoso, nem frágil. Era roupa de viagem, de comércio, de alguém que precisava parecer honesta o bastante para ser recebida e discreta o bastante para não ser lembrada demais.
 
-Um sorriso despretensioso e genuíno iluminou o rosto de Rin. Era um sorriso esquecido, que não falava de dor ou vingança, mas de simples admiração.
+Ela alisou a manga com os dedos.
 
-Nas sombras das árvores, um pouco afastado, Katsuro observava. Ele havia ido verificar os arredores e a encontrara por acaso. Ele parou, cruzando os braços, e a observou. Não como um estrategista analisa um recurso, mas como um homem apreciando um momento raro de paz. A imagem dela, suave e serena, com a borboleta na mão, era um contraste gritante com a mulher feroz e marcada que ele conhecera.
+O tecido ainda carregava o cheiro do mercado, um resto de madeira, poeira e mãos estranhas. Mesmo assim, havia nele algo que a perturbava. Não era apenas uma roupa nova. Era um papel novo. Uma máscara escolhida antes que ela soubesse se teria coragem de usá-la.
 
-Ele se aproximou com passos silenciosos, tão habilidoso que ela só percebeu sua presença quando sua voz suave quebrou o silêncio.
+A água refletia pedaços do céu entre as folhas. Rin se ajoelhou à margem e lavou as mãos devagar. A cicatriz antiga no braço apareceu por um instante quando a manga subiu. A luz tocou a marca branca e irregular, e ela a encarou sem pressa. Goratsu havia deixado aquilo nela para que se lembrasse do lugar de sua família. Durante anos, funcionara. Agora, em Hayashi, vestida como comerciante, às vésperas de caminhar para terras ainda mais perigosas, a cicatriz parecia menos uma corrente e mais uma assinatura feita com dor.
 
-É a primeira vez que vejo um sorriso em seu rosto.
+Um movimento leve desviou seu olhar.
 
-Rin deu um leve salto, e a borboleta levantou voo, desaparecendo entre as árvores. Ela se virou, inicialmente alarmada, mas ao ver que era ele, seu corpo relaxou. A guarda baixou, mas não completamente.
+Uma borboleta surgiu entre as folhas, pequena demais para merecer atenção em um mundo ocupado demais com guerra. Suas asas, alaranjadas e negras, abriram-se e fecharam-se sobre o ar como pétalas inquietas. Ela voou perto da água, subiu, desceu e pousou numa pedra antes de se lançar novamente em direção a Rin.
 
-Não tenho muitos motivos para sorrir. Mas a beleza da natureza... essa ainda me pertence. Ainda me faz feliz.
+Rin ficou imóvel.
 
-Ela voltou seu olhar para ele, séria agora.
+A borboleta pairou diante dela e, depois de alguns instantes, pousou em seu dedo indicador.
 
-Obrigada, Katsuro. Pela oportunidade. Pela... confiança.
+O gesto era tão simples que quase doeu.
 
-Ele acenou com a cabeça, mas seu olhar era ponderado.
+Rin prendeu a respiração. As asas frágeis se moviam devagar, tocadas pela luz. Não havia utilidade naquilo. Não havia estratégia. Nenhum mapa, nenhum risco, nenhum homem armado exigindo dela uma resposta. Apenas uma criatura viva, breve, bonita, pousada em sua mão como se o mundo ainda tivesse permissão para oferecer algo que não cobrasse sangue em troca.
 
-Não me agradeça. A ideia foi do Takeshi. Foi a teimosia dele por você que forjou este plano." Ele fez uma pausa, seus olhos escaneando o território ao longe, como se já visse as terras Kurotsuki. "Para ser franco, ainda não concordo. É arriscado demais. Mandá-la para o covil do lobo...
+Um sorriso pequeno surgiu em seu rosto antes que ela pudesse impedi-lo.
 
-Ele então se virou de volta para ela, e um canto de sua boca se ergueu em algo que quase se parecia com um sorriso brincalhão, mas seus olhos permaneciam sérios.
+Era um sorriso esquecido. Não tinha orgulho, ironia nem defesa. Só espanto.
 
-Então me diga, Rin Kurosawa. Que serventia teria para mim, sob minha proteção, uma aldeã fujona e teimosa que atrai problemas como mel atrai ursos?
+— É a primeira vez que vejo um sorriso no seu rosto.
 
-A pergunta foi feita com um tom de desafio, mas sem malícia. Era uma pergunta genuína, vestida de humor seco. Ele estava, de fato, questionando o valor dela além do plano, tentando entender o que mais havia naquela mulher resiliente que justificasse todos os riscos que ele estava assumindo.
+A voz veio de trás, baixa e controlada.
 
-A pergunta de Katsuro pairou no ar, uma brincadeira seca que escondia uma curiosidade real. Rin não se ofendeu. Em vez disso, o mesmo arrepio de intimidade que ela sentiu na cabana percorreu sua espinha. O ambiente sereno, a proximidade dele, a memória recente de sua dor compartilhada... tudo isso criou um vácuo perigoso onde as defesas baixam.
+Rin se assustou. A borboleta levantou voo imediatamente, atravessando um raio de sol antes de desaparecer entre as árvores. Ela se virou rápido, levando a mão à manga por instinto, como se precisasse esconder a cicatriz de novo.
 
-Um sorriso lento e diferente se formou em seus lábios. Não era astuto ou amargo. Era suave, quase sonhador, e seus olhos, ainda com o brilho do momento da borboleta, se fixaram nos dele com uma ousadia tranquila.
+Katsuro estava a alguns passos, entre as sombras das árvores. Não usava a postura rígida do salão nem o peso formal do comando. Ainda assim, havia autoridade nele até quando estava quieto. Talvez fosse isso que a irritasse: alguns homens carregavam poder como outros carregavam respiração.
 
-Que serventia? Talvez a mesma serventia que um riacho tem para um homem sedento, Katsuro. Nenhuma... e toda.
+— O senhor anda sempre surgindo como mau presságio? — perguntou Rin, recompondo-se.
 
-Ela deu um passo à frente, não desafiadoramente, mas com uma naturalidade que fechou a distância entre eles. Ela podia sentir o calor do corpo dele.
+— Só quando alguém baixa a guarda perto demais de uma fronteira.
 
-Eu não sou uma espada para ser empunhada. Sou a sombra que pode entrar onde a luz da sua autoridade não chega. Sou a história que os comerciantes contam quando acham que ninguém importante está ouvindo.
+— Estou dentro de Hayashi.
 
-Seu olhar desceu por um instante até os lábios dele, antes de retornar aos seus olhos, um gesto rápido e involuntário.
+— Isso não torna o mundo gentil.
 
-E talvez... seja a lembrança de que mesmo os mais endurecidos ainda podem encontrar beleza em coisas frágeis. Que a vingança não precisa ser o único sentimento que nos define.
+Rin olhou para onde a borboleta havia desaparecido. O sorriso já não estava em seu rosto, mas alguma coisa dele permanecia ali, como calor depois da chama.
 
-Ela estendeu a mão, não para tocá-lo, mas num gesto aberto, como se estivesse mostrando a si mesma. Seus olhos estavam presos nos dele, o convite no ar era quase palpável.
+— Não tenho muitos motivos para sorrir — disse. — Mas a beleza da natureza ainda me pertence. Daikan não taxou isso. Ainda.
 
-E então, num movimento rápido como o bater de asas da borboleta, sua mão estendida desviou. Em vez de tocar seu rosto, seus dedos envolveram o cabo da espada que pendia de seu quadril.
+Katsuro aproximou-se alguns passos, sem invadir demais o espaço dela. Seus olhos passaram pelas roupas novas, mas não de modo vulgar. Avaliavam adequação, disfarce, riscos. O capitão examinava até uma manga como se ela pudesse trair uma operação.
 
-Katsuro, com a atenção totalmente capturada por ela, pela sedução inesperada e pelo sussurro provocante, reagiu um segundo tarde. Seus olhos se arregalaram de surpresa quando sentiu o puxão firme na sua lâmina.
+— A cor combina com o papel que terá que representar — disse ele.
 
-O quê—?!
+— Comerciante modesta?
 
-Ele instintivamente deu um salto para trás, mas Rin já havia puxado a espada da bainha, brandindo-a com uma agilidade surpreendente. O aço reluziu ao sol.
+— Comerciante que deseja parecer mais segura do que realmente está.
 
-Sem uma palavra, ela desferiu um golpe lateral rápido. Katsuro, ainda se recompondo do choque, desviou com o torso, o vento do golpe cortando o ar perto de seu braço.
+Rin soltou um sopro pelo nariz. Quase um riso.
 
-Rin! Pare com isso!
+— Então está perfeita.
 
-Mas ela não parou. Seus olhos agora estavam focados, uma centelha de desafio brincalhão misturado com uma seriedade profunda. Ela atacou de novo, um golpe descendente. Ele desviou para o lado, suas botas pisando firmemente na grama. Outro golpe, outro desvio. Ele não contra-atacava, apenas esquivava-se com a graça fluid de um guerreiro experiente, seus movimentos eram pura economia de energia.
+O silêncio entre os dois se acomodou por um instante. A água seguia correndo, indiferente à guerra, aos mortos e às escolhas ruins que os vivos insistiam em chamar de destino.
 
-Ela forçou-o a recuar, seus golpes não eram para matar, mas para testar, para provocar. Finalmente, num movimento amplo, ela investiu, e ele, ao desviar, prendeu seu pé numa raiz semi-enterrada.
+Rin voltou-se para ele.
 
-Ele viu ela perder o equilíbrio, o corpo projetando-se para a frente. Instinto. Sua mão voou para agarrá-la, mas ela, em vez de se apoiar, puxou o braço dele com toda a força, usando o próprio impulso de sua queda.
+— Obrigada — disse.
 
-Os dois rolaram pela margem gramada do riacho em um emaranhado de membros. Quando pararam, a respiração ofegante, Katsuro estava de costas no chão, e Rin... Rin estava sobre ele, uma perna de cada lado de seu torso, suas mãos firmes no chão ao lado de sua cabeça.
+Katsuro pareceu desconfiar da palavra.
 
-O mundo parou.
+— Pelo quê?
 
-A respiração dela era ofegante, os cabelos desalinhados caíam sobre seu rosto, que estava a centímetros do dele. Seus olhos, abertos, fitavam os dele, a surpresa da queda e a realidade daquela posição íntima e perigosamente dominante pairando entre eles. O calor dos seus corpos se misturava através das roupas. Ele podia sentir cada curva dela contra ele.
+— Pela oportunidade. Pela confiança. Ou pela versão disso que homens como o senhor conseguem oferecer sem sentir dor.
 
-O som do riacho e a respiração ofegante eram as únicas coisas que quebravam o silêncio carregado.
+— Não me agradeça demais. A ideia foi de Takeshi.
 
-Por um momento que pareceu uma eternidade, Rin não se moveu. O calor do corpo de Katsuro sob o dela era uma âncora inesperada, e o olhar dele, tão perto, não mostrava raiva ou frieza, mas uma vulnerabilidade rara que ela nunca tinha visto. A atração era um campo de força, puxando-a para baixo.
+— A autorização foi sua.
 
-Foi Katsuro quem quebrou o feitiço. Sua mão, que estava ao lado da cabeça dele, se moveu. Lentamente, com uma hesitação que era estranha nele, sua mão subiu e envolveu a nuca dela. Não foi um puxão, mas um convite, um peso suave que a puxava para mais perto. Seus olhos escureceram, perguntando, esperando.
+— A autorização ainda me preocupa.
 
-Rin cedeu. Seus olhos se fecharam e seus lábios encontraram os dele.
+Ela sustentou o olhar dele.
 
-O beijo não foi suave. Foi uma liberação. Foi o gosto de toda a dor compartilhada, da raiva contida, da solidão que ambos carregavam. Foi sal e suor e uma doçura proibida que fez seu estômago embrulhar. Por alguns segundos, ela se perdeu completamente nele, em sua força, em sua rendição. Sua mão encontrou o peito dele, sentindo o coração batendo acelerado contra sua palma.
+— Porque sou uma fugitiva?
 
-E então, como se um balde de água gelada tivesse sido jogado nela, a realidade a atingiu.
+— Porque é inteligente, teimosa e ainda está ferida demais para perceber quando coragem vira imprudência.
 
-O que estou fazendo?
+Rin sentiu a frase tocar um ponto sensível. Quis responder com dureza, mas havia verdade demais nela. Maldito hábito de Katsuro: ferir com precisão, esse vício inconveniente dos homens que pensam antes de falar.
 
-Ele é o capitão. O homem que segura o destino do meu irmão. O homem obcecado por uma vingança que vai nos matar.
+— E mesmo assim vai me mandar.
 
-Isso é uma fraqueza que não podemos ter.
+— Ainda não decidi se isso é estratégia ou desespero.
 
-Seus olhos se abriram wide. Ela quebrou o beijo abruptamente, empurrando-se para longe dele com um movimento brusco. Ele ficou deitado por um segundo, confuso, seus lábios ainda formando o espaço que os dela haviam ocupado.
+— Talvez toda estratégia comece assim.
 
-Rin se virou, colocando as costas para ele, seus ombros subindo e descendo rapidamente. Ela cruzou os braços, como se estivesse tentando se conter.
+Katsuro olhou para o riacho, depois para as árvores. Seu rosto estava sério, mas não fechado como no escritório. A manhã parecia permitir uma fresta entre as camadas de comando que ele usava como armadura.
 
-Isso... isso não pode acontecer.
+— Mandá-la para perto dos Kurotsuki é perigoso demais — disse ele. — Eles não são apenas outro clã. Mesmo os homens comuns de Tetsu-zan vivem sob uma disciplina que muda o modo como respiram. E se as histórias forem verdadeiras, há coisas naquele território que não se deixam enganar por um sorriso de mercado.
 
-Katsuro sentou-se devagar, a lucidez voltando aos seus olhos como um véu. Ele viu a rigidez em suas costas, a vergonha em sua postura. E então, a mente do estrategista assumiu o controle, e ele entendeu. Ele entendeu perfeitamente.
+— Então é bom que eu não dependa só de sorriso.
 
-Não. Não pode.
+— Não depende?
 
-Ele se levantou, escovando a grama e a terra de suas roupas com gestos mecânicos. O silêncio entre eles agora era diferente — não mais carregado de desejo, mas do peso de um erro que ambos cometeram e de um perigo que haviam provado.
+— Dependo de olhos. De ouvidos. De memória. De saber quanto vale uma pele antes que o comprador tente mentir. De perceber quando um homem fala demais para esconder medo. De saber a diferença entre um comerciante ganancioso e um guarda procurando propina. Essas coisas também vencem guerras, Capitão. Só fazem menos barulho.
 
-Sem dizer outra palavra, Rin começou a caminhar de volta em direção às casas, seu passo rápido e decidido, fugindo do que quase aconteceu. Katsuro não a seguiu. Ele apenas ficou parado, observando-a ir, o sabor dela ainda em seus lábios, uma lembrança perigosa e proibida que, ele sabia, poderia comprometer tudo.
+Katsuro olhou para ela com atenção renovada.
+
+— Está tentando me convencer de novo?
+
+— Estou lembrando ao senhor por que já me escolheu.
+
+Um quase sorriso tocou a boca dele. Durou pouco, o suficiente para existir e desaparecer como algo proibido.
+
+— Então me diga, Rin Kurosawa. Que serventia tem, para uma guerra, uma comerciante fugitiva que atrai problemas como chama atrai mariposas?
+
+A pergunta tinha um fio de provocação, mas não crueldade. Rin percebeu isso. Também percebeu que, por trás dela, havia uma curiosidade real. Katsuro queria saber se a mulher diante dele era apenas sobrevivência acumulada ou se havia ali algo que pudesse resistir ao próprio uso que ele faria dela.
+
+Rin deu um passo em direção ao riacho e se abaixou para pegar uma pequena pedra lisa. Pesou-a na palma da mão.
+
+— Uma espada é útil porque todos a veem — disse. — Por isso também é fácil de vigiar.
+
+Ela lançou a pedra na água. O impacto abriu círculos breves sobre a superfície.
+
+— Eu sou o contrário. Não entro por portão de guerra. Entro por conversa, por preço, por curiosidade, por arrogância alheia. Homens importantes costumam ignorar mulheres que parecem estar apenas comprando, vendendo ou ouvindo demais. Essa é a serventia.
+
+Katsuro não respondeu. Rin voltou-se para ele.
+
+— O senhor quer me empunhar como arma. Mas talvez eu sirva melhor como sombra.
+
+— Sombras também precisam saber onde terminam.
+
+— E capitães precisam saber quando não estão segurando uma lâmina, mas fazendo acordo com ela.
+
+A frase saiu mais íntima do que ela pretendia. Não pela doçura, mas pela verdade. Katsuro a ouviu em silêncio. O ar entre eles mudou. O riacho continuou seu murmúrio, mas parecia mais distante.
+
+Rin percebeu que estavam perto demais.
+
+Não fisicamente ainda. Mas havia proximidades que começavam antes do corpo. Começavam quando duas pessoas reconheciam uma na outra um tipo parecido de ferida. E isso era perigoso, porque feridas parecidas às vezes se confundiam com destino. Gente ferida faz cada escolha brilhante, realmente. Quase uma tradição humana de autossabotagem.
+
+Katsuro desviou primeiro o olhar.
+
+— Takeshi acredita em você — disse ele.
+
+— Takeshi acredita que pode me proteger de tudo.
+
+— E você?
+
+— Eu acredito que ele tentará. Isso não é a mesma coisa.
+
+Katsuro assentiu devagar.
+
+— Ele mudou desde que chegou.
+
+— Mudou porque está tentando merecer uma vida que ainda não sabe viver.
+
+— Você fala dele como se fosse mais velha.
+
+— Algumas irmãs envelhecem no lugar dos irmãos.
+
+A resposta ficou entre eles com peso suficiente para calar a manhã por um instante.
+
+Katsuro levou a mão ao cabo da espada, não para ameaçar, apenas por hábito. Rin viu o gesto. Viu também a naturalidade com que os dedos dele repousaram sobre a arma. Um homem como Katsuro tocava a espada como quem confirma que ainda existe chão sob os pés.
+
+— Sempre com a mão nela — disse Rin.
+
+Ele olhou para a própria mão.
+
+— Velho costume.
+
+— Ou medo de ficar sem resposta.
+
+— Espadas são respostas ruins para a maioria das perguntas. Apenas definitivas.
+
+Rin aproximou-se mais um passo. A ideia lhe veio antes que pudesse medir a prudência dela. Talvez porque a manhã estivesse calma demais. Talvez porque a borboleta lhe tivesse lembrado que ainda havia beleza, e a beleza, quando entra em gente quebrada, às vezes abre portas perigosas.
+
+— Então me mostre — disse.
+
+Katsuro ergueu uma sobrancelha.
+
+— Mostrar o quê?
+
+— Como alguém segura uma resposta definitiva.
+
+— Não.
+
+A recusa veio imediata.
+
+— Por quê?
+
+— Porque você não precisa de uma espada para essa missão.
+
+— Mas preciso entender os homens que vivem apoiados nelas.
+
+— Isso pode ser aprendido sem tirar uma lâmina da bainha.
+
+— Conveniente, vindo de quem nunca está sem uma.
+
+Katsuro soltou o ar, paciente demais. Isso irritou Rin. Ela deu mais um passo, agora perto o bastante para alcançar o cabo da espada se quisesse. Ele percebeu. Claro que percebeu. O homem provavelmente perceberia a intenção de uma folha caindo de modo suspeito.
+
+— Rin — advertiu.
+
+— Capitão — respondeu ela, no mesmo tom.
+
+A mão dela se moveu.
+
+Não foi tão rápida quanto imaginou. Nem tão elegante. Seus dedos tocaram o cabo da espada, e por um instante ela sentiu o couro gasto sob a palma. O mundo se estreitou naquele gesto imprudente. Antes que pudesse puxar a lâmina por completo, a mão de Katsuro fechou-se sobre seu pulso.
+
+Firme. Não dolorosa.
+
+— Isso — disse ele, baixo — teria custado sua mão diante de outro homem.
+
+Rin tentou não demonstrar o quanto o contato a atingiu.
+
+— Mas não diante de você.
+
+— Não use isso como certeza.
+
+— Não estou usando. Estou testando.
+
+— Testes também matam.
+
+Ela puxou o pulso, mas ele não soltou. O movimento não foi uma luta verdadeira, apenas resistência o bastante para desequilibrar o espaço entre os dois. Rin pisou para trás, o calcanhar encontrou uma raiz úmida escondida na grama e seu corpo perdeu o eixo.
+
+Katsuro a soltou para segurá-la pelo braço.
+
+Foi o instinto certo. No momento errado.
+
+Rin tentou se apoiar nele, mas o peso, a grama molhada e a surpresa arrastaram os dois para baixo. O mundo virou folhas, céu, água e terra. Eles rolaram pela margem do riacho, não com graça, mas com o descontrole indigno dos corpos quando a natureza resolve lembrar que ninguém é tão imponente assim.
+
+Pararam na grama úmida.
+
+Katsuro ficou de costas no chão, uma das mãos ainda segurando o punho de Rin. Ela estava parcialmente sobre ele, apoiada com uma das mãos na terra ao lado de sua cabeça, o joelho fincado na grama, o cabelo solto caindo sobre o rosto. A espada permanecia presa à bainha, torta contra o quadril dele, testemunha inútil de uma imprudência que por pouco não virara acidente pior.
+
+Por um momento, nenhum dos dois se moveu.
+
+Rin ouvia a própria respiração. Rápida. Alta demais. O rosto de Katsuro estava a poucos centímetros do seu. Perto assim, ele parecia menos inalcançável. Não menos perigoso. Apenas humano de um jeito que ela não tinha permissão de notar. Havia uma pequena cicatriz junto à sobrancelha, quase escondida. A mandíbula estava tensa. Os olhos, sempre tão controlados, carregavam uma surpresa que ele ainda não conseguira empurrar de volta para trás da máscara.
+
+— Isto também fazia parte do teste? — perguntou ele, a voz baixa.
+
+Rin deveria sair de cima dele.
+
+Sabia disso.
+
+— Estou avaliando os resultados — respondeu, sem fôlego suficiente para soar como queria.
+
+A mão de Katsuro ainda envolvia o pulso dela. Os dedos afrouxaram devagar, mas não se afastaram imediatamente. O gesto, por não ser necessário, disse mais do que deveria.
+
+O som do riacho parecia distante agora. A manhã inteira se estreitou naquele espaço entre os dois.
+
+Rin viu o olhar dele descer brevemente até sua boca.
+
+O coração dela respondeu antes da razão.
+
+Katsuro ergueu a mão livre, mas parou antes de tocá-la. Não havia comando no gesto. Não havia posse. Apenas uma hesitação quase insuportável, como se ele pedisse permissão sem ter o direito de pedi-la. Aquilo a desarmou mais do que qualquer força.
+
+Rin poderia ter se afastado.
+
+Não se afastou.
+
+O beijo aconteceu como erro e reconhecimento ao mesmo tempo.
+
+Não foi longo. Não foi suave o bastante para ser inocente, nem profundo o bastante para apagar o mundo. Foi breve, tenso, carregado de tudo que não deveria existir entre uma fugitiva sob proteção e o capitão que decidia sua utilidade. Havia dor nele. E raiva. E solidão. Havia também uma fome de descanso, pequena e perigosa, como uma chama acesa perto de pólvora.
+
+Rin sentiu a mão de Katsuro tocar sua nuca por um instante. Não para prendê-la. Apenas para confirmar que ela estava ali.
+
+E isso bastou para a realidade voltar como lâmina.
+
+Ela rompeu o beijo e se afastou com brusquidão. Levantou-se depressa, tropeçando um pouco na própria roupa, e ficou de costas para ele. O ar entrou em seus pulmões como se doesse.
+
+Katsuro permaneceu no chão por um segundo a mais, imóvel, como se também precisasse entender em que ponto exato a prudência havia falhado. Depois se sentou devagar, limpando a terra da manga com gestos mecânicos.
+
+Rin levou os dedos à boca sem perceber. Afastou a mão imediatamente, irritada consigo mesma.
+
+— Isso não pode acontecer — disse.
+
+A voz saiu baixa.
+
+Katsuro levantou-se. A máscara do capitão voltou aos poucos, peça por peça, mas havia rachaduras nela. Rin as vira. Pior: agora sabia que existiam.
+
+— Não — respondeu ele. — Não pode.
+
+O silêncio que veio depois não era vazio. Era cheio demais. Cheio de dever, de dívida, de Takeshi, de Daikan, de Goratsu, dos Kurotsuki, da missão que se aproximava e de tudo que poderia quebrar se os dois confundissem desejo com refúgio.
+
+Rin virou-se apenas o suficiente para vê-lo pelo canto dos olhos.
+
+— Eu dependo da sua proteção.
+
+— Sim.
+
+— Meu irmão depende da sua palavra.
+
+— Sim.
+
+— E você depende de não perder o controle.
+
+A frase o atingiu. Katsuro não desviou.
+
+— Sim.
+
+Era a resposta mais honesta que ele poderia dar. Não justificava nada. Não apagava o beijo. Talvez por isso doesse.
+
+Rin respirou fundo, tentando recuperar a firmeza que usara para atravessar mercados, estradas e túmulos. Era humilhante perceber que uma única fraqueza podia deixá-la mais instável do que dias de fome. O corpo humano, esse traidor sem disciplina.
+
+— Então foi um erro — disse ela.
+
+Katsuro ficou em silêncio por um instante.
+
+— Foi.
+
+Rin esperava que a confirmação aliviasse. Não aliviou.
+
+— Ótimo.
+
+A palavra saiu seca demais.
+
+Ela começou a caminhar de volta em direção às casas. Cada passo parecia necessário para impedir que ficasse. Não olhou para trás. Se olhasse, talvez visse Katsuro ainda parado junto ao riacho, e a imagem o tornaria menos capitão, menos estratégia, menos distância. Ela não podia se dar esse luxo.
+
+Katsuro não a seguiu.
+
+Permaneceu onde estava, observando-a desaparecer entre as árvores. O vento moveu as folhas acima dele. A borboleta não voltou. Talvez tivesse mais juízo do que os dois.
+
+Ele baixou os olhos para a espada ainda presa à cintura e ajustou a bainha. O gesto devolveu alguma ordem ao mundo. Não toda. Apenas o suficiente para continuar respirando.
+
+A missão começaria em poucos dias.
+
+Rin precisava ser uma comerciante.
+
+Takeshi precisava ser um guarda-costas.
+
+Katsuro precisava ser capitão.
+
+E nada do que acontecera à beira daquele riacho podia ter lugar entre esses deveres.
+
+Ainda assim, quando ele finalmente se virou para retornar ao complexo Hayashi, o gosto breve daquele erro continuava em sua boca, mais perigoso do que qualquer lâmina que carregava.
+
+Frágeis asas haviam tocado a mão de Rin naquela manhã.
+
+Deveres de aço as esmagariam, se ela esquecesse por um instante o peso do mundo.
 
 ---
 
 # Capítulo 7
+
 ## Máscaras na Estrada
 
-O tão aguardado dia chegou com um céu cinzento e pesado, como se o próprio tempo hesitasse em abençoar sua partida. O ar frio da manhã carregava o cheiro de terra molhada e ansiedade.
+O dia da partida chegou sob um céu cinzento.
 
-Na frente do complexo Hayashi, duas carroças aguardavam. A primeira era simples, puxada por um cavalo resistente, carregada com fardos de peles genuínas — o disfarce perfeito. Rin, vestindo suas roupas de comerciante, ajustava as amarras com mãos que não tremiam, mas seu rosto estava sério, seus olhos evitando contato com todos, especialmente com Katsuro, que observava a uma distância segura.
+As nuvens pairavam baixas sobre Hayashi, pesadas o bastante para fazer a manhã parecer mais antiga do que era. O ar frio carregava cheiro de terra úmida, madeira molhada e couro recém-amarrado. No pátio lateral do complexo, longe dos olhos mais curiosos, duas carroças aguardavam.
 
-Takeshi, ao seu lado, verificava suas armas escondidas sob um manto simples. Sua postura era de um guarda-costas vigilante, mas seu olhar para a irmã era suave, cheio de um orgulho protetor.
+A primeira era simples, puxada por um cavalo resistente e paciente, carregada com fardos reais de peles. Nada ali era apenas enfeite. O couro havia sido escolhido com cuidado, empilhado de modo convincente, marcado com sinais comuns de comércio. Quem olhasse veria uma tentativa modesta de abrir mercado em terras arriscadas. Essa era a mentira. Uma mentira boa precisava carregar verdade suficiente para respirar.
 
-A segunda carroça, alguns metros atrás, era conduzida por três dos soldados mais discretos de Katsuro. Vestidos como mercenários contratados para proteger a carga, eles eram a rede de segurança, os olhos e ouvidos extras que garantiriam que, se algo desse errado, a notícia voltaria para Hayashi.
+Rin conferia as amarras da carga com as mãos firmes. Vestia o kosode azul escuro e o hakama cinza que Takeshi havia comprado, agora ajustados para a estrada. O tecido lhe dava outra forma diante dos olhos alheios: não a filha de Seijuro, não a fugitiva de Goratsu, não a mulher escondida na casa do irmão, mas uma comerciante jovem, austera, suficientemente pobre para despertar pouca inveja e suficientemente competente para não ser ignorada.
 
-Katsuro se aproximou, não de Rin, mas de Takeshi. Sua voz era baixa, destinada apenas aos seus ouvidos, mas Rin conseguia ouvir.
+Takeshi observava a rua enquanto fingia revisar os nós. Sob o manto simples, carregava armas escondidas. Sua postura era a de um guarda-costas contratado, discreto demais para parecer soldado, atento demais para ser apenas ajudante. De vez em quando, seus olhos voltavam para Rin com uma preocupação que ele tentava disfarçar. Falhava sempre. O amor fraterno tinha esse defeito irritante: aparecia até quando tentava se vestir de profissionalismo.
 
-Lembre-se: ouvidos abertos, bocas fechadas. Sua vida depende do seu disfarce. A vida dela, depende de você.
+A segunda carroça estava alguns metros atrás. Três homens de Katsuro a conduziam, vestidos como mercenários comuns. As roupas gastas, as barbas por fazer e o modo relaxado de segurar as rédeas completavam a farsa. Nenhum deles olhava diretamente para Rin ou Takeshi por tempo demais. Eram a rede de segurança, os olhos de retorno, a garantia mínima de que, se os irmãos fossem engolidos pelo território Kurotsuki, ao menos uma notícia tentaria voltar para Hayashi.
 
-Takeshi acenou com a cabeça, um gesto solene. "Sim, capitão. Cumpriremos nossa missão.
+Katsuro surgiu pouco antes da partida.
 
-Katsuro então, finalmente, permitiu que seu olhar pousasse em Rin. O ar entre eles ainda estava carregado da lembrança do beijo, um elefante invisível que todos ignoravam. Ele não disse nada a ela. Apenas um aceno de cabeça quase imperceptível — um reconhecimento, uma despedida e uma ordem silenciosa para sobreviver.
+Não veio com cerimônia. Não trouxe discurso, nem saudação pública, nem bênção inútil. Aproximou-se de Takeshi primeiro, como convinha a um comandante diante de seu homem em missão. Talvez fosse apenas disciplina. Talvez fosse também cuidado para não olhar diretamente para Rin antes da hora. Desde o riacho, algumas distâncias haviam se tornado necessárias demais para parecerem naturais.
 
-Rin, sentindo o peso do seu olhar, finalmente ergueu a cabeça e o encarou. Não havia rancor ou vergonha em seus olhos agora, apenas uma determinação fria como o aço. Ela acenou de volta, um único movimento. A mensagem era clara: Pode confiar em mim.
+— Ouvidos abertos, boca fechada — disse Katsuro, baixo. — Sua vida depende do disfarce. A dela depende de você não esquecer isso.
 
-Ela subiu na carroça, assumindo seu lugar como a condutora. Takeshi se sentou ao seu lado, lançando um último olhar para seu capitão antes de focar na estrada à frente.
+Takeshi assentiu uma vez.
 
-Vamos," Rin disse, sua voz clara, cortando a tensão.
+— Sim, Capitão. Cumpriremos a missão.
 
-Ela estalou as rédeas, e a carroça começou a se mover, suas rodas rangendo contra a terra úmida. A segunda carroça, com os três soldados, seguiu a uma distância discreta, misturando-se ao cenário como outro grupo de viajantes.
+— Não seja heroico.
 
-Katsuro permaneceu onde estava, observando até que as carroças desaparecessem na névoa da manhã e nas curvas da estrada que levava ao leste — em direção ao território Kurotsuki. Ele não se moveu até muito depois de elas sumirem de vista, seu rosto uma máscara impenetrável, mas seu punho, cerrado ao lado do corpo, era a única pista da tempestade de preocupação e emoção contida dentro dele.
+Takeshi ergueu os olhos.
 
-A missão havia começado. Dois irmãos, uma carroça de peles e uma perigosa verdade escondida sob uma mentira frágil, rumo ao coração da escuridão.
+— Senhor?
 
-O Sábio do Pântano
+— Heróis morrem cedo e deixam relatórios incompletos. Volte vivo. Traga o que puder. Se algo parecer errado, recue.
 
-Alguns dias após a partida de Rin e Takeshi, a névoa do pântano norte era uma mortalha úmida e constante, envolvendo troncos retorcidos e águas paradas num silêncio opressivo. O ar cheirava a decomposição e a terra molhada. Katsuro, vestindo roupas escuras e sem suas insígnias de capitão, movia-se sozinho, sua espada uma presença familiar em seu quadril.
+Takeshi recebeu a ordem em silêncio. Rin ouviu tudo do outro lado da carroça, fingindo ajustar uma correia que já estava firme. A fala era para Takeshi, mas parte dela a alcançava. Talvez fosse assim que Katsuro preferisse cuidar: entregando ordens a outra pessoa e fingindo que aquilo não traía preocupação.
 
-A cabana estava exatamente onde Rin descreveram: uma construção precária de madeira enegrecida pelo tempo, erguida sobre estacas no terreno instável. Parecia mais um cogumelo venenoso que brotou da lama do que uma moradia. Não havia sinais de vida, apenas o zumbido baixo de insetos.
+Só depois ele olhou para ela.
 
-Katsuro não bateu. Ele empurrou a porta, que rangeu em protesto, revelando um único cômodo mergulhado na penumbra. A luz que entrava pela janela suja iluminava poeira dançante e prateleiras abarrotadas de frascos de vidro com líquidos turvos e ervas secas. O cheiro era ainda pior aqui dentro: um mélange de mofo, remédios antigos e algo indefinivelmente antigo.
+O pátio pareceu diminuir ao redor dos dois. Não houve menção ao beijo. Não houve pedido de desculpas, explicação ou qualquer uma dessas tentativas humanas de transformar erro em frase administrável. Katsuro apenas sustentou o olhar dela, e Rin respondeu com a mesma firmeza. O que havia acontecido perto do riacho não podia acompanhá-los para dentro daquela missão. Não como fraqueza visível.
 
-Sentado em um tamborete, de costas para a porta, estava um homem tão envelhecido e seco quanto a própria cabana. Era Mestre Akihito. Seus cabelos eram um halo branco e ralo em torno de um couro cabeludo manchado, e seus ombros curvados pareciam carregar o peso de séculos.
+— Comerciante Kurosawa — disse ele.
 
-Mestre Akihito.
+O título improvisado soou estranho. Ainda assim, Rin não desviou.
 
-O velho não se virou. Suas mãos, ossudas e trêmulas, continuaram a macerar ervas em um pilão.
+— Capitão.
 
-O capitão do clã Hayashi. A tempestade se aproxima, vindo me visitar no meu pântano tranquilo. Eu senti sua chegada. A terra aqui geme com o peso de passos tão carregados de propósito.
+— Lembre-se: o melhor disfarce não é convencer todos de uma mentira. É dar a cada pessoa uma verdade pequena o bastante para que ela pare de procurar outra.
 
-Katsuro não se surpreendeu que o velho o conhecesse. Em um lugar assim, o conhecimento era a única moeda.
+— Então venderei peles.
 
-Rin Kurosawa me enviou até você.
+— E ouvirá.
 
-Pela primeira vez, as mãos de Akihito pararam. Ele se virou lentamente. Seus olhos eram de um cinza leitoso, cegos, mas pareciam enxergar muito além da aparência física de Katsuro.
+— Sempre ouvi.
 
-A menina dos Kurosawa. A que carrega a marca do fogo." Ele fez uma pausa, sua "visão" parecendo perfurar Katsuro. "E você... você carrega o cheiro da fumaça e do sangue. O menino que escapou do festim dos Oni.
+Katsuro assentiu. O gesto foi quase imperceptível, mas nela caiu como uma ordem e uma despedida. Rin subiu na carroça e tomou as rédeas. Takeshi sentou-se ao lado dela, o corpo voltado para a estrada, os olhos ainda atentos aos arredores. Atrás, a segunda carroça começou a se mover com atraso calculado.
 
-Katsuro manteve-se impassível, mas uma contração no seu queixo delatou o impacto. O velho sabia. Sabia de tudo.
+— Vamos — disse Rin.
 
-Ela disse que você conhece lendas. Eu não busco lendas. Busco uma forma de enfrentá-los. Existe uma?
+O cavalo avançou.
 
-Akihito soltou uma risada seca, que se transformou em uma tosse rouca.
+As rodas rangeram contra a terra úmida. Aos poucos, o pátio ficou para trás, depois os muros internos, depois os telhados de Hayashi, depois a última curva de estrada onde Katsuro ainda permanecia parado.
 
-Enfrentar um Oni com uma espada comum é como cutucar um urso com um graveto. A pele deles é mais dura que granito, sua fúria, um furacão. O aço dos homens não passa de um brinquedo para eles.
+Rin não olhou para trás de imediato.
 
-O velho se levantou, cambaleante, e apontou um dedo torto na direção de Katsuro, não para ele, mas para as montanhas sombrias que se erguiam no horizonte, além do pântano.
+Quando olhou, viu apenas sua figura distante, imóvel sob o céu cinzento. O manto escuro mal se movia ao vento. Ele parecia feito da mesma matéria das sombras entre as árvores. Katsuro não ergueu a mão. Não precisava. A ausência do gesto dizia mais do que um aceno diria.
 
-Mas nem sempre foi assim. Antes dos homens, antes dos clãs, as entidades da terra e do fogo guerreavam. O sangue delas escorria pela pedra e, onde pingava, o metal que se formava nas profundezas... esse metal lembrava.
+A estrada os tomou.
 
-Seus olhos cegos pareciam brilhar com uma luz própria.
+Dois irmãos, uma carroça de peles, três guardas disfarçados e uma mentira frágil demais para sobreviver a qualquer descuido seguiam para o leste, rumo às terras onde os Kurotsuki governavam com silêncio, disciplina e algo mais antigo que medo.
 
-Nas entranhas da própria montanha dos Kurotsuki, nas cavernas mais profundas onde a luz do sol é uma lenda, há veias de um minério negro como a noite eterna. Os antigos o chamavam de Aço da Lua Negra. É frio ao toque, mesmo no calor da forja. E é a única coisa neste mundo que o couro de um Ôni pode ignorar. Uma lâmina forjada com ele não os mata com mais facilidade... mas corta. Onde o aço comum ricocheteia, o Aço da Lua Negra morde, fere e sangra.
+A missão havia começado.
 
-Katsuro sentiu um frio percorrer sua espinha, mas desta vez era um frio de possibilidade. Não era uma profecia vaga; era um objetivo.
+Alguns dias depois, longe da estrada principal e ainda mais longe da aparência ordenada de Hayashi, Katsuro caminhava sozinho pelo pântano do norte.
 
-Onde, exatamente? Como encontro essas cavernas?
+A névoa cobria tudo. Subia da água parada em véus úmidos, enroscava-se nos troncos retorcidos e apagava as margens do caminho. O chão cedia sob as botas em alguns pontos, sugando lama com um som baixo e viscoso. O ar cheirava a decomposição, raiz esmagada e ervas apodrecidas. Não havia canto de pássaros. Apenas insetos, água e o estalo ocasional de algo pequeno se movendo onde os olhos não alcançavam.
 
-Akihito se virou de costas, um sinal de que a audiência estava no fim.
+Katsuro vestia roupas escuras sem insígnias. Não viera como capitão, ao menos não na aparência. A espada, porém, permanecia ao seu lado. Havia identidades que se retiravam do tecido, mas não dos ossos.
 
-Isso, capitão Katsuro, já é uma pergunta para aqueles que ousam pisar onde o próprio Tetsu-zan reina. As entradas são guardadas, não por soldados, mas pelo próprio desespero da montanha. Rochas que gemem, corredores que mudam... e outras coisas que preferem a escuridão.
+A cabana apareceu entre a névoa como se tivesse crescido da própria lama. Era baixa, sustentada por estacas tortas, feita de madeira escurecida pelo tempo e pela umidade. O telhado inclinava-se sob uma camada grossa de musgo. Em torno dela, frascos pendiam de cordas, batendo uns nos outros com sons leves quando o vento passava.
 
-Ele fez uma pausa final, sua voz sumindo num sussurro.
+Rin havia descrito o caminho com precisão. Mesmo assim, havia algo no lugar que fazia parecer impossível que alguém chegasse ali por acaso. Talvez esse fosse o objetivo.
 
-Você quer matar um demônio? Primeiro, terá que forjar a lâmina no seu próprio inferno.
+Katsuro não bateu.
 
-Katsuro não disse mais nada. Ele saiu da cabana, a névoa do pântano envolvendo-o. Mas agora, em vez de perguntas, sua mente fervilhava com um novo plano. Um plano suicida. Uma missão para recuperar um mito e forjá-lo na única arma que poderia nivelar o campo de batalha. Tudo dependia, agora, do sucesso da missão de Rin e Takeshi em mapear as fraquezas do território inimigo.
+Empurrou a porta com cuidado, e a madeira respondeu com um gemido longo. O interior era pequeno, sufocado por prateleiras cheias de frascos, raízes secas, ossos de aves, panos marcados por símbolos desbotados e ferramentas cujo uso não era imediatamente claro. O cheiro de dentro era pior do que o do pântano: mofo, remédio antigo, fumaça velha e algo metálico, como sangue esquecido em pedra.
 
-Chegada ao território do clã Kurotsuki
+Sentado de costas para a entrada, um homem muito velho macerava ervas em um pilão. Tinha os ombros estreitos, a pele marcada por manchas, cabelos brancos ralos e mãos ossudas que tremiam sem perder precisão. Parecia frágil demais para viver naquele lugar. Ou talvez o lugar estivesse vivo demais nele.
 
-A transição para o território Kurotsuki foi, à primeira vista, desconcertantemente normal. A estrada era a mesma, os campos eram verdes, e os camponeses trabalhavam na terra. Não havia monstros à vista, nem um ar palpável de maldade. Era essa normalidade que era mais assustadora.
+— Mestre Akihito — disse Katsuro.
 
-A diferença estava nos detalhes.
+O velho não se virou. Continuou esmagando as ervas.
 
-O posto de guarda na fronteira era simples, mas os homens que o ocupavam tinham uma postura rígida e olhares que não sorriam. Eles inspecionaram a carroça de Rin e Takeshi com uma eficiência fria, revirando os fardos de peles sem qualquer cerimônia.
+— O capitão do clã Hayashi atravessa meu pântano sem anunciar nome, sem trazer oferenda e sem bater à porta — disse, a voz áspera como folhas secas. — Os jovens poderosos sempre confundem urgência com direito.
 
-Negócios?" perguntou um, sua voz neutra.
+Katsuro fechou a porta atrás de si.
 
-Peles, senhor," respondeu Rin com um sorriso educado. "Buscamos novos mercados.
+— Rin Kurosawa me enviou.
 
-O guarda anotou algo em uma tábua e fez um gesto com a cabeça. "Podem passar. Cumpram a lei e não causem problemas." A simplicidade da ordem era, por si só, uma ameaça.
+As mãos do velho pararam.
 
-Conforme avançavam, a atmosfera de controle tornava-se mais clara. Havia guardas patrulhando as ruas dos vilarejos não com frequência alarmante, mas com uma regularidade que lembrava a todos quem estava no comando. O povo parecia acostumado, quase resignado. As conversas eram contidas, os olhares, discretos. Era uma obediência entranhada, não por amor, mas por hábito e medo.
+Devagar, Akihito se virou. Seus olhos eram de um cinza leitoso, cegos à luz comum, mas Katsuro teve a incômoda impressão de que aquele olhar via muito mais do que deveria.
 
-Enquanto Rin começava a negociar com um comerciante local, usando seu charme para puxar conversa sobre a qualidade do couro e, sutilmente, sobre a "demanda do palácio por materiais robustos", Takeshi ficou de vigia.
+— A menina marcada pelo fogo — murmurou Akihito. — A filha do curtidor que aprendeu cedo que pele queimada também guarda memória.
 
-Foi então que ele notou. Uma pequena unidade de soldados Kurotsuki marchou pela praça. Eles não eram gigantes, nem tinham olhos de demônio. Eram homens. Mas havia uma intensidade neles, uma sincronia perfeita em seus passos e um olhar fixo que via tudo como um potencial campo de batalha. Eles carregavam suas espadas não como ferramentas, mas como extensões de seus corpos.
+Katsuro permaneceu imóvel.
 
-E em suas bandeiras, além do emblema do clã, havia um símbolo adicional: uma montanha negra com um único olho no topo. O símbolo do próprio Tetsu-zan.
+— Ela disse que o senhor conhece histórias sobre os Kurotsuki.
 
-A verdadeira ameaça não estava nos vilarejos. Estava lá longe, nas montanhas, no palácio e nas bases militares fortificadas que eles conseguiram avistar à distância. O perigo aqui era a rede de controle silencioso, a sensação de que a qualquer momento a fachada de normalidade poderia ser rasgada, e a força bruta que mantinha aquele império coeso seria revelada.
+Akihito sorriu, e o sorriso fez seu rosto parecer ainda mais antigo.
 
-Eles estavam dentro. Agora, precisavam mapear essa rede e encontrar um ponto fraco, sem nunca deixar que a ilusão de segurança os enganasse.
+— Histórias. Lendas. Superstições. Nomes convenientes para verdades que homens armados não gostam de admitir.
 
-A missão de Rin e Takeshi foi um sucesso discreto e crucial. Vestidos com o manto invisível de simples comerciantes, eles fizeram mais do que vender peles; eles escanearam o território inimigo com olhos de falcão.
+— Não vim atrás de consolo.
 
-O que eles sondaram para a guerra
+— Não. Você veio atrás de uma forma de matar aquilo que teme desde antes de saber o nome.
 
-Os Acessos Estratégicos: Enquanto Rin distraía os locais com sua lábia no mercado, Takeshi, com o pretexto de procurar por bons pastos para o cavalo, explorou as estradas secundárias. Ele identificou um desfiladeiro pouco vigiado, uma rota potencial para flanquear as defesas principais e levar um contingente do exército para o coração do território.
+O maxilar de Katsuro se contraiu. Pouco. O suficiente para entregar que a lâmina havia tocado.
 
-Pontos de Estrangulamento Logístico: Eles observaram a movimentação de tropas e suprimentos. Rin, em uma conversa com um condutor de carroça, ouviu sobre a "Ponte do Corvo Velho", um ponto vital na rota de abastecimento entre as principais bases Kurotsuki. Um alvo óbvio para sabotagem no primeiro dia de guerra.
+Akihito inclinou a cabeça, como se escutasse um som distante vindo de dentro do próprio visitante.
 
-O Humor das Tropas: Takeshi, fingindo-se de um guarda-costas bêbado em uma estalagem, ouviu soldados de baixa patente reclamarem. A disciplina era férrea, mas o moral não era inabalável. Havia um cansaço, um ressentimento velado pela rigidez constante. Uma possível fissura a ser explorada.
+— Você carrega fumaça e sangue, capitão. E uma pergunta enterrada tão fundo que já se acostumou a chamar de vingança.
 
-A Profundidade das Defesas: Eles contaram postos de guarda, estimaram o número de homens nos quartéis visíveis e mapearam os horários de troca de guarda. O clã era forte, mas sua força tinha um padrão, uma rotina. E rotinas podem ser previstas e exploradas.
+— Existe uma forma de enfrentá-los? — perguntou Katsuro.
 
-Ao esgotar seu estoque e seu tempo sem levantar suspeitas, a volta para Hayashi foi tranquila. Dois comerciantes satisfeitos com seu lucro.
+Akihito tossiu. A risada veio depois, seca, sem humor.
 
-Mas sob esse disfarce, eles carregavam os planos de batalha em potencial. Eles traziam algo que um general como Katsuro valorizaria ainda mais: mapas mentais atualizados, rotas de invasão e alvos prioritários.
+— Enfrentar um Oni com aço comum é oferecer graveto a uma tempestade. O metal dos homens morde homens. Contra a pele marcada pelo sangue antigo, ele se cansa antes de ferir.
 
-Agora, a guerra não seria um salto no escuro. Seria uma investida calculada, com base na inteligência sólida que Rin e Takeshi arriscaram suas vidas para obter. Eles haviam plantado a semente da vitória futura de Hayashi e Daikan.
+Katsuro deu um passo adiante.
+
+— Então as histórias são verdadeiras.
+
+— Algumas. As piores costumam ser as que os homens preferem transformar em exagero.
+
+O velho se levantou com dificuldade. Foi até uma prateleira, afastou um pano escuro e revelou um pedaço de pedra negra, pequeno, irregular, fosco como uma noite sem lua. Mesmo na penumbra, o fragmento parecia não refletir a luz. Parecia comê-la.
+
+Katsuro sentiu o ar ao redor esfriar.
+
+— Antes dos clãs terem nomes — disse Akihito —, antes de homens desenharem fronteiras sobre montanhas que não lhes pertenciam, entidades de terra, sombra e fogo guerreavam nas profundezas do mundo. O sangue delas caiu na pedra. Onde caiu, a montanha não esqueceu.
+
+Ele tocou o fragmento com a ponta dos dedos. A pele enrugada pareceu estremecer.
+
+— Nas entranhas das montanhas Kurotsuki há veios desse minério. Os antigos o chamavam de Aço da Lua Negra. Frio mesmo no calor da forja. Teimoso como pecado. Caro demais para ser minerado sem perder homens. E perigoso demais para ser desejado por quem ainda dorme bem.
+
+— O que ele faz? — perguntou Katsuro.
+
+— Corta.
+
+A palavra pareceu simples demais.
+
+Akihito percebeu.
+
+— Onde aço comum ricocheteia, ele entra. Onde lâminas humanas apenas irritam a carne amaldiçoada, ele abre caminho. Não mata por milagre. Não vence por você. Não substitui braço, coragem ou sacrifício. Mas fere o que outros metais não conseguem ferir.
+
+Katsuro olhou para a pedra negra.
+
+Pela primeira vez em muitos anos, a vingança deixou de parecer apenas uma brasa mantida viva por teimosia. Tornou-se direção.
+
+— Onde ficam esses veios?
+
+Akihito cobriu o fragmento de novo.
+
+— Essa já é uma pergunta para homens que pretendem pisar onde o próprio Tetsu-zan respira. As entradas não são guardadas apenas por soldados. A montanha tem fome. Túneis mudam de rosto. Rochas gemem. E há coisas antigas nas galerias profundas que preferem a escuridão porque a escuridão as reconhece.
+
+— Preciso de uma localização.
+
+— Precisar não torna um caminho mais seguro.
+
+— Nunca pedi segurança.
+
+— Não. Vejo isso em você. É parte do seu problema.
+
+Katsuro ficou em silêncio.
+
+Akihito voltou ao pilão, como se a conversa já tivesse terminado.
+
+— Procure as cavernas sob os dentes orientais da serra, onde a neve não se acumula apesar do frio. A pedra ali transpira calor durante a noite. Os Kurotsuki evitam falar disso, o que significa que vale a pena escutar. Mas, capitão, lembre-se de uma coisa.
+
+Katsuro esperou.
+
+— Aço que fere demônios também cobra de quem o deseja. Toda lâmina nascida de sombra exige que alguém carregue parte dessa sombra de volta.
+
+— Está me advertindo?
+
+— Estou sendo educado. Advertências são para pessoas que ainda podem mudar de ideia.
+
+Katsuro não respondeu. Inclinou a cabeça apenas o suficiente para reconhecer a informação. Ao sair, a névoa o envolveu novamente, úmida e fria.
+
+Ele não tinha ainda uma arma.
+
+Mas tinha um nome.
+
+Aço da Lua Negra.
+
+E nomes, quando verdadeiros, eram o primeiro golpe contra o desconhecido.
+
+A estrada para o território Kurotsuki parecia comum demais.
+
+Foi isso que incomodou Rin primeiro.
+
+Não havia caveiras penduradas nos galhos, nem névoa negra rastejando sobre o chão, nem demônios à espera nas curvas. Havia campos cultivados, pequenas casas de madeira, camponeses com as costas dobradas sobre a terra e crianças carregando baldes perto de poços. Um viajante tolo poderia atravessar as primeiras léguas e pensar que as histórias haviam exagerado.
+
+Rin sabia desconfiar de normalidade limpa demais.
+
+— Parece tranquilo — murmurou Takeshi ao lado dela, baixo o bastante para não ser ouvido pela segunda carroça atrás.
+
+— Parece controlado — corrigiu Rin.
+
+O posto de fronteira surgiu no fim da estrada. Era simples, sem ostentação, mas os guardas que o ocupavam permaneciam imóveis demais. Não conversavam entre si. Não relaxavam o peso do corpo. Não olhavam a carga com ganância explícita, como os homens de Daikan fariam. Observavam como quem já havia aprendido que cada detalhe podia ser culpa futura.
+
+Um deles ergueu a mão, ordenando que parassem.
+
+Rin puxou as rédeas e sorriu com educação medida. Era um sorriso de comerciante, não de mulher feliz. Amável o suficiente para não provocar, pequeno o bastante para não parecer sedução barata. Homens armados desconfiavam de ousadia e de medo. O ideal era parecer ocupada demais com lucro para conspirar.
+
+— Negócios? — perguntou o guarda.
+
+A voz dele era neutra. Neutra demais.
+
+— Peles, senhor — respondeu Rin. — Couro tratado, algumas peças boas para forro e sela. Buscamos novos compradores antes do inverno apertar.
+
+O guarda olhou para Takeshi.
+
+— Seu homem?
+
+— Meu irmão. Guarda a carga e reclama dos preços. Para a primeira função, serve muito bem.
+
+Takeshi manteve o rosto fechado. O comentário arrancou do guarda apenas um olhar breve, talvez impaciência, talvez aceitação. Ele fez sinal a dois homens, que reviraram os fardos sem cerimônia. Um deles puxou uma peça de couro, cheirou, dobrou, examinou as bordas.
+
+— Bom material — disse.
+
+— Meu pai me ensinou a não vender lixo — respondeu Rin. — Dá muito trabalho enganar o mesmo comprador duas vezes.
+
+O guarda anotou algo em uma tábua.
+
+— Cumpram a lei e não causem problemas.
+
+— Problemas reduzem o lucro — disse Rin.
+
+Dessa vez, o guarda a encarou por um segundo a mais. Depois abriu passagem.
+
+A carroça seguiu.
+
+Takeshi esperou até o posto ficar para trás antes de soltar o ar.
+
+— Você fala demais.
+
+— E você parece querer matar todos que olham para a carga. Estamos ambos melhorando.
+
+— Ele acreditou?
+
+— Ele aceitou. É diferente.
+
+Conforme avançavam, a diferença entre Kurotsuki e Onizuka se tornou mais clara. Onizuka gritava seu poder. Daikan governava pela cobrança, pela ameaça visível, pela brutalidade que fazia questão de sujar a rua. Kurotsuki era outra coisa. Os guardas passavam com regularidade precisa. Os aldeões os viam, abaixavam os olhos e continuavam trabalhando sem pausa. Não havia correria, nem súplica, nem espetáculo. Havia hábito. E hábito, quando nascia do medo, era mais difícil de arrancar que uma corrente.
+
+No primeiro vilarejo onde pararam, Rin montou a venda perto de uma praça estreita. As peles foram abertas sobre um pano grosso, as melhores peças colocadas à frente, as medianas atrás. Takeshi permaneceu a dois passos, fingindo desinteresse enquanto contava portas, rotas e homens armados.
+
+A segunda carroça passou sem parar, como se não os conhecesse. Um dos mercenários disfarçados bocejou ao cruzar a praça. O gesto foi convincente o bastante para Rin quase admirá-lo.
+
+Os compradores vieram aos poucos. Primeiro uma mulher velha, examinando couro para remendo. Depois um jovem aprendiz de seleiro. Por fim, um comerciante de rosto estreito e dedos compridos, que tocava cada peça como se o simples contato já lhe desse direito a desconto.
+
+— Couro Hayashi? — perguntou ele.
+
+— Couro tratado por mãos que sabem o que fazem — respondeu Rin. — A origem importa menos que a durabilidade.
+
+— Tudo tem origem.
+
+— Nem tudo precisa ser confessado no primeiro preço.
+
+O homem sorriu. Rin sorriu de volta, como quem entendia o jogo e se recusava a parecer ansiosa. Enquanto negociavam, puxou conversa sobre o frio nas montanhas, sobre a procura por couro resistente, sobre guardas que gastavam mais sola do que espada. O comerciante falou mais do que pretendia. Falou de uma ponte velha usada por condutores de suprimento. Falou de atrasos recentes. Falou de oficiais exigentes demais no controle de cargas destinadas às bases superiores.
+
+Rin guardou cada palavra sem parecer guardar nenhuma.
+
+Mais tarde, enquanto ela discutia medidas com outro comprador, Takeshi afastou-se com a desculpa de verificar água para o cavalo. Andou até uma rua lateral, depois outra, contando passos, observando a inclinação do terreno e a distância entre os postos. Viu uma trilha estreita usada por pastores, quase escondida atrás de um depósito de lenha. Pela direção, poderia contornar parte da estrada principal. Não era caminho para exército grande. Mas para um grupo pequeno, talvez. Para homens silenciosos, certamente.
+
+Na volta, fingiu tropeçar perto de dois soldados que fumavam junto a uma parede.
+
+— Cuidado, guarda-costas — disse um deles, sem gentileza.
+
+Takeshi fez uma reverência desajeitada, a expressão de homem simples e ligeiramente ofendido.
+
+— A estrada foi longa.
+
+— Longa é a noite nos postos da serra — resmungou o outro. — Três turnos seguidos e ainda querem que a gente agradeça por servir Tetsu-zan.
+
+O primeiro soldado lançou ao companheiro um olhar rápido demais.
+
+Takeshi abaixou a cabeça, recolheu o cantil que deixara cair de propósito e voltou sem pressa. O comentário era pequeno. Mas comentários pequenos, quando surgiam sob disciplina rígida, valiam mais que discursos.
+
+Ao entardecer, conseguiram quarto em uma estalagem estreita, limpa e silenciosa. Rin contou as moedas da venda diante do estalajadeiro, reclamou do preço do quarto, conseguiu um desconto mínimo e fingiu satisfação com a vitória. Takeshi observou o movimento dos soldados na rua pela fresta da janela. A troca de guarda acontecia em horários regulares. Sempre grupos de quatro. Sempre dois passando pela praça primeiro, depois dois pelo caminho dos armazéns.
+
+— Rotina — disse ele, baixo.
+
+Rin guardou as moedas numa bolsa de pano.
+
+— Rotina é uma promessa que o inimigo faz sem perceber.
+
+Takeshi olhou para ela.
+
+— Isso foi bom.
+
+— Eu sei.
+
+Ele quase sorriu. Quase.
+
+Durante três dias, a máscara se manteve.
+
+Rin vendeu peles, comprou pequenos rolos de tecido para justificar a viagem, perguntou sobre preços, reclamou de taxas, elogiou selares, ouviu carroceiros, serviu chá a um fornecedor falante e deixou que um oficial arrogante acreditasse que a impressionara com detalhes sobre a demanda militar. Takeshi caminhou por ruas secundárias, contou homens, mediu distâncias, memorizou entradas, saídas, pontes e gargalos. Os três Hayashi disfarçados permaneceram perto o suficiente para intervir, longe o suficiente para não serem lembrados.
+
+Nada ali parecia monstruoso à luz do dia.
+
+E isso era pior.
+
+Numa manhã fria, uma pequena unidade Kurotsuki cruzou a praça principal. Não marchavam como homens tentando impressionar. Marchavam como mecanismo. Passos iguais. Olhos fixos. Mãos próximas às armas com naturalidade inquietante. Nas bandeiras, além do símbolo do clã, havia uma montanha negra marcada por um único olho no alto.
+
+Rin sentiu a nuca arrepiar.
+
+— Tetsu-zan — murmurou o comerciante ao lado dela, percebendo seu olhar. — O olho da montanha vê tudo.
+
+Ele disse isso sem ironia. Sem devoção também. Como quem repete uma lei da natureza.
+
+Takeshi, do outro lado da praça, encontrou o olhar de Rin por um instante. Ambos entenderam a mesma coisa. A verdadeira ameaça não estava apenas nos soldados visíveis, nem nos postos de guarda, nem nas pontes. Estava numa rede de controle tão entranhada que as pessoas respiravam dentro dela e chamavam aquilo de vida.
+
+Quando o estoque de peles chegou ao fim, Rin não tentou prolongar a permanência. Ganância demais chamaria atenção. Curiosidade demais mataria o disfarce. Na manhã seguinte, compraram provisões, ajustaram a carga agora mais leve e iniciaram o caminho de volta.
+
+Para qualquer olhar externo, eram comerciantes satisfeitos: haviam vendido bem, comprado pouco e saíam antes que o tempo virasse.
+
+Sob a lona da carroça, porém, carregavam outra mercadoria.
+
+Takeshi trazia na memória um desfiladeiro pouco vigiado, uma trilha de pastores, a rotina de troca dos postos e a posição aproximada de dois armazéns militares. Rin trazia nomes de comerciantes, a Ponte do Corvo Velho, que sustentava parte do abastecimento entre bases, e a certeza de que havia cansaço sob a disciplina Kurotsuki. Não fraqueza aberta. Não revolta. Apenas fissuras. E fissuras, quando encontradas cedo, podiam ser alargadas.
+
+A fronteira ficou para trás sem alarde.
+
+Só quando já estavam em estrada neutra, e a segunda carroça reapareceu a uma distância segura, Takeshi permitiu que os ombros relaxassem uma fração.
+
+— Conseguimos — disse.
+
+Rin manteve os olhos na estrada.
+
+— Ainda não.
+
+— Saímos vivos.
+
+— Então conseguimos metade.
+
+Takeshi olhou para ela e, dessa vez, sorriu de verdade.
+
+— Você aprendeu a estragar comemorações com muita elegância.
+
+— Alguém precisa manter sua cabeça pequena o bastante para caber no disfarce.
+
+O riso dele veio baixo. Durou pouco, mas aqueceu a carroça mais do que o sol pálido.
+
+Rin também sentiu vontade de sorrir. Não como à beira do riacho com a borboleta. Não um sorriso limpo. Esse era outro tipo: cansado, cauteloso, nascido não da beleza, mas da sobrevivência. Ela o conteve, por prudência. A estrada ainda era longa. E estradas, como ela aprendera cedo, tinham o péssimo hábito de cobrar confiança antes da chegada.
+
+Atrás deles, as terras Kurotsuki desapareciam aos poucos na névoa distante.
+
+À frente, Hayashi os esperava com seus muros, seus mapas e suas guerras.
+
+Rin segurou as rédeas com mais firmeza.
+
+A máscara de comerciante ainda estava em seu rosto. A de fugitiva, escondida por baixo. A de filha enlutada nunca a deixaria. E agora havia outra, recém-nascida e pesada: a de espiã.
+
+Nenhuma delas parecia caber perfeitamente.
+
+Talvez esse fosse o preço de sobreviver entre homens que exigiam nomes simples para vidas quebradas.
+
+A carroça seguiu pela estrada, levando peles vendidas, moedas honestas, mentiras bem contadas e informações suficientes para transformar uma guerra às cegas em um golpe calculado.
+
+A vitória ainda não existia.
+
+Mas, pela primeira vez, ela tinha um mapa.
 
 ---
 
