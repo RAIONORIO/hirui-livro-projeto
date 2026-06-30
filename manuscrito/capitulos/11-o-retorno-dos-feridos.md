@@ -1,258 +1,1261 @@
 # Capítulo 11
+
 ## O Retorno dos Feridos
 
-A luz do amanhecer não trouxe alívio, apenas contornos nítidos ao desastre.
+A luz do amanhecer não trouxe alívio.
 
-A comitiva que retornou às muralhas de Hayashi não marchava — arrastava-se. O silêncio que os envolvia era mais pesado que qualquer armadura; era o silêncio de homens que haviam espiado o abismo e trazido um pedaço dele consigo.
+Trouxe apenas contornos mais nítidos ao desastre.
 
-À frente, dois soldados carregavam uma maca improvisada. Sobre ela, Katsuro jazia inconsciente, seu rosto pálido como cera de sepultura. O peito, sob ataduras já ensopadas de um vermelho escuro quase negro, subia e descia em ritmo irregular, cada respiração um sibilo úmido e agonizante. Em suas mãos cerradas, mesmo na inconsciência, ele mantinha o cabo da katana de Aço da Lua Negra. A lâmina, envolta em panos, parecia emanar um frio que contrastava com a febre que consumia seu corpo.
+A comitiva que retornou às muralhas de Hayashi não marchava. Arrastava-se. O silêncio ao redor deles era mais pesado que qualquer armadura, um silêncio feito por homens que haviam espiado o abismo e trazido um pedaço dele preso nos ossos.
 
-Takeshi caminhava ao lado da maca, seu próprio rosto marcado por sujeira, sangue ressecado e uma expressão de esgotamento profundo. Seu braço direito estava improvisadamente enfaixado, mas ele o ignorava, seus olhos fixos no rosto do capitão. Os outros dezenove homens — agora dezoito, pois haviam deixado um corpo para trás nas cavernas — marchavam em formação frouxa, seus olhos vazios, ainda reverberando com o rugido sobrenatural e o cheiro de enxofre que impregnava suas memórias.
+À frente, dois soldados carregavam uma maca improvisada. Sobre ela, Katsuro jazia desacordado, o rosto pálido como cera fria. O peito, coberto por ataduras encharcadas de vermelho escuro, subia e descia em ritmo irregular. Cada respiração vinha áspera, curta, como se o próprio corpo discutisse com a morte a posse de mais alguns instantes.
 
-Os guardas no portão principal, ao avistá-los, congelaram por um instante. Não foi o triunfo de uma missão cumprida que viram, mas o rastro de uma catástrofe.
+A katana de Aço da Lua Negra seguia embrulhada em panos grossos, presa junto à maca e vigiada como se fosse uma criatura adormecida. Mesmo coberta, parecia carregar um frio próprio, diferente do ar da manhã. O metal não brilhava. Não chamava atenção. Fazia pior: obrigava os olhos a evitá-lo.
 
-GUARDA DO PORTÃO (gritando para dentro)
+Takeshi caminhava ao lado da maca.
 
-Abrir o portão! É o Capitão Katsuro! Trazendo feridos!
+O rosto dele estava marcado por sujeira, sangue seco e uma exaustão que nem sua teimosia conseguia esconder. O braço direito fora enfaixado às pressas, e a manga rasgada revelava hematomas escuros subindo até o ombro. Ainda assim, ele não olhava para si mesmo. Seus olhos permaneciam fixos no rosto de Katsuro, como se a força de sua vigilância pudesse impedir o capitão de afundar de vez.
 
-O alvoroço que se seguiu foi contido e eficiente. Em minutos, um grupo de assistentes e um homem de meia-idade com uma bolsa de couro — Isao, o curandeiro-chefe do clã — correram em sua direção. O olhar de Isao, ao pousar em Katsuro, endureceu.
+Daigo Kanemori vinha logo atrás, curvado sob o peso da mochila de ferramentas e das bolsas onde o minério restante fora guardado. O ferreiro parecia ter envelhecido anos dentro da montanha. Havia fuligem em sua barba curta, cortes pequenos nas mãos e uma expressão fechada demais até mesmo para um homem naturalmente pouco sociável.
 
-Pelo Céu... O que fizeram com ele? Isso não é um corte de lâmina comum. Os tendões... o osso... parece ter sido esmagado por uma rocha.
+Os outros soldados retornavam em formação irregular.
 
-Foi pior que uma rocha.
+Nenhum deles falava.
 
-Isao não perdeu tempo com perguntas. Ordenou que levassem Katsuro direto para a enfermaria. Antes que o carregassem, Takeshi se aproximou e, com cuidado, tentou soltar a katana das mãos de Katsuro. Os dedos do capitão, em um espasmo de consciência residual, se apertaram com força surpreendente. Takeshi sussurrou, baixo:
+Não porque estivessem disciplinados.
 
-Está seguro, capitão. Eu cuido dela.
+Porque ainda ouviam, dentro da própria cabeça, o rugido da criatura nos túneis. Ainda viam os olhos âmbar. Ainda sentiam o cheiro de sangue negro, pedra úmida e coisa apodrecida. Haviam voltado vivos, sim. Que generosidade absurda do destino: deixá-los respirar para lembrar melhor.
 
-Katsuro não reagiu, mas sua mão relaxou o suficiente para Takeshi envolver a lâmina em seus panos e carregá-la consigo, um fardo tão pesado quanto o moral da tropa.
+Os guardas do portão principal os avistaram e congelaram por um instante.
 
-Enquanto a maioria dos homens se dispersava para os barracões, buscando água, comida e o esquecimento temporário do sono, Takeshi foi conduzido à presença do General Ryoto, o veterano de cabelos grisalhos e olhos que haviam visto demais para se surpreender facilmente.
+Não viram triunfo.
 
-O escritório do general era espartano. Takeshi entrou e ficou em posição de sentido, a katana envolta ainda em suas mãos.
+Viram uma missão cumprida com cheiro de catástrofe.
 
-Subcomandante Kurosawa. Relate.
+Um deles despertou primeiro.
 
-Takeshi narrou os fatos com a economia de palavras de um soldado: a descoberta do minério, a forja, a patrulha nos túneis. Quando chegou à descrição do inimigo, sua voz, antes monótona, vacilou.
+— Abram o portão! — gritou para dentro. — É o Capitão Katsuro! Tragam o curandeiro!
 
-...não era humano, General. Sua força, seus olhos... e quando o capitão o feriu com a lâmina especial, seu braço se regenerou em segundos. Ele... ele arrancou o braço de um homem como se fosse um galho seco.
+O alvoroço que se seguiu foi contido e eficiente. Soldados abriram caminho. Dois assistentes correram para ajudar na maca. Pouco depois, Isao, o curandeiro-chefe do clã, surgiu com uma bolsa de couro presa ao ombro e o rosto de quem já havia visto sangue suficiente para não desperdiçar espanto com pouco.
 
-Ryoto não interrompeu. Seus dedos tamborilavam na mesa de carvalho.
+Quando seus olhos pousaram em Katsuro, porém, sua expressão endureceu.
 
-O capitão... ele enfrentou a criatura sozinho. Cortou-a, vez após vez. A lâmina negra funcionava, senhor. Feriu onde o aço comum não fez nada. Mas... a coisa se regenerava muito rápido. Foi uma luta de exaustão.
+— Coloquem-no no chão. Agora.
 
-Ele fechou os olhos por um segundo, revivendo o momento final.
+A maca foi baixada com cuidado. Isao se ajoelhou ao lado do capitão, afastou parte das ataduras e prendeu a respiração.
 
-O capitão deu um golpe final, quase se sacrificando. Cortou a cabeça da criatura. E ela... não se regenerou. Desfez-se em fumaça. Mas o preço...
+O ferimento no peito era feio demais para uma lâmina comum. A carne estava aberta em linhas profundas, arroxeadas nas bordas. Havia marcas de esmagamento, como se dedos de ferro tivessem tentado arrancar as costelas de dentro para fora. O sangue não corria limpo. Era escuro, espesso em alguns pontos, misturado a uma fuligem que não vinha de fogo humano.
 
-O preço vimos chegar à porta. E a lâmina?
+Isao olhou para Takeshi.
 
-Takeshi estendeu o embrulho. Ryoto desenrolou os panos com cuidado. A katana de Aço da Lua Negra repousou sobre a mesa. Mesmo na luz difusa do escritório, ela era perturbadora. Não refletia a luz; sugava-a. O ar ao seu redor parecia mais frio.
+— O que fez isso?
 
-Então a lenda tem dentes." Ele ergueu os olhos para Takeshi. "E o resto do minério?
+Takeshi demorou um segundo para responder.
 
-Em segurança, com o ferreiro Jiro e sua guarda, general.
+— Uma coisa que parecia soldado.
 
-Bom. Agora, Subcomandante, sua missão muda. Descanso. Você e seus homens estão isentos de dever por 48 horas. Depois, reportaremos ao conselho. O Imperador Hayashi será informado.
+O curandeiro não perguntou mais.
 
-Takeshi acenou com a cabeça, a fadiga repentinamente batendo como uma maré. Mas algo o incomodava.
+Homens inteligentes às vezes reconhecem quando a ignorância, por alguns minutos, ainda é misericórdia.
 
-General... e o capitão? Ele vai...
+— Para a enfermaria — ordenou Isao. — Rápido. E cuidado com o peito. Se ele acordar e tentar se levantar, derrubem-no de volta.
 
-Isso é o melhor. Se há alguém que pode puxar Katsuro de volta do limiar de Yomi — o próprio reino dos mortos —, é ele. Agora, vá. A senhora sua irmã certamente está à procura de notícias.
+Katsuro não acordou.
 
-Rin não esperou notícias na loja. O burburinho anormal no portão principal a alcançara enquanto organizava um novo lote de peles. Um frio que não tinha relação com o vento a percorreu. Ela correu.
+Mas, quando moveram a maca, sua mão se fechou em torno do embrulho da katana. Os dedos apertaram o couro com força absurda para alguém inconsciente.
 
-Ela chegou ao pátio de entrada no exato momento em que a maca com Katsuro era carregada para dentro, seguida por uma fileira de homens andrajosos e taciturnos. Seus olhos voaram sobre os rostos sujos até encontrar o de Takeshi, que saía do escritório do general. A expressão dele — a mistura de alívio, exaustão e um horror residual — lhe contou mais do que qualquer palavra.
+Takeshi se inclinou e segurou o pulso dele.
 
-Takeshi! Pelos deuses, você está... e ele? Katsuro, ele está...
+— Está segura, Capitão — disse baixo, perto o bastante para que só ele ouvisse. — Eu cuido dela.
 
-Está vivo. Mas está muito mal, Rin. Muito mal.
+Por um instante, nada aconteceu.
 
-Ela se soltou, seus olhos escaneando o rosto do irmão, os ferimentos.
+Então os dedos de Katsuro relaxaram.
 
-O que aconteceu lá? Vocês conseguiram o metal?
+Takeshi retirou a lâmina embrulhada e a passou para Daigo.
 
-Conseguimos. E testamos." Ele olhou em direção à enfermaria. "Funciona. Mas o preço... Rin, o que enfrentamos... não eram apenas homens.
+— Não sai de perto disso.
 
-Ele parecia prestes a dizer mais, mas o cansaço o venceu. Seu corpo fraquejou levemente.
+Daigo recebeu o embrulho como quem segurava uma criança perigosa.
 
-Chega por agora. Você precisa descansar. Vamos para casa.
+— Eu preferia carregar uma víbora.
 
-Ela o apoiou, guiando-o para longe do centro do complexo, para a pequena casa que ele ocupava. Pelo caminho, seus olhos não paravam de voltar-se para o edifício da enfermaria, onde a vida do homem que havia virado seu mundo de cabeça para baixo agora penderia na balança.
+— A víbora não mata Oni.
 
-Dentro da casa, ela o fez sentar, trouxe água e um pano úmido. Enquanto limpava a sujeira de seu rosto, seus dedos encontraram um longo corte raso em sua têmpora, já quase fechado, deixando apenas uma linha vermelha finíssima. Estranhamente limpa para um ferimento de batalha tão recente.
+— Ainda assim, menos dramática.
 
-Esse corte... já está quase fechado. Takeshi, isso foi hoje?
+A maca seguiu para dentro. Isao e seus assistentes desapareceram com Katsuro pela passagem da enfermaria, deixando para trás uma trilha de botas sujas e medo mal contido.
 
-Ele tocou o local, confuso.
+Takeshi permaneceu parado no pátio por alguns segundos.
 
-É... deve ter sido uma lasca de rocha, durante a luta. Nem senti.
+Só então percebeu que todos olhavam para ele.
 
-Ele disse isso, mas um vago desconforto pairou entre eles. Rin guardou a observação, focando no presente.
+Soldados. Guardas. Feridos. Homens que estiveram na montanha. Homens que não estiveram, mas sabiam ler o rosto de quem voltava de algo pior que batalha.
 
-Descanse. Eu vou... vou ver se posso ajudar na enfermaria.
+Ele ainda era comandante de campo provisório. Uma responsabilidade recém-entregue, pequena, vigiada, frágil como ponte velha em dia de cheia. Mesmo assim, naquele instante, era o homem que havia trazido a equipe de volta.
 
-Takeshi, já quase adormecendo na cadeira, concordou com a cabeça. Rin saiu, seu coração dividido entre o irmão são e salvo e o capitão à beira da morte.
+Respirou fundo.
 
-Na enfermaria, o ar cheirava a ervas amargas, sangue e tensão. Isao e seus aprendizes trabalhavam em silêncio ao redor do leito de Katsuro. Rin parou na entrada, sua presença silenciosa notada apenas por Isao, que lhe fez um pequeno aceno.
+— Os feridos leves vão para a enfermaria secundária. Quem consegue andar, entrega armas e equipamentos no pátio sul. Ninguém fala sobre o que viu fora do relatório oficial. Ninguém toca no minério. Ninguém chega perto da lâmina sem ordem.
 
-Ela observou. O torso de Katsuro estava nu, revelando não apenas o horrível golpe no peito — uma cratera roxa e negra onde músculos foram esmagados — mas dezenas de outros cortes e hematomas. O que chamou sua atenção, no entanto, foram os ferimentos mais antigos. Um talho profundo no ombro, que deveria tê-lo incapacitado por semanas, já mostrava sinais de cicatrização avançada, as bordas grudadas de forma quase sobrenatural. Assim como o corte na perna.
+Os homens obedeceram.
 
-Isao, enquanto aplicava uma pasta de ervas verde-escuras no ferimento principal, murmurou para seu aprendiz, sem saber que Rin ouvia:
+Não por patente.
 
-Estranho... a taxa de regeneração dele é... anormal. Não é natural. É como se o corpo dele estivesse lutando contra o veneno da ferida com uma fúria que não é humana.
+Por necessidade.
 
-A palavra ecoou na mente de Rin.
+E talvez, o que era mais perigoso, por começo de confiança.
 
-Não é humana.
+Um mensageiro correu para avisar o Major Takeda.
 
-Ela se lembrou do corte quase invisível na têmpora de Takeshi. Do rápido retorno de Katsuro à consciência após o encontro na floresta. Das histórias de resistência sobre-humana.
+Takeda recebeu Takeshi pouco depois, em uma sala de comando próxima ao pátio de treinamento. O ambiente era simples, quase bruto. Uma mesa larga ocupava o centro, coberta por mapas gastos, pedras usadas como marcadores e pequenas lâminas de treino. Na parede, havia armas reais, armas quebradas e um arco antigo partido ao meio, mantido ali não como ornamento, mas como aviso.
 
-Um fio de gelo, fino e penetrante, começou a se formar no fundo de seu estômago. Ela olhou para o rosto pálido e anguloso de Katsuro, para a determinação feroz que mesmo inconsciente parecia emanar dele. E então, olhou em direção à sua casa, onde seu irmão, seu gentil e corajoso irmão, dormia.
+O major estava de pé diante da mesa quando Takeshi entrou. Os braços cruzados. O rosto marcado por cicatrizes antigas. Os olhos estreitos, frios, incapazes de aceitar drama como substituto de informação.
 
-O que nós trouxemos para casa?, a pergunta martelou em sua mente, mais aterrorizante do que qualquer demônio das lendas. E o que, por sangue ou por destino, já estava aqui dentro?
+— Relate, Kurosawa.
 
-Do lado de fora, a primeira noite após o retorno caiu sobre Hayashi. Mas para Rin, e para os segredos que agora respiravam nos corredores da enfermaria e na cicatrização silenciosa de seus homens, a verdadeira escuridão apenas começava a se revelar.
+Takeshi colocou o embrulho da katana de Aço da Lua Negra sobre a mesa.
 
-A noite foi longa e silenciosa na enfermaria. Rin não se moveu da cadeira de madeira rústica ao lado do leito de Katsuro. Isao e seus aprendizes vieram e foram, trocando ataduras, aplicando novas pastas de ervas que cheiravam a terra e raízes amargas, monitorando a febre que queimava como um fogo baixo sob a pele do capitão.
+Depois relatou.
 
-Ela observou tudo com os olhos de uma caçadora. Observou também o que Isao sussurrou — a velocidade perturbadora com que alguns dos cortes menores pareciam se fechar, como se sua carne possuísse uma vontade própria de sobreviver. Cada vez que isso acontecia, uma inquietação crescia dentro dela.
+Falou da entrada na montanha, da descoberta do veio, da forja improvisada de Daigo, da primeira lâmina negra nascida dentro da caverna. Falou da patrulha Kurotsuki, dos soldados comuns e do homem de olhos âmbar que deixou de parecer homem no instante em que se moveu.
 
-O primeiro raio de sol, pálido e frio, filtrou-se pela fresta da janela. Foi nessa luz que os olhos de Katsuro se abriram.
+Sua voz permaneceu estável por mais tempo do que ele esperava.
 
-Não foi um despertar confuso. Foi como se uma corda interna, esticada ao limite, tivesse sido solta. Uma consciência aguda e dolorosa inundou seus sentidos. A dor no peito era um peso esmagador, mas sua mente estava estranhamente clara. Estou em Hayashi. Estou vivo.
+Falhou apenas quando chegou ao combate.
 
-Seu primeiro instinto foi mapear o ambiente. Ao tentar se mover, uma pontada de agonia tão intensa que viu estrelas brancas o reteve no leito. Um gemido baixo, involuntário, escapou de seus lábios.
+— O aço comum quase não fez nada — disse. — Minha lâmina atingiu a pele dele e mal abriu corte. A criatura tinha força demais. Velocidade demais. O Capitão Katsuro usou a katana negra. Ela cortou onde nossas armas não cortavam.
 
-Foi então que seu olhar encontrou ela.
+Takeda ficou imóvel.
 
-Rin. Sentada na cadeira, imóvel. A luz do amanhecer acariciava seu rosto, iluminando as olheiras escuras. Ela não dormira. Estava ali a noite toda. Vigiando.
+— E a regeneração?
 
-Ela o observava com uma expressão que ele nunca vira. Não era pena. Era algo mais profundo, mais analítico. Como se estivesse vendo um quebra-cabeça cujas peças não se encaixavam.
+Takeshi apertou o maxilar.
 
-Katsuro sentiu uma onda de desconforto. Ele, que sempre fora uma fortaleza, estava reduzido àquilo. Deitado, dependente, seu corpo uma paisagem de dor e vulnerabilidade. Tentou endireitar os ombros, forçar uma postura. Outro espasmo de dor, outro ranger de dentes.
+— Aconteceu. Rápida. O braço cortado começou a se formar de novo. Os ferimentos fechavam. Mas onde o Aço da Lua Negra feria, a carne demorava mais. Fumegava. Doía nele.
 
-Não se mexa. Isao disse que se você arrancar os pontos, ele vai te amarrar à cama.
+Takeda descruzou os braços e apoiou uma das mãos sobre a mesa.
 
-Era um tom direto, sem espaço para argumentos. O choque disso o fez parar.
+— Mas não bastava ferir.
 
-Seus olhos se encontraram. A dinâmica entre eles havia virado. Ele, o poder, estava caído. Ela, a observadora, estava no comando daquele pequeno espaço.
+— Não. Só a decapitação encerrou.
 
-Takeshi?
+A palavra ficou pesada na sala.
 
-Está a salvo. Dormindo. Ele te trouxe para casa." Uma pausa. "Vocês trouxeram o que procuravam.
+Takeshi fechou os olhos por um segundo, vendo de novo a linha escura se abrir no pescoço da criatura.
 
-Não era uma pergunta. Seus olhos desceram por um instante em direção ao seu peito enfaixado.
+— Depois disso, o corpo se desfez. Virou fumaça e uma mancha escura na pedra. Não deixou cadáver comum.
 
-Katsuro seguiu seu olhar. A lembrança voltou: o túnel, os olhos âmbar, o golpe final. O triunfo da lâmina negra. O custo.
+Takeda respirou lentamente.
 
-Funcionou.
+Não parecia assustado.
 
-Sim." Ela se inclinou para frente, mais próxima. Naquela proximidade, ele podia ver a sombra de uma dúvida nítida em seus olhos. "Isao... ele comentou. Diz que você se recupera rápido. Muito rápido para alguém com esses ferimentos.
+Parecia confirmar uma suspeita que preferia nunca ter confirmado.
 
-Ela lançou a observação no ar, estudando seu rosto.
+— E Katsuro?
 
-Katsuro ficou imóvel. Ele sabia disso. Sempre soubera, de forma vaga. Cortes que cicatrizavam em dias, ossos que se soldavam em semanas quando deveriam levar meses, uma resistência que ia além do treinamento. Era um fato de sua existência, como a cor de seus olhos. Algo que nunca questionara, apenas aceitara como uma vantagem inexplicável — um dom silencioso que o ajudara a sobreviver onde outros morreram. Mas ouvir aquilo dito em voz alta, com aquele tom de inquietação de Rin... era diferente. Era como se ela estivesse apontando para uma sombra que ele sempre evitara olhar de frente.
+— Foi atingido no peito antes do golpe final. Ele se colocou entre a criatura e eu.
 
-Ele desviou o olhar, fixando-o no feixe de luz solar. A verdade era que ele não tinha uma resposta. Apenas o desconforto crescente de uma pergunta que nunca o atormentara antes: Por quê?
+Takeda ergueu os olhos.
 
-Isao exagera. Sou duro de matar, só isso. Sempre fui." A explicação soou oca, até para ele mesmo.
+Takeshi sustentou o olhar por um instante, depois abaixou a cabeça.
 
-Rin não recuou. Ela viu a evasão, o desconforto genuíno. Não era o tom de quem escondia um segredo, mas de quem era confrontado com um mistério sobre si mesmo.
+— O capitão venceu. Mas quase não voltou.
 
-Takeshi também. Um corte que deveria levar dias para fechar, já está quase sumindo." Ela falou mais suave agora, não mais acusando, mas compartilhando uma descoberta perturbadora. "Vocês são... diferentes. Os dois. Sempre foram?
+O major não respondeu de imediato.
 
-Katsuro fechou os olhos por um momento.Katsuro fechou os olhos por um momento. Ele não tinha memórias de Takeshi criança, é claro. Em vez disso, duas lembranças próprias vieram à tona, como pedaços de um mosaico que nunca fizera sentido:
+Depois apontou para o embrulho.
 
-Primeira memória: Ele próprio, com uns doze anos, ainda se adaptando a Hayashi. Uma queda brutal durante um treino de escalada. Um osso do antebraço quebrado, projetando-se de forma horrível sob a pele. O terror, a dor. Mas em quatro semanas, ele já conseguia segurar uma espada de treino novamente, sob o olhar atônito do instrutor que previra meses de recuperação. Eles disseram que ele era "durão".
+— A lâmina.
 
-Segunda memória: Dois anos depois. Uma doença virulenta varreu o acampamento militar — febres altas, vômitos, homens fortes definhando em dias. Katsuro, exposto desde o início, sentiu apenas uma noite de calafrios e uma fraqueza passageira. Na manhã seguinte, estava de pé, enquanto outros ainda lutavam pela vida. Atribuíram a uma "constituição excepcional".
+Takeshi desenrolou os panos com cuidado.
 
-Sempre houvera explicações. Sempre houvera uma maneira de ignorar o óbvio.
+A katana repousou sobre a mesa como uma noite estreita demais para caber no metal. Mesmo na luz pálida da sala, ela não refletia nada. Parecia sugar a claridade ao redor.
 
-Ele abriu os olhos, seu olhar perdido não no passado de Takeshi, mas no seu próprio — um passado pontilhado por momentos estranhos que ele sempre sepultou sob o rótulo de "sorte" ou "força de vontade".
+Takeda observou por longos segundos.
 
-Sempre... em mim, pelo menos. Cortes que sumiam rápido, doenças que não pegavam. Pensei que era só... resistência." A admissão saiu como um suspiro, carregada do peso de uma dúvida antiga que ele nunca permitira se formar completamente. "É como se meu corpo... obedecesse a um ritmo diferente.
+— Então a lenda tem dentes.
 
-Ele olhou para Rin, e pela primeira vez, ela viu nele não o capitão impenetrável, nem o homem ferido, mas alguém perplexo. Alguém que, no fundo, sempre soube que era diferente, mas nunca parou para questionar o abismo que essa diferença representava.
+Takeshi permaneceu em silêncio.
 
-E Takeshi... você diz que é igual?
+— E o restante do minério?
 
-A pergunta não era de surpresa, mas de busca por confirmação. Se ele era uma anomalia solitária, talvez fosse apenas um capricho da natureza. Mas se havia dois... isso apontava para um padrão. E padrões, no mundo de Katsuro, sempre tinham uma causa. E causas, especialmente em meio a uma guerra contra monstros, raramente eram benignas.
+— Com Daigo Kanemori, sob guarda. Ele disse que há material para poucas lâminas. Talvez menos do que gostaríamos.
 
-Sempre. Apenas... é como somos." A admissão saiu como um suspiro. Era a primeira vez que ele verbalizava isso, mesmo para si mesmo. "Não sabemos porquê. Nunca soubemos.
+— Sempre menos do que gostaríamos — murmurou Takeda. — A guerra gosta de entregar ferramenta curta para serviço grande.
 
-O ar entre eles mudou. A tensão de um segredo a ser desvendado deu lugar a uma estranha cumplicidade diante do inexplicável. Eles não eram mais o capitão e a refugiada, nem mesmo dois aliados com um passado doloroso. Eram duas pessoas diante de um mesmo abismo de perguntas sem respostas — um abismo que, de repente, parecia envolver não apenas Katsuro, mas também Takeshi, o irmão que ela jurava conhecer melhor que ninguém.
+Ele cobriu a katana de novo.
 
-Antes que pudessem mergulhar mais fundo naquele silêncio carregado, passos ecoaram no corredor. O General Ryoto apareceu na porta.
+— Você e os homens da missão estão dispensados por quarenta e oito horas de qualquer dever comum. Depois disso, relatório ao conselho militar. O Imperador Hayashi será informado ainda hoje. Até segunda ordem, o minério fica sob responsabilidade de Daigo e minha supervisão direta.
 
-O momento íntimo se dissolveu. Katsuro endireitou o que pôde no leito, sua expressão endurecendo novamente na máscara do comandante, embora os olhos ainda guardassem a turbulência da conversa. Rin recuou, tornando-se a observadora silenciosa mais uma vez.
+Takeshi assentiu, mas não se moveu.
 
-Mas algo fundamental havia mudado. A inquietação que Rin sentia agora tinha um eco na confusão genuína de Katsuro. O mistério não era mais uma suspeita dela; era uma realidade desconhecida para ambos. E essa realidade, pela primeira vez, os unia em uma busca não por vingança ou sobrevivência, mas por uma verdade sobre suas próprias naturezas — uma verdade que, suspeitavam, estava intrinsecamente ligada ao demônio que juraram destruir.
+Takeda notou.
 
-Dois dias. Para qualquer outro homem, teria sido um tempo de dor lancinante e convalescença forçada. Para Katsuro, foram quarenta e oito horas de uma regeneração que beirava o obsceno.
+— Fale.
 
-Na manhã do terceiro dia, ele já estava de pé no pátio de treinamento, não como um convalescente, mas como um comandante. A dor no peito era uma lembrança incômoda, um peso surdo, mas não mais uma corrente. Sua postura era a de sempre: eixo de aço, olhos frios escaneando os homens. Só um olhar muito atento notaria a palidez residual e a tensão extra nos movimentos dos ombros.
+— O capitão vai viver?
 
-Takeshi, ao seu lado, liderava o novo esquadrão de operações especiais. Os homens — agora apenas dezoito, pois o décimo nono jazia nas cavernas — eram diferentes. Não mais curiosos, mas marcados. Eles haviam visto a escuridão. O treinamento que Katsuro ordenara era brutal, focado em velocidade, silêncio e golpes letais de desmembramento. "Um único corte, na junta certa, é melhor que dez golpes no escudo", sua voz, um pouco mais rouca que o normal, ecoava no pátio. Os homens obedeciam com uma intensidade nova. Eles sabiam, agora, contra o que treinavam.
+O major desviou o olhar para a janela.
 
-Foi nesse fervor que um mensageiro do palácio se aproximou, inclinando-se profundamente.
+— Se alguém em Hayashi pode arrastar Katsuro de volta do limiar de Yomi, é Isao.
 
-Capitão Katsuro. Sua presença é requerida pelo Imperador. Imediatamente.
+A resposta não era conforto.
 
-Katsuro trocou um olhar rápido com Takeshi — um olhar que dizia continue — e seguiu o mensageiro, deixando o som dos golpes secos e dos grunhidos esforçados para trás.
+Era o máximo que um homem prático podia oferecer sem mentir.
 
-O salão do trono de Hayashi era menos opulento que o de Daikan, mas não menos imponente. A luz entrava por altas janelas de papel, iluminando tapetes simples e armaduras ancestrais nas paredes. No centro, sentado em uma cadeira de carvalho que não era um trono, mas claramente o lugar do poder, estava Imperador Hayashi. Um homem na casa dos sessenta, seu rosto era um mapa de rugas profundas e sabedoria pragmática. Seus olhos, da cor de aço enferrujado, fixaram-se em Katsuro enquanto ele se ajoelhava.
+— Vá, Kurosawa. Sua irmã certamente já está procurando notícias.
 
-Levante-se, Capitão. Relatórios me dizem que você voltou do abismo carregando um segredo e deixando um pedaço de sua vitalidade nele. E, no entanto, aqui está.
+Rin não esperou notícias.
 
-A vitalidade retornou, senhor. E o segredo foi confirmado. O metal existe. E funciona.
+O burburinho no portão principal a alcançou enquanto organizava um lote novo de peles na loja. Primeiro, foi uma mudança no som do mercado. Depois, vozes baixas. Depois, um menino passando correndo e dizendo que homens feridos haviam retornado da montanha.
 
-Ele fez um gesto discreto. Um guarda trouxe a katana de Aço da Lua Negra, ainda envolta em panos. O Imperador não pediu para vê-la. Apenas observou o embrulho como se pudesse sentir o frio que emanava.
+Ela não terminou de guardar nada.
 
-O relato do General Ryoto foi... vívido. 'Olhos âmbar, regeneração instantânea, força desumana.' Ele usa palavras que um soldado veterano evita. Isso me diz o quão perturbado ele está." O Imperador fitou Katsuro. "Você viu a mesma coisa?
+Saiu da loja com as mãos ainda manchadas de óleo e correu pelas ruas de Hayashi. As pessoas se afastavam quando a viam passar, não por medo dela, mas por reconhecerem no rosto de Rin algo que ninguém sensato tenta deter.
 
-Vi, senhor. E matei. Com essa lâmina." A afirmação era simples, brutal. "Eles não são invencíveis. Mas são mais fortes, mais rápidos e mais resistentes que qualquer exército que já enfrentamos. Uma guerra frontal, mesmo com os Onizuka ao nosso lado, será um banho de sangue. Provavelmente nosso.
+Chegou ao pátio quando a maca de Katsuro já havia sido levada para dentro. Restavam soldados sujos, assistentes carregando bacias, guardas reorganizando o espaço, homens evitando olhar diretamente uns para os outros.
 
-Daí a necessidade de estratégia, não de força bruta. Você mapeou o território. Temos a arma. Agora, precisamos do momento e do plano." Ele inclinou-se para a frente. "A aliança com Daikan é uma faca de dois gumes. Ele nos vê como força de ataque e nós o vemos como carne para canhão. Mas o tratado é claro: coordenamos o ataque.
+Então viu Takeshi saindo da sala de comando de Takeda.
 
-E é sobre isso que devemos falar com Daikan. Para acertar os detalhes do momento e do como.
+Ele estava vivo.
 
-Exatamente. Você irá até Daikan. Levará os mapas, as observações táticas. Dirá que encontramos um ponto fraco nas defesas deles — o desfiladeiro que seu espião identificou. Dirá que temos um plano para um ataque surpresa coordenado. Mas, Capitão..." A voz do Imperador baixou, tornando-se quase um sussurro cortante. "O metal negro não é um detalhe da aliança. É um trunfo de Hayashi. Um segredo nosso. Daikan não deve saber de sua existência. Se perguntarem como pretendemos vencer criaturas assim, diga que confiamos na estratégia, no número e na surpresa.
+Foi a primeira coisa.
 
-Katsuro entendeu perfeitamente. Era mais do que vantagem tática. Era garantir que, após a poeira baixar, Hayashi emergisse não como um parceiro esgotado, mas como o poder dominante. O Aço da Lua Negra era a chave para o pós-guerra.
+Vivo.
 
-Entendido, senhor. O segredo morre conosco. O General Ryoto supervisionará a forja?
+Depois veio o resto: o braço enfaixado, o corte na têmpora, a palidez sob a sujeira, o modo como ele caminhava como se o corpo inteiro tivesse discutido com uma parede e perdido parcialmente.
 
-Sim. Usaremos o minério com parcimônia. Cada lâmina será destinada a um guerreiro de elite, treinado por você e pelo Subcomandante Kurosawa. Eles serão a ponta de lança, a faca que corta a garganta do demônio enquanto o exército de Daikan distrai o corpo.
+Rin atravessou o pátio.
 
-Era um plano arriscado, quase desonesto, mas pragmaticamente brilhante. Usariam os Onizuka como um martelo, enquanto a lâmina oculta de Hayashi daria o golpe mortal.
+— Takeshi.
 
-Parta imediatamente. Leve uma pequena comitiva. O Subcomandante Kurosawa fica aqui. Sua presença é necessária para os treinamentos especiais e... para garantir que nenhum olho curioso se aproxime da forja.
+Ele ergueu o olhar.
 
-Era também uma mensagem clara: Takeshi era valioso, mas também um possível ponto de pressão. Mantê-lo em Hayashi era mantê-lo seguro, e manter Katsuro focado.
+Por um instante, o rosto dele se desfez. A máscara de soldado, comandante provisório, homem que dá ordens mesmo sangrando, tudo caiu. Restou apenas o irmão cansado demais para fingir.
 
-Katsuro inclinou-se profundamente.
+Ela segurou seus braços.
 
-Farei com que Daikan dirija sua fúria para onde precisamos, senhor. E voltarei com uma data para o início do fim de Kurotsuki.
+— Você está ferido.
 
-Ao sair do salão, Katsuro não foi direto para os estábulos. Parou nos jardins de treinamento, onde Takeshi agora demonstrava uma técnica de desarme contra dois oponentes. Seus movimentos eram fluidos, quase demasiado rápidos. Katsuro observou por um minuto, a inquietação daquela manhã na enfermaria voltando à tona. O que somos, que nos regeneramos assim? Que nos movemos assim?
+— Pouco.
 
-Abafou o pensamento. Havia uma guerra para planejar e um tirano para enganar.
+— Nunca confio quando você usa essa palavra.
 
-Capitão? Notícias?
+— Então bastante pouco.
 
-O Imperador ordenou. Parto para Daikan para acertar os detalhes finais da aliança. Você fica. O General Ryoto lhe dará uma nova tarefa: supervisionar a segurança da forja especial. Ninguém, ninguém, entra ou sai sem autorização direta dele ou minha. Treine seu esquadrão. Eles serão os primeiros a empunhar o novo aço.
+Rin olhou na direção da enfermaria.
 
-Takeshi pareceu querer protestar, perguntar, mas leu a decisão absoluta no rosto de Katsuro. Assentiu.
+— E Katsuro?
 
-Sim, capitão. E... Rin?
+A resposta demorou um segundo a mais do que deveria.
 
-Katsuro hesitou por uma fração de segundo.
+— Vivo.
 
-Diga a ela que cumprirei nossa parte do trato. E que ela deve continuar sua investigação." Foi o mais perto que pôde chegar de admitir, diante de outros, que havia algo a investigar. "Hayashi é sua casa agora. Mantenha-a segura.
+Ela sentiu o peito apertar.
 
-Sem mais cerimônias, Katsuro virou-se. Uma hora depois, montado em seu cavalo, com uma pequena guarda de cinco homens leais e os preciosos mapas de reconhecimento, ele deixava as muralhas de Hayashi para trás. Seu destino: a corte do homem que representava tudo o que ele desprezava — arrogância, crueldade, poder obtuso. Mas Daikan era um mal necessário. Um martelo para ser bandido contra uma bigorna de pesadelo.
+— Só isso?
 
-E enquanto o martelo se preparava para golpear, nas forjas escondidas de Hayashi, sob o olhar atento de Ryoto e a guarda feroz de Takeshi, as primeiras lâminas de Aço da Lua Negra começavam a tomar forma, seu frio silencioso prometendo um inverno de morte para os filhos da escuridão. A guerra não era mais uma questão de "se", mas de "quando". E Katsuro ia garantir que, quando chegasse a hora, Hayashi fosse a mão que segurava a faca, não a carne que a recebia.
+Takeshi engoliu em seco.
+
+— Está muito mal, Rin.
+
+A rua, o pátio, o mundo inteiro pareceram diminuir.
+
+— Vocês conseguiram o metal?
+
+— Conseguimos.
+
+— E funcionou?
+
+Takeshi olhou para as próprias mãos.
+
+— Funcionou.
+
+Ela esperou.
+
+— Mas?
+
+Ele demorou antes de falar.
+
+— Mas o preço quase foi o capitão. E o que encontramos lá... não era só um soldado forte. Não era homem comum.
+
+Rin não perguntou mais.
+
+Não ali.
+
+Havia coisas que, se arrancadas em público, sangravam errado.
+
+Takeshi cambaleou de leve. Foi pouco, quase nada, mas Rin percebeu. Claro que percebeu. Sobreviver ao lado de Takeshi por tantos anos era também aprender a notar quando ele estava prestes a cair e ainda tentando convencer o chão a esperar.
+
+— Chega — disse ela. — Você vai sentar.
+
+— Preciso ver os homens.
+
+— Você vai sentar antes de virar mais um problema para Isao.
+
+— Rin...
+
+— Não começa.
+
+Ele não começou.
+
+Pequenas vitórias ainda contam, mesmo em guerras condenadas.
+
+Ela o levou até a casa simples que ele ocupava. No caminho, seus olhos voltaram mais de uma vez para a enfermaria. Takeshi viu, mas não comentou.
+
+Dentro da casa, Rin o fez sentar e trouxe água, pano limpo e ervas básicas. Enquanto lavava a sujeira do rosto dele, seus dedos encontraram um corte raso na têmpora. A ferida deveria estar vermelha, aberta, latejando. Em vez disso, já parecia fechada nas bordas, reduzida a uma linha fina demais para algo que acontecera havia tão pouco tempo.
+
+Rin parou.
+
+— Esse corte foi na montanha?
+
+Takeshi tocou o local com a ponta dos dedos.
+
+— Acho que sim. Lasca de pedra, talvez. Nem senti.
+
+— Já está quase fechado.
+
+Ele deu de ombros.
+
+— Melhor assim.
+
+Rin permaneceu olhando.
+
+— Takeshi.
+
+— O quê?
+
+— Isso não é normal.
+
+A frase ficou entre eles.
+
+Ele desviou o olhar primeiro.
+
+— Nunca fomos muito normais.
+
+Era uma tentativa de humor.
+
+Ruim.
+
+E, por isso mesmo, muito dele.
+
+Rin não insistiu naquele instante. Guardou a inquietação no fundo do peito, onde já havia outras coisas demais empilhadas. Medo, culpa, raiva, lembranças do pai, lembranças da mãe, o rosto de Goratsu caído na poeira, o corpo de Katsuro sendo carregado para a enfermaria.
+
+Aparentemente, o coração humano era só um armazém mal administrado.
+
+— Durma — disse ela.
+
+— Vou só fechar os olhos um pouco.
+
+— Essa é literalmente a definição de dormir.
+
+Takeshi não respondeu.
+
+A cabeça dele tombou para trás poucos instantes depois.
+
+Rin permaneceu ali até ter certeza de que a respiração do irmão era regular. Depois cobriu-o com um manto, pegou o pano sujo de sangue e saiu em silêncio.
+
+A enfermaria cheirava a ervas amargas, sangue e tensão.
+
+Isao e dois aprendizes trabalhavam ao redor do leito de Katsuro. Bacias de água escura estavam no chão. Panos usados se acumulavam em um canto. A luz entrava fraca pelas janelas de papel, dando ao ambiente uma palidez de mundo entre vida e morte.
+
+Rin parou à entrada.
+
+Isao a viu. Por um momento, pareceu prestes a mandá-la embora. Depois olhou para o rosto dela e decidiu economizar saliva, sinal de inteligência rara e bem-vinda.
+
+— Não atrapalhe — disse apenas.
+
+Ela entrou.
+
+Katsuro estava sem a parte superior das roupas, o torso coberto por ataduras recentes. O ferimento principal no peito fora limpo, mas mesmo assim parecia brutal. Havia manchas roxas se espalhando sob a pele, cortes nas costelas, marcas profundas no ombro e um talho na lateral do abdômen.
+
+Rin aproximou-se devagar.
+
+O homem que ela vira comandar salas inteiras com uma palavra agora jazia imóvel, dependente da mão de curandeiros, com a respiração presa entre dor e febre. A vulnerabilidade dele a atingiu de um modo que ela não quis nomear.
+
+Mas o que realmente fez seu estômago gelar foram os ferimentos menores.
+
+Alguns já estavam fechando.
+
+Não cicatrizados por completo, mas avançados demais. As bordas da pele se juntavam com uma urgência estranha, como se o corpo de Katsuro lutasse contra a morte com uma ferocidade que passava da natureza. Isao viu aquilo também.
+
+O curandeiro aplicava uma pasta escura no ferimento do peito quando murmurou para um dos aprendizes:
+
+— Estranho. A carne está reagindo rápido demais. Não o bastante para salvá-lo sem cuidado, mas rápido demais para ser comum.
+
+— Veneno? — perguntou o aprendiz.
+
+— Não. O contrário. Como se o corpo dele queimasse o veneno antes que ele se espalhe.
+
+Rin ficou imóvel.
+
+As palavras atravessaram sua mente.
+
+Rápido demais.
+
+Como o corte de Takeshi.
+
+Como certas histórias antigas que Seijuro evitava terminar.
+
+Como o medo que surgia sempre que os Kurotsuki eram mencionados.
+
+Ela olhou para Katsuro.
+
+Depois para a porta, na direção distante da casa onde Takeshi dormia.
+
+O que nós trouxemos para casa?, pensou.
+
+A pergunta parecia errada.
+
+Pior: talvez a pergunta certa fosse outra.
+
+O que já estava aqui antes de voltarem?
+
+A noite caiu sobre Hayashi, mas Rin não saiu da enfermaria.
+
+Sentou-se em uma cadeira de madeira ao lado do leito de Katsuro e permaneceu ali enquanto Isao e os aprendizes iam e vinham, trocando ataduras, medindo febre, forçando pequenas doses de infusão amarga entre os lábios dele quando possível.
+
+Ninguém perguntou por que ela ficava.
+
+Ninguém precisava.
+
+O silêncio da madrugada tornou a respiração de Katsuro o centro do mundo. Às vezes ela falhava. Às vezes vinha profunda demais, como se ele emergisse de uma água escura. Em certos momentos, os dedos dele se moviam sobre o lençol, procurando uma espada que não estava ali.
+
+Rin observava.
+
+Não como amante, porque essa palavra era fácil demais e pequena demais para o que havia entre eles. Não como subordinada. Não como dívida.
+
+Observava como alguém que já perdera muita coisa e reconhecia o som exato de outra perda se aproximando.
+
+Perto do amanhecer, a febre diminuiu.
+
+A luz pálida entrou pela fresta da janela, tocando o rosto de Katsuro. Foi nessa claridade fria que seus olhos se abriram.
+
+Não houve confusão.
+
+Esse foi o primeiro detalhe que incomodou Rin.
+
+Ele despertou como um homem puxado de volta por uma ordem interna. Os olhos mapearam o teto, a parede, a janela, a porta, o espaço ao lado do leito. Quando tentou mover o corpo, a dor o esmagou de volta.
+
+Um som baixo escapou entre seus dentes.
+
+Rin se inclinou.
+
+— Não se mexa. Isao disse que, se você arrancar os pontos, ele vai amarrá-lo à cama.
+
+Katsuro virou os olhos para ela.
+
+Houve um segundo de surpresa.
+
+Depois algo mais difícil de ler.
+
+— Rin.
+
+A voz saiu rouca.
+
+— Infelizmente para você, sim.
+
+Ele tentou respirar fundo e se arrependeu imediatamente. O rosto endureceu, mas não rápido o bastante para esconder a dor.
+
+— Takeshi?
+
+— Vivo. Dormindo. Teimoso, ferido e irritante, então nada fora do padrão.
+
+Katsuro fechou os olhos por um instante.
+
+Não era apenas alívio.
+
+Era culpa também.
+
+— Ele me trouxe de volta?
+
+— Ele e os outros. Mas acho que Takeshi está pessoalmente convencido de que pode arrastar qualquer pessoa para fora da morte se xingar o suficiente.
+
+— Funciona com ele.
+
+Rin não sorriu.
+
+Katsuro percebeu.
+
+O silêncio entre os dois mudou de forma. A preocupação abriu espaço para a pergunta que ela havia guardado a noite inteira.
+
+— Isao disse que sua recuperação é rápida demais.
+
+Os olhos de Katsuro se fixaram nela.
+
+Ela continuou:
+
+— Não o bastante para fingirmos que você não quase morreu. Mas rápida demais para um corpo comum. Alguns cortes já estão fechando.
+
+Ele ficou imóvel.
+
+Rin observou o rosto dele com atenção. Procurava mentira, evasão, uma máscara. Encontrou desconforto. Genuíno. Profundo.
+
+Isso a assustou mais.
+
+— Takeshi também — disse ela. — Um corte na têmpora dele já está quase sumindo. Ele disse que foi uma lasca de pedra. Aconteceu ontem.
+
+Katsuro desviou o olhar para a janela.
+
+A luz fraca desenhava sombras no rosto dele, aprofundando o cansaço.
+
+— Sempre fui difícil de matar.
+
+— Essa não é uma resposta.
+
+— É a única que tenho.
+
+Rin permaneceu calada.
+
+Katsuro fechou os olhos. Por um instante, a máscara do capitão pareceu rachar não pela dor do ferimento, mas por algo mais antigo.
+
+— Quando eu era criança, quebrei o braço durante um treino de escalada. O osso saiu do lugar. Disseram que eu ficaria meses sem segurar uma espada. Em poucas semanas, eu já treinava de novo.
+
+Rin escutou sem interromper.
+
+— Mais tarde, uma febre varreu o acampamento. Homens adultos ficaram dias entre vômitos e delírios. Alguns morreram. Eu tive calafrios uma noite. Na manhã seguinte, estava de pé.
+
+Ele abriu os olhos.
+
+— Sempre houve explicações. Constituição forte. Sorte. Treinamento. Teimosia. As pessoas gostam de explicações pequenas. Cabem melhor na boca.
+
+— E você acreditou nelas?
+
+Katsuro demorou.
+
+— Era conveniente.
+
+A honestidade crua ficou entre eles.
+
+Rin baixou o olhar para as próprias mãos.
+
+— Takeshi era assim desde menino. Se machucava mais que qualquer criança sensata. Sarava antes do esperado. Meu pai dizia que ele tinha sangue quente demais para obedecer à doença.
+
+— E você?
+
+A pergunta veio baixa.
+
+Rin ergueu os olhos.
+
+— Eu?
+
+— Você se curava assim?
+
+Ela pensou na cicatriz do braço.
+
+Na febre após o metal quente.
+
+Na noite em que quase morreu de dor.
+
+Na pele que fechara, mas deixara uma marca brutal, branca, torta, permanente. Se havia algo diferente nela, não a salvara da cicatriz. Talvez só tivesse garantido que sobrevivesse para carregá-la. Que gentileza nojenta do sangue, se fosse esse o caso.
+
+— Não como vocês — respondeu. — Ou talvez eu nunca tenha tido ferimentos suficientes para saber. Exceto este.
+
+Ela tocou o braço coberto pela manga.
+
+Katsuro entendeu.
+
+Não pediu para ver.
+
+Um mérito pequeno, mas relevante.
+
+— Se isso tem ligação com os Kurotsuki... — começou ela.
+
+— Não sabemos.
+
+— Mas pode ter.
+
+Ele não respondeu.
+
+Porque sim era resposta demais.
+
+A porta se abriu antes que o silêncio crescesse.
+
+O Major Takeda entrou, acompanhado por Isao. O momento íntimo se recolheu como lâmina na bainha. Katsuro tentou se endireitar no leito.
+
+Isao apontou um dedo para ele.
+
+— Tente levantar e eu quebro sua outra costela só para equilibrar.
+
+Katsuro parou.
+
+Takeda olhou para Rin por um instante, avaliando sua presença, mas não a expulsou.
+
+— Bom. Está vivo.
+
+— Também fico satisfeito em vê-lo, Major — respondeu Katsuro, rouco.
+
+— Guarde sarcasmo para quando conseguir respirar sem parecer uma porta velha.
+
+Rin quase aprovou Isao e Takeda no mesmo instante. Quase.
+
+Takeda aproximou-se do leito.
+
+— O Imperador foi informado. O conselho se reunirá ao meio-dia. Você não irá.
+
+Katsuro abriu a boca.
+
+Isao tossiu de propósito.
+
+— Eu posso relatar — disse Katsuro.
+
+— Pode deitar e tentar não morrer — respondeu Isao.
+
+Takeda ignorou a disputa.
+
+— Takeshi já relatou o essencial. Daigo confirmou o minério. A lâmina está sob guarda. Por enquanto, o Aço da Lua Negra permanece segredo restrito.
+
+Katsuro assentiu devagar.
+
+— Daikan não deve saber.
+
+— Não saberá — disse Takeda. — Ainda.
+
+A palavra pesou.
+
+— Ele é aliado — continuou o major. — Não é confiável. Há uma diferença, embora nobres gostem de fingir que tratados transformam cobras em cães de guarda.
+
+Rin ouviu em silêncio.
+
+Katsuro fechou os olhos por um segundo, reunindo foco.
+
+— Precisamos usar os Onizuka como distração. Um ataque frontal deles prende as forças Kurotsuki enquanto nossas unidades menores entram pelos pontos vulneráveis.
+
+— Essa discussão acontecerá quando você conseguir ficar sentado sem sangrar no lençol — disse Isao.
+
+Katsuro olhou para ele.
+
+— Sempre tão encorajador.
+
+— Eu curo corpos, não egos.
+
+Takeda apoiou as mãos atrás das costas.
+
+— Descanse por dois dias. No terceiro, se Isao permitir, falará com o Imperador. Até lá, Takeshi permanece com a unidade experimental sob minha supervisão. Daigo inicia os testes de forja com o minério restante. E Rin...
+
+O olhar do major se voltou para ela.
+
+Rin endireitou a postura.
+
+— Sim?
+
+— A sua loja fica no mercado. O mercado escuta tudo antes dos salões. Se ouvir rumores sobre Onizuka, Kurotsuki ou movimentação de comerciantes, informe Takeshi ou Katsuro. Se nenhum dos dois estiver disponível, informe diretamente a mim.
+
+Katsuro olhou para Takeda.
+
+Rin percebeu o que aquilo significava.
+
+Não era caridade.
+
+Era inserção.
+
+Um papel.
+
+Uma posição dentro da estrutura de Hayashi, ainda informal, ainda cautelosa, mas real.
+
+— Entendido — disse ela.
+
+Takeda assentiu.
+
+— Bom. Porque guerras são vencidas por lâminas, mapas e gente que presta atenção enquanto idiotas discursam.
+
+A frase pareceu agradar Isao.
+
+Takeda saiu pouco depois.
+
+Isao verificou as ataduras de Katsuro, resmungou sobre comandantes que tratavam ferimentos abertos como inconveniência administrativa e também se retirou, deixando um aprendiz no corredor.
+
+Rin permaneceu.
+
+Katsuro olhou para ela.
+
+— Você ouviu o major.
+
+— Ouvi.
+
+— Isso pode colocá-la em risco.
+
+Ela inclinou levemente a cabeça.
+
+— Diferente de antes, quando minha vida era tranquila?
+
+Ele não respondeu.
+
+Ponto para ela. Pequena vitória, cenário horrível.
+
+— Eu sei ouvir — continuou Rin. — Sei negociar. Sei quando alguém mente sobre preço, rota ou medo. Se Hayashi quer usar isso, eu uso também.
+
+— Para quê?
+
+— Para garantir que nenhum homem decida meu futuro em uma sala fechada sem que eu tenha pelo menos uma faca escondida na mesa.
+
+Katsuro a observou por um longo instante.
+
+— Seu pai ficaria orgulhoso.
+
+A frase a atingiu sem aviso.
+
+Rin desviou o olhar.
+
+— Meu pai queria que eu fugisse de tudo isso.
+
+— Talvez as duas coisas possam ser verdade.
+
+Ela respirou fundo.
+
+— Talvez.
+
+Dois dias se passaram.
+
+Para qualquer homem comum, teriam sido dias de dor lancinante e convalescença forçada. Para Katsuro, foram quarenta e oito horas de uma recuperação perturbadora demais para ser chamada apenas de força.
+
+Isao não escondia o desconforto.
+
+O ferimento principal ainda era grave. Katsuro não estava curado, nem perto disso. Mas a velocidade com que a febre cedeu, com que os cortes menores fecharam e com que a carne ao redor do golpe começou a reagir tornou impossível fingir normalidade.
+
+No terceiro dia, Katsuro já estava sentado na enfermaria quando Isao entrou e o encontrou tentando vestir a parte superior do uniforme.
+
+O curandeiro parou à porta.
+
+— Eu devia ter pedido cordas.
+
+— Tenho uma reunião com o Imperador.
+
+— Você tem um buraco no peito.
+
+— Parcialmente fechado.
+
+— Que argumento idiota e tecnicamente irritante.
+
+Katsuro amarrou a faixa com dificuldade.
+
+— Posso andar.
+
+— Pode cair também. A natureza é cheia de possibilidades.
+
+Mesmo assim, Isao não o impediu.
+
+Apenas reforçou as ataduras, entregou-lhe um frasco de infusão amarga e apontou para ele como se fosse um criminoso reincidente.
+
+— Se abrir esse ferimento, não vou costurar com delicadeza.
+
+— Nunca costura.
+
+— Fico feliz que note meu estilo.
+
+Katsuro deixou a enfermaria mancando pouco, rígido demais para admitir dor e pálido o bastante para enganar ninguém.
+
+No pátio de treinamento, os golpes secos de madeira contra madeira ecoavam desde cedo.
+
+Takeshi conduzia a unidade experimental sob o olhar impiedoso do Major Takeda. Não era subcapitão oficial. Não era comandante reconhecido por todos. Ainda era um homem em teste, colocado à frente porque sobrevivera à montanha e trouxera outros de volta.
+
+Mas os soldados o escutavam agora.
+
+Não com obediência cega.
+
+Com atenção.
+
+Isso era melhor.
+
+Takeshi demonstrava uma técnica de desarme contra dois oponentes quando percebeu Katsuro aproximando-se. A hesitação quase lhe custou um golpe na lateral. Ele desviou no último instante, prendeu a arma de treino do adversário e o derrubou no chão.
+
+Takeda viu a distração.
+
+— Morto — disse.
+
+Takeshi olhou para ele.
+
+— Eu derrubei os dois.
+
+— E olhou para o lado no meio do combate. O terceiro, que você não viu, enfiou uma lança nas suas costelas. Morto.
+
+Takeshi respirou fundo.
+
+— Entendido.
+
+Katsuro se aproximou.
+
+— Major.
+
+Takeda avaliou o rosto pálido dele.
+
+— Parece péssimo.
+
+— Também é um prazer vê-lo.
+
+— Isao deixou você sair ou você fugiu?
+
+— Uma diferença administrativa.
+
+Takeda soltou um som seco.
+
+Katsuro olhou para Takeshi.
+
+— Como estão os homens?
+
+Takeshi enxugou o suor do queixo com o dorso da mão.
+
+— Menos ruins do que ontem. Ainda barulhentos demais. Ainda confiantes demais quando acertam um golpe.
+
+— Corrija isso.
+
+— Estou tentando. Takeda ajuda quebrando o orgulho deles a cada cinco minutos.
+
+— O orgulho é uma articulação vulnerável — disse o major. — Gosto de atacar cedo.
+
+Katsuro quase sorriu.
+
+Antes que pudesse responder, um mensageiro do palácio entrou no pátio e se inclinou.
+
+— Capitão Katsuro. O Imperador Hayashi requer sua presença imediatamente.
+
+O pátio silenciou por alguns instantes.
+
+Katsuro assentiu.
+
+Depois olhou para Takeshi.
+
+— Continue.
+
+A palavra era simples.
+
+Mas carregava confiança suficiente para fazer Takeshi endireitar a postura.
+
+— Sim, Capitão.
+
+Katsuro seguiu o mensageiro.
+
+O salão de Hayashi era menos opulento que o de Daikan, mas muito mais imponente. Não tentava esmagar visitantes com ouro ou excesso. Sua força vinha da ordem. Tapetes simples, madeira escura, armaduras ancestrais nas paredes, estandartes claros marcados pelo corvo negro. O poder ali não precisava gritar. Já havia aprendido que gritos costumam esconder insegurança, vício favorito dos tiranos.
+
+O Imperador Hayashi estava sentado em uma cadeira larga de carvalho, que não era exatamente um trono, embora ninguém precisasse explicar onde o poder repousava. Era um homem na casa dos sessenta, cabelos grisalhos presos com sobriedade, olhos duros como metal gasto e um rosto marcado por decisões que provavelmente haviam custado vidas.
+
+Takeda estava à direita dele.
+
+Katsuro se ajoelhou.
+
+— Levante-se, Capitão — disse o Imperador. — Relatórios me dizem que você voltou das montanhas carregando uma resposta e quase deixando a vida em troca dela.
+
+Katsuro se ergueu com cuidado.
+
+— A resposta foi confirmada, senhor. O minério existe. A lâmina funciona.
+
+Um guarda trouxe a katana de Aço da Lua Negra, ainda envolta em panos. Não a colocou nas mãos do Imperador. Apenas a repousou sobre um suporte baixo diante dele.
+
+Hayashi observou o embrulho.
+
+— Takeda me falou de olhos âmbar, regeneração, força desumana e um corpo que se desfez depois da morte. Palavras que um veterano evita se deseja dormir em paz.
+
+Takeda não reagiu.
+
+O Imperador voltou-se para Katsuro.
+
+— Você viu tudo isso?
+
+— Vi.
+
+— E matou a criatura com essa lâmina?
+
+— Sim, senhor.
+
+A resposta não teve orgulho.
+
+Só peso.
+
+— Então eles não são invencíveis — disse Hayashi.
+
+— Não. Mas estão muito longe de serem homens comuns. Uma guerra frontal contra Kurotsuki, mesmo com apoio Onizuka, será massacre. Nosso massacre, se lutarmos como sempre lutamos.
+
+O Imperador assentiu lentamente.
+
+— Então não lutaremos como sempre.
+
+Katsuro manteve a postura.
+
+— Precisamos de duas guerras ao mesmo tempo. Uma visível e uma oculta. A visível atrai os olhos de Tetsu-zan, prende tropas, força reação. A oculta corta suprimentos, elimina comandantes, explora pontos fracos e usa o Aço da Lua Negra apenas quando necessário.
+
+Takeda cruzou os braços.
+
+— Daikan servirá bem para a guerra visível.
+
+— Ele acredita que servirá como conquistador — disse Katsuro. — Será mais útil como distração.
+
+O Imperador não demonstrou reprovação.
+
+Homens de poder chamavam isso de estratégia. Homens pobres chamariam de usar gente como carne. Os dois estariam certos. A diferença é que apenas um dos grupos costuma escrever os registros oficiais.
+
+— A aliança com Daikan é uma faca de dois gumes — disse Hayashi. — Ele nos vê como instrumento. Nós o vemos da mesma forma. Por enquanto, isso mantém a balança equilibrada.
+
+— Precisamos acertar com ele o momento do ataque e a rota de avanço — disse Katsuro. — Mas o Aço da Lua Negra deve permanecer fora da negociação.
+
+— Concordo.
+
+A palavra do Imperador caiu como selo.
+
+— Daikan não saberá do metal. Não saberá da quantidade extraída. Não saberá quantas lâminas poderemos forjar. Se perguntar como pretendemos enfrentar os horrores que ele tanto teme, diremos o que homens como Daikan gostam de ouvir: disciplina, número, surpresa e coragem.
+
+Takeda soltou um leve som pelo nariz.
+
+— Mentiras com uniforme.
+
+— Estratégia diplomática — corrigiu o Imperador.
+
+— Como eu disse.
+
+Hayashi ignorou a insolência com a naturalidade de quem já se acostumou a soldados úteis e mal-educados.
+
+— Daigo Kanemori ficará responsável pela forja sob supervisão direta de Takeda. O minério será usado com parcimônia. Cada lâmina será destinada apenas a guerreiros selecionados. Homens rápidos, disciplinados, capazes de atingir juntas, pescoço e pontos de imobilização.
+
+— Takeshi e a unidade experimental podem ser preparados para isso — disse Katsuro.
+
+Takeda ergueu os olhos.
+
+— Takeshi ainda está em teste.
+
+— Eu sei.
+
+— Você confia nele?
+
+Katsuro pensou no túnel. Na parede contra a qual Takeshi fora arremessado. Na ordem dada durante a fuga. Nos homens obedecendo não por etiqueta, mas porque precisavam de alguém que não tremesse.
+
+— Confio no que ele faz quando não tem tempo de fingir.
+
+Takeda aceitou a resposta.
+
+O Imperador inclinou-se levemente.
+
+— Você irá a Daikan.
+
+Katsuro não se surpreendeu.
+
+— Quando?
+
+— Hoje. Levará os mapas, as observações táticas e a proposta de ataque coordenado. Dirá que encontramos um ponto vulnerável nas rotas Kurotsuki. Não dirá como. Não dirá onde estivemos. Não dirá o que trouxemos.
+
+— Entendido.
+
+— Levará uma comitiva pequena. Cinco homens. Takeda permanece em Hayashi. Takeshi também.
+
+Katsuro ergueu o olhar.
+
+— Takeshi ficaria mais útil comigo se Daikan tentar algum movimento.
+
+— Justamente por isso fica — disse o Imperador. — Daikan já humilhou a família dele. Goratsu já veio ao nosso mercado procurar Rin. A presença de Takeshi em terras Onizuka seria faísca perto de óleo derramado. Ainda precisaremos desse incêndio, Capitão. Mas não hoje.
+
+Katsuro ficou em silêncio.
+
+O Imperador continuou:
+
+— Além disso, ele será necessário na segurança da forja. O segredo do metal vale mais que qualquer provocação que Daikan possa oferecer.
+
+— Sim, senhor.
+
+— Quanto a Rin Kurosawa...
+
+O nome alterou o ar por uma fração de segundo.
+
+Katsuro não se moveu.
+
+Hayashi percebeu mesmo assim. Claro que percebeu. Imperadores não envelhecem em guerra por falta de olhos.
+
+— Takeda me informou que ela possui valor comercial e informacional. O mercado fala com ela. Isso a torna útil.
+
+— E vulnerável — disse Katsuro.
+
+— As duas coisas costumam andar juntas.
+
+Resposta desagradável.
+
+Verdadeira, ainda pior.
+
+— Ela permanecerá em Hayashi, sob proteção discreta. Não quero soldados plantados diante da loja como se ela fosse prisioneira em vitrine. Mas também não quero Goratsu ou qualquer outro verme Onizuka respirando perto dela sem que saibamos.
+
+— Entendido.
+
+O Imperador apoiou as mãos nos braços da cadeira.
+
+— Vá a Daikan. Alimente sua ambição. Dê a ele uma guerra que ele acredite poder vencer. Enquanto isso, nós preparamos a lâmina que ele não verá.
+
+Katsuro inclinou-se.
+
+— Farei com que Daikan olhe para o campo de batalha certo, senhor.
+
+— E voltará com uma data.
+
+— Sim.
+
+Ao deixar o salão, Katsuro não foi direto aos estábulos.
+
+Passou primeiro pelo pátio de treinamento.
+
+Takeshi ainda treinava com a unidade. Suava, sangrava em um pequeno corte no lábio e parecia irritado, o que nele era sinal de funcionamento adequado. Takeda observava tudo como um carrasco paciente.
+
+Katsuro chamou-o com um gesto.
+
+Takeshi se aproximou.
+
+— Capitão.
+
+— Parto para as terras de Daikan dentro de uma hora. O Imperador ordenou que você permaneça em Hayashi.
+
+Takeshi não gostou.
+
+Aprendeu, ao menos, a não demonstrar tudo no primeiro segundo. Crescimento raro. Quase comovente, se não fosse tão inconveniente.
+
+— Entendido.
+
+— Takeda lhe dará ordens formais. Você continuará o treinamento da unidade e ficará destacado para a segurança da forja de Daigo. Ninguém entra. Ninguém sai. Ninguém fala sobre o metal.
+
+— Sim, Capitão.
+
+Katsuro o encarou com atenção.
+
+— Isso não é castigo.
+
+— Parece um pouco.
+
+— É responsabilidade.
+
+— Responsabilidade costuma parecer castigo. Estou percebendo.
+
+Katsuro quase sorriu.
+
+— Também quero que mantenha Rin informada do necessário. Do necessário, Takeshi. Não de tudo que sua ansiedade mandar despejar sobre ela.
+
+— Ela vai perceber se eu esconder.
+
+— Eu sei.
+
+— Então?
+
+Katsuro olhou na direção do mercado, ainda que a loja dela não fosse visível dali.
+
+— Diga que vou cumprir nossa parte. Diga que Daikan será conduzido para onde precisamos. E diga que continue ouvindo o mercado.
+
+Takeshi observou o rosto dele.
+
+— Só isso?
+
+Katsuro demorou meio segundo.
+
+— Diga que Hayashi é a casa dela agora. E que casas precisam ser protegidas por quem vive nelas.
+
+Takeshi assentiu devagar.
+
+— Ela vai entender o que isso quer dizer.
+
+— Sim.
+
+— E vai fingir que não gostou.
+
+— Também.
+
+Pela primeira vez naquele dia, Takeshi sorriu de leve.
+
+Depois o sorriso morreu.
+
+— Volte vivo.
+
+Katsuro olhou para ele.
+
+— Isso é uma ordem?
+
+— Uma sugestão agressiva.
+
+— Vou considerar.
+
+Takeshi inclinou a cabeça.
+
+— Capitão.
+
+Katsuro se afastou.
+
+O dia avançava sobre Hayashi com uma normalidade quase ofensiva. Ferreiros trabalhavam. Crianças corriam. Comerciantes discutiam preços. Na forja isolada, Daigo começava a preparar o fogo que moldaria novas lâminas negras. No pátio, Takeda destruía ilusões de competência com a mesma eficiência de sempre. Na enfermaria, Isao reclamava para qualquer pessoa viva sobre pacientes idiotas.
+
+E, no mercado, Rin abriu sua loja.
+
+Quando Takeshi apareceu, ela estava medindo uma tira de couro para um cliente. Esperou terminar a venda, entregou o troco correto e só então olhou para o irmão.
+
+— Você veio com essa cara de quem traz notícia ruim tentando parecer notícia neutra.
+
+— Katsuro parte para Daikan hoje.
+
+Rin ficou quieta.
+
+O cliente, sensato ou covarde, saiu depressa.
+
+— Sozinho?
+
+— Com cinco homens.
+
+— Ferido desse jeito?
+
+— Isao tentou impedir.
+
+— E falhou.
+
+— De forma humilhante para a medicina.
+
+Rin apoiou as mãos no balcão.
+
+— Por quê?
+
+— O Imperador quer uma data para o ataque. Katsuro vai levar a Daikan só a parte da história que ele precisa ouvir.
+
+— Não o metal.
+
+— Não o metal.
+
+Ela assentiu.
+
+— E você?
+
+— Fico. Segurança da forja. Treinamento da unidade. Ordens de Takeda.
+
+— Você odiou.
+
+— Um pouco.
+
+— Mas entendeu.
+
+— Infelizmente. Crescer é uma armadilha.
+
+Rin respirou fundo e olhou para a rua.
+
+— Ele mandou mais alguma coisa?
+
+Takeshi hesitou apenas o bastante.
+
+Rin percebeu.
+
+— Takeshi.
+
+— Disse que vai cumprir a parte dele. Que Daikan será conduzido para onde precisamos. E que você deve continuar ouvindo o mercado.
+
+— Isso parece o Katsuro.
+
+— Também disse que Hayashi é sua casa agora. E que casas precisam ser protegidas por quem vive nelas.
+
+Rin ficou imóvel.
+
+A frase entrou nela com cuidado e feriu mesmo assim.
+
+Casa.
+
+A palavra ainda parecia perigosa.
+
+Uma casa podia ser invadida. Queimada. Tomada por impostos. Esvaziada pela doença. Marcada por luto. Mas também podia ser reaberta pela manhã, com cheiro de couro e madeira, com uma chave no bolso e nome próprio na porta.
+
+— Ele disse isso?
+
+— Disse.
+
+Rin desviou o olhar para as prateleiras.
+
+— Então ele aprendeu a falar como uma pessoa quase normal.
+
+— Não exagera.
+
+Ela pegou uma peça de couro e começou a dobrá-la, mais para ocupar as mãos do que por necessidade.
+
+— Takeshi.
+
+— Sim?
+
+— Cuide da forja.
+
+— Vou cuidar.
+
+— E cuide de você.
+
+Ele fez uma careta.
+
+— Isso costuma ser mais difícil.
+
+— Treine.
+
+Takeshi sorriu de lado.
+
+Depois ficou sério.
+
+— Rin, sobre o corte...
+
+Ela ergueu os olhos.
+
+— Eu sei.
+
+— Não sabemos o que significa.
+
+— Não.
+
+— Talvez não seja nada.
+
+Rin olhou para a própria manga, para o lugar onde a cicatriz dormia sob o tecido.
+
+— Nesta família, quando algo parece não ser nada, normalmente vira tragédia em três capítulos.
+
+Takeshi soltou uma risada curta, sem alegria.
+
+— Justo.
+
+Ela se aproximou e ajeitou a faixa solta no ombro dele.
+
+— Quando Katsuro voltar, vamos descobrir o que isso significa. Sobre ele. Sobre você. Talvez sobre mim.
+
+— E se não gostarmos da resposta?
+
+Rin puxou a faixa com força suficiente para fazê-lo reclamar.
+
+— Gostar nunca foi requisito.
+
+Takeshi olhou para ela por um instante.
+
+Depois assentiu.
+
+Do lado de fora, sinos discretos anunciaram a movimentação de uma pequena comitiva deixando o complexo principal.
+
+Katsuro estava partindo para as terras de Daikan.
+
+Rin não saiu correndo para vê-lo.
+
+Não queria transformar aquilo em despedida. Não queria dar ao mercado, aos soldados, aos olhos curiosos de Hayashi qualquer pedaço do que ainda não sabia nomear. Ficou dentro da loja, atrás do balcão, com as mãos sobre o couro dobrado.
+
+Mas ouviu os cascos.
+
+Ouviu o movimento dos guardas.
+
+Ouviu a distância se abrindo.
+
+E, quando o som desapareceu, sentiu como se uma parte do ar tivesse sido retirada da loja.
+
+Takeshi percebeu.
+
+Não comentou.
+
+Pela primeira vez, talvez tivesse aprendido que algumas dores não precisam de testemunha falando em cima.
+
+Na estrada, Katsuro seguia rumo às terras Onizuka com cinco homens e um ferimento ainda aberto sob as roupas. Levava mapas, mentiras úteis e a tarefa ingrata de alimentar a ambição de Daikan sem entregar a verdadeira arma de Hayashi.
+
+Em Hayashi, Daigo acendia a forja.
+
+Takeda escolhia quais homens mereciam sequer tocar uma lâmina negra.
+
+Takeshi vigiava um segredo que poderia mudar a guerra.
+
+Rin abria a loja para clientes que ainda não sabiam que o destino do continente talvez estivesse sendo decidido entre correias de couro, rumores de mercado e metal roubado de uma montanha amaldiçoada.
+
+O Aço da Lua Negra existia.
+
+A criatura havia morrido.
+
+Katsuro sobrevivera.
+
+Takeshi começava a ser seguido.
+
+E o sangue dos dois se curava rápido demais.
+
+Vitórias, naquele mundo, nunca vinham sozinhas.
+
+Sempre traziam perguntas.
+
+E algumas perguntas tinham dentes.
